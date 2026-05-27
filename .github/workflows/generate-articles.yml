@@ -1,28 +1,21 @@
 name: 📰 Publicar Artigos
 
 on:
-  # ── PUBLICAÇÃO DIÁRIA ─────────────────────────────────────────────
   schedule:
-    # 08:00 BRT (horário de Brasília = UTC-3) → 11:00 UTC — Edição da manhã
-    - cron: "0 11 * * *"
-    # 14:00 BRT → 17:00 UTC — Edição da tarde (mercado em movimento)
-    - cron: "0 17 * * 1-5"
-
-  # ── BREAKING NEWS (disparo manual) ────────────────────────────────
-  # Acesse: GitHub → Actions → "Publicar Artigos" → Run workflow
+    - cron: "0 11 * * *"      # 08:00 BRT — edição da manhã
+    - cron: "0 17 * * 1-5"    # 14:00 BRT — edição da tarde (seg-sex)
   workflow_dispatch:
     inputs:
       breaking_topic:
-        description: "⚡ Notícia urgente (deixe vazio para edição normal)"
+        description: "⚡ Notícia urgente (vazio = edição normal)"
         required: false
         type: string
       num_articles:
-        description: "Quantidade de artigos (padrão: 6)"
+        description: "Quantidade de artigos"
         required: false
         default: "6"
         type: string
 
-# Garante que apenas uma publicação rode por vez
 concurrency:
   group: publish
   cancel-in-progress: false
@@ -31,35 +24,22 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # necessário para fazer commit e push
+      contents: write
 
     steps:
-      - name: 📥 Checkout do repositório
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
-      - name: 🐍 Configurar Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
-
-      - name: 📦 Instalar dependências
-        run: pip install anthropic
 
       - name: 📰 Gerar artigos
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SITE_DOMAIN: ${{ vars.SITE_DOMAIN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_DOMAIN: ${{ vars.SITE_DOMAIN || 'capitalinteligente.com.br' }}
           BREAKING_TOPIC: ${{ inputs.breaking_topic || '' }}
           NUM_ARTICLES: ${{ inputs.num_articles || '6' }}
         run: python scripts/generate_articles.py
-
-      - name: 🔍 Verificar arquivos gerados
-        run: |
-          echo "--- articles.json ---"
-          python -c "import json; data=json.load(open('articles.json')); [print(f'  {a[\"date\"]} | {a[\"category\"]:18} | {a[\"title\"][:60]}') for a in data[:10]]"
 
       - name: 💾 Commit e push
         run: |
@@ -72,6 +52,3 @@ jobs:
             git commit -m "📰 Edicao de $(date +'%d/%m/%Y')" || echo "Nada para commitar"
           fi
           git push
-
-      - name: ✅ Concluído
-        run: echo "🎉 Artigos publicados!"
