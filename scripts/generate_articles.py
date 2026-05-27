@@ -46,15 +46,17 @@ CENTO_BY_CATEGORY = {
 
 # ── OPENROUTER API ───────────────────────────────────────────────────────────
 FALLBACK_MODELS = [
-    "meta-llama/llama-3.3-70b-instruct:free",
-    "mistralai/mistral-7b-instruct:free",
     "google/gemma-3-12b-it:free",
     "qwen/qwen3-8b:free",
+    "deepseek/deepseek-r1:free",
+    "microsoft/phi-4:free",
+    "meta-llama/llama-3.3-70b-instruct:free",
 ]
 
 def call_groq(prompt: str) -> str:
     """Chama OpenRouter com retry e fallback de modelos."""
     for model in FALLBACK_MODELS:
+        success = False
         for attempt in range(3):
             payload = json.dumps({
                 "model": model,
@@ -76,21 +78,19 @@ def call_groq(prompt: str) -> str:
             try:
                 with urllib.request.urlopen(req, timeout=120) as resp:
                     data = json.loads(resp.read())
-                print(f"[ok] Modelo: {model}")
+                print(f"[ok] Modelo usado: {model}")
                 return data["choices"][0]["message"]["content"]
             except urllib.error.HTTPError as e:
                 body = e.read().decode("utf-8", errors="replace")
-                print(f"[aviso] {model} tentativa {attempt+1}: HTTP {e.code}")
+                print(f"[aviso] {model} tentativa {attempt+1}: HTTP {e.code} — {body[:150]}")
                 if e.code == 429:
                     wait = 20 * (attempt + 1)
-                    print(f"  Rate limit — aguardando {wait}s...")
+                    print(f"  Aguardando {wait}s antes de tentar novamente...")
                     time.sleep(wait)
                 else:
-                    print(f"  Erro: {body[:200]}")
-                    break  # erro não-429: tenta próximo modelo
-        else:
-            continue  # esgotou tentativas nesse modelo, tenta próximo
-        break  # sucesso
+                    break  # erro não-429: vai pro próximo modelo sem retry
+        # se saiu do loop sem retornar, tenta próximo modelo
+        print(f"[skip] {model} falhou, tentando próximo...")
 
     raise RuntimeError("Todos os modelos falharam após retries.")
 
