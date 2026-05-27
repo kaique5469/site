@@ -46,11 +46,12 @@ CENTO_BY_CATEGORY = {
 
 # ── OPENROUTER API ───────────────────────────────────────────────────────────
 FALLBACK_MODELS = [
-    "google/gemma-3-12b-it:free",
-    "qwen/qwen3-8b:free",
-    "deepseek/deepseek-r1:free",
-    "microsoft/phi-4:free",
-    "meta-llama/llama-3.3-70b-instruct:free",
+    "openai/gpt-oss-120b:free",
+    "deepseek/deepseek-v4-flash:free",
+    "google/gemma-4-31b-it:free",
+    "nvidia/nemotron-3-super-120b-a12b:free",
+    "z-ai/glm-4.5-air:free",
+    "openai/gpt-oss-20b:free",
 ]
 
 def call_groq(prompt: str) -> str:
