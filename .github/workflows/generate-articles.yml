@@ -13,7 +13,7 @@ on:
       num_articles:
         description: "Quantidade de artigos"
         required: false
-        default: "2"
+        default: "6"
         type: string
 
 concurrency:
