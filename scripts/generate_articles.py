@@ -8,6 +8,7 @@ import os
 import json
 import re
 import sys
+import time
 import urllib.request
 import urllib.error
 import unicodedata
@@ -22,17 +23,10 @@ SITEMAP_FILE  = SITE_DIR / "sitemap.xml"
 DOMAIN = os.getenv("SITE_DOMAIN", "capitalinteligente.com.br")
 
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta/models/"
-GEMINI_KEY  = GEMINI_API_KEY
-
-# Modelos a tentar em ordem
-GEMINI_MODELS = [
-    "gemini-2.5-flash-preview-05-20",
-    "gemini-2.0-flash",
-    "gemini-1.5-flash-latest",
-    "gemini-1.5-flash",
-    "gemini-pro",
-]
+GEMINI_URL = (
+    "https://generativelanguage.googleapis.com/v1beta/models/"
+    "gemini-2.0-flash:generateContent?key=" + GEMINI_API_KEY
+)
 
 MARKET_CONTEXT = """
 - Ibovespa em torno de 176.000 pontos, com volatilidade em maio
@@ -53,35 +47,34 @@ CENTO_BY_CATEGORY = {
 
 
 # ── GEMINI API ────────────────────────────────────────────────────────────────
-def call_gemini(prompt: str) -> str:
+def call_gemini(prompt: str, retries: int = 4) -> str:
     payload = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.8, "maxOutputTokens": 8192}
     }).encode("utf-8")
 
-    last_error = None
-    for model in GEMINI_MODELS:
-        url = f"{GEMINI_BASE}{model}:generateContent?key={GEMINI_KEY}"
-        print(f"  Tentando modelo: {model}")
+    for attempt in range(1, retries + 1):
         try:
             req = urllib.request.Request(
-                url, data=payload,
+                GEMINI_URL, data=payload,
                 headers={"Content-Type": "application/json"},
                 method="POST"
             )
             with urllib.request.urlopen(req, timeout=120) as resp:
                 data = json.loads(resp.read())
-            print(f"  ✅ Sucesso com modelo: {model}")
             return data["candidates"][0]["content"]["parts"][0]["text"]
         except urllib.error.HTTPError as e:
             body = e.read().decode("utf-8", errors="replace")
-            print(f"  ❌ {model} → HTTP {e.code}: {body[:300]}")
-            last_error = e
+            if e.code == 429:
+                wait = 30 * attempt
+                print(f"  ⏳ Rate limit (tentativa {attempt}/{retries}), aguardando {wait}s...")
+                time.sleep(wait)
+            else:
+                raise RuntimeError(f"Gemini HTTP {e.code}: {body[:400]}")
         except Exception as e:
-            print(f"  ❌ {model} → {e}")
-            last_error = e
+            raise RuntimeError(f"Gemini erro: {e}")
 
-    raise RuntimeError(f"Todos os modelos falharam. Último erro: {last_error}")
+    raise RuntimeError("Rate limit persistente após múltiplas tentativas.")
 
 
 # ── GERAR ARTIGOS ─────────────────────────────────────────────────────────────
