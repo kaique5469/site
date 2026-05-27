@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Capital Inteligente — Gerador automático de artigos
-Usa Google Gemini API (gratuita) via GitHub Actions.
+Usa OpenRouter API (gratuita) via GitHub Actions.
 """
 
 import os
@@ -22,9 +22,9 @@ ARTICLES_JSON = SITE_DIR / "articles.json"
 SITEMAP_FILE  = SITE_DIR / "sitemap.xml"
 DOMAIN = os.getenv("SITE_DOMAIN", "capitalinteligente.com.br")
 
-GROQ_API_KEY = os.environ["GROQ_API_KEY"]
-GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "llama-3.3-70b-versatile"
+OPENROUTER_API_KEY = os.environ["OPENROUTER_API_KEY"]
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_MODEL = "meta-llama/llama-3.3-70b-instruct:free"
 
 MARKET_CONTEXT = """
 - Ibovespa em torno de 176.000 pontos, com volatilidade em maio
@@ -44,23 +44,23 @@ CENTO_BY_CATEGORY = {
 }
 
 
-# ── GROQ API ──────────────────────────────────────────────────────────────────
+# ── OPENROUTER API ───────────────────────────────────────────────────────────
 def call_groq(prompt: str) -> str:
+    """Chama OpenRouter (compatível com OpenAI). Nome mantido por compatibilidade."""
     payload = json.dumps({
-        "model": GROQ_MODEL,
+        "model": OPENROUTER_MODEL,
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.8,
         "max_tokens": 8192,
     }).encode("utf-8")
 
-    key_preview = GROQ_API_KEY[:8] + "..." if len(GROQ_API_KEY) > 8 else "(vazia)"
-    print(f"[debug] Chave Groq: {key_preview} (len={len(GROQ_API_KEY)})")
-
     req = urllib.request.Request(
-        GROQ_URL, data=payload,
+        OPENROUTER_URL, data=payload,
         headers={
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {GROQ_API_KEY}",
+            "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+            "HTTP-Referer": f"https://{DOMAIN}",
+            "X-Title": "Capital Inteligente",
         },
         method="POST"
     )
@@ -70,7 +70,7 @@ def call_groq(prompt: str) -> str:
         return data["choices"][0]["message"]["content"]
     except urllib.error.HTTPError as e:
         body = e.read().decode("utf-8", errors="replace")
-        print(f"[erro Groq] HTTP {e.code}: {body}")
+        print(f"[erro OpenRouter] HTTP {e.code}: {body}")
         raise
 
 
