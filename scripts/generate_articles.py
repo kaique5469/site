@@ -45,33 +45,54 @@ CENTO_BY_CATEGORY = {
 
 
 # ── OPENROUTER API ───────────────────────────────────────────────────────────
-def call_groq(prompt: str) -> str:
-    """Chama OpenRouter (compatível com OpenAI). Nome mantido por compatibilidade."""
-    payload = json.dumps({
-        "model": OPENROUTER_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.8,
-        "max_tokens": 8192,
-    }).encode("utf-8")
+FALLBACK_MODELS = [
+    "meta-llama/llama-3.3-70b-instruct:free",
+    "mistralai/mistral-7b-instruct:free",
+    "google/gemma-3-12b-it:free",
+    "qwen/qwen3-8b:free",
+]
 
-    req = urllib.request.Request(
-        OPENROUTER_URL, data=payload,
-        headers={
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-            "HTTP-Referer": f"https://{DOMAIN}",
-            "X-Title": "Capital Inteligente",
-        },
-        method="POST"
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            data = json.loads(resp.read())
-        return data["choices"][0]["message"]["content"]
-    except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", errors="replace")
-        print(f"[erro OpenRouter] HTTP {e.code}: {body}")
-        raise
+def call_groq(prompt: str) -> str:
+    """Chama OpenRouter com retry e fallback de modelos."""
+    for model in FALLBACK_MODELS:
+        for attempt in range(3):
+            payload = json.dumps({
+                "model": model,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.8,
+                "max_tokens": 8192,
+            }).encode("utf-8")
+
+            req = urllib.request.Request(
+                OPENROUTER_URL, data=payload,
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+                    "HTTP-Referer": f"https://{DOMAIN}",
+                    "X-Title": "Capital Inteligente",
+                },
+                method="POST"
+            )
+            try:
+                with urllib.request.urlopen(req, timeout=120) as resp:
+                    data = json.loads(resp.read())
+                print(f"[ok] Modelo: {model}")
+                return data["choices"][0]["message"]["content"]
+            except urllib.error.HTTPError as e:
+                body = e.read().decode("utf-8", errors="replace")
+                print(f"[aviso] {model} tentativa {attempt+1}: HTTP {e.code}")
+                if e.code == 429:
+                    wait = 20 * (attempt + 1)
+                    print(f"  Rate limit — aguardando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"  Erro: {body[:200]}")
+                    break  # erro não-429: tenta próximo modelo
+        else:
+            continue  # esgotou tentativas nesse modelo, tenta próximo
+        break  # sucesso
+
+    raise RuntimeError("Todos os modelos falharam após retries.")
 
 
 # ── GERAR ARTIGOS ─────────────────────────────────────────────────────────────
