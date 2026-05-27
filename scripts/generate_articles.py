@@ -53,6 +53,9 @@ def call_groq(prompt: str) -> str:
         "max_tokens": 8192,
     }).encode("utf-8")
 
+    key_preview = GROQ_API_KEY[:8] + "..." if len(GROQ_API_KEY) > 8 else "(vazia)"
+    print(f"[debug] Chave Groq: {key_preview} (len={len(GROQ_API_KEY)})")
+
     req = urllib.request.Request(
         GROQ_URL, data=payload,
         headers={
@@ -61,9 +64,14 @@ def call_groq(prompt: str) -> str:
         },
         method="POST"
     )
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        data = json.loads(resp.read())
-    return data["choices"][0]["message"]["content"]
+    try:
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            data = json.loads(resp.read())
+        return data["choices"][0]["message"]["content"]
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        print(f"[erro Groq] HTTP {e.code}: {body}")
+        raise
 
 
 # ── GERAR ARTIGOS ─────────────────────────────────────────────────────────────
