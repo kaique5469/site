@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capital Inteligente — Blog de Finanças e Investimentos</title>
+<meta name="description" content="Análises diárias sobre investimentos, renda fixa, renda variável, saúde financeira e criptomoedas para o investidor brasileiro.">
+<meta property="og:title" content="Capital Inteligente — Blog de Finanças e Investimentos">
+<meta property="og:description" content="Análises diárias sobre investimentos, renda fixa, renda variável e saúde financeira para o investidor brasileiro.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://capitalinteligente.com.br/">
+<meta property="og:site_name" content="Capital Inteligente">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://capitalinteligente.com.br/">
+<link rel="icon" href="/favicon.ico">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Capital Inteligente",
+  "description": "Análises diárias sobre investimentos, renda fixa, renda variável e saúde financeira para o investidor brasileiro.",
+  "url": "https://capitalinteligente.com.br/",
+  "inLanguage": "pt-BR",
+  "publisher": {"@type": "Organization", "name": "Capital Inteligente", "url": "https://capitalinteligente.com.br/"}
+}
+</script>
+<style>
+:root {
+  --bg: #060d1f; --bg2: #0d1a35; --card: #0f2040; --card-h: #152850;
+  --accent: #00d68f; --glow: rgba(0,214,143,.15);
+  --text: #e8f0fe; --muted: #8ba4c8; --dim: #4a6080;
+  --border: #1a3050; --border-a: #00d68f40;
+  --inv: #1a3a6a; --inv-t: #6ab0ff;
+  --rf:  #1a3a2a; --rf-t:  #5ddba0;
+  --rv:  #3a1a3a; --rv-t:  #d47aff;
+  --sf:  #3a2a1a; --sf-t:  #ffb347;
+  --btc: #1a2a3a; --btc-t: #f7931a;
+}
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); color:var(--text); font-family:'Segoe UI',system-ui,sans-serif; min-height:100vh; }
+
+/* HEADER */
+header {
+  background:linear-gradient(180deg,#070e22 0%,var(--bg) 100%);
+  border-bottom:1px solid var(--border);
+  padding:0 24px; position:sticky; top:0; z-index:100;
+}
+.header-inner { max-width:1100px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; height:64px; }
+.logo { display:flex; align-items:center; gap:10px; text-decoration:none; }
+.logo-icon { width:36px; height:36px; background:linear-gradient(135deg,var(--accent),#00a8ff); border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:16px; font-weight:900; color:#060d1f; flex-shrink:0; }
+.logo-text { font-size:18px; font-weight:700; color:var(--text); }
+.logo-text span { color:var(--accent); }
+#headerDate { font-size:12px; color:var(--dim); text-transform:uppercase; letter-spacing:.5px; }
+
+/* HERO */
+.hero { background:linear-gradient(135deg,#070e22,#0a1a38 50%,#070e22); border-bottom:1px solid var(--border); padding:44px 24px 36px; position:relative; overflow:hidden; }
+.hero::before { content:''; position:absolute; top:-80px; right:-80px; width:300px; height:300px; background:radial-gradient(circle,rgba(0,214,143,.07),transparent 70%); pointer-events:none; }
+.hero-inner { max-width:1100px; margin:0 auto; }
+.hero-badge { display:inline-flex; align-items:center; gap:6px; background:var(--glow); border:1px solid var(--border-a); border-radius:100px; padding:4px 12px; font-size:11px; font-weight:600; color:var(--accent); text-transform:uppercase; letter-spacing:.8px; margin-bottom:14px; }
+.live-dot { width:6px; height:6px; background:var(--accent); border-radius:50%; animation:pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.5;transform:scale(.8)} }
+.hero h1 { font-size:clamp(22px,4vw,32px); font-weight:800; line-height:1.2; margin-bottom:10px; letter-spacing:-.5px; }
+.hero h1 span { color:var(--accent); }
+.hero p { font-size:15px; color:var(--muted); max-width:520px; line-height:1.6; }
+
+/* FILTER */
+.filter-bar { padding:14px 24px; background:var(--bg2); border-bottom:1px solid var(--border); overflow-x:auto; scrollbar-width:none; }
+.filter-bar::-webkit-scrollbar { display:none; }
+.filter-inner { max-width:1100px; margin:0 auto; display:flex; gap:8px; }
+.filter-btn { padding:6px 14px; border-radius:100px; border:1px solid var(--border); background:transparent; color:var(--muted); font-size:13px; font-weight:500; cursor:pointer; white-space:nowrap; transition:all .2s; }
+.filter-btn:hover, .filter-btn.active { background:var(--glow); border-color:var(--border-a); color:var(--accent); }
+
+/* LAYOUT */
+.main { max-width:1100px; margin:0 auto; padding:32px 24px; display:grid; grid-template-columns:1fr 300px; gap:32px; }
+@media(max-width:768px){ .main{grid-template-columns:1fr; padding:20px 16px;} .sidebar{display:none;} }
+
+/* SECTION TITLE */
+.section-title { font-size:13px; font-weight:600; color:var(--dim); text-transform:uppercase; letter-spacing:1px; margin-bottom:20px; display:flex; align-items:center; gap:8px; }
+.section-title::after { content:''; flex:1; height:1px; background:var(--border); }
+
+/* ARTICLE CARDS */
+.articles-grid { display:flex; flex-direction:column; gap:16px; }
+.article-card { background:var(--card); border:1px solid var(--border); border-radius:14px; padding:22px; cursor:pointer; transition:all .25s; position:relative; overflow:hidden; text-decoration:none; display:block; color:inherit; }
+.article-card::before { content:''; position:absolute; top:0; left:0; right:0; height:2px; background:linear-gradient(90deg,var(--accent),#00a8ff); opacity:0; transition:opacity .25s; }
+.article-card:hover { background:var(--card-h); border-color:var(--border-a); transform:translateY(-2px); box-shadow:0 8px 32px rgba(0,0,0,.3),0 0 20px rgba(0,214,143,.05); }
+.article-card:hover::before, .article-card.featured::before { opacity:1; }
+.article-card.featured { border-color:var(--border-a); background:linear-gradient(135deg,var(--card),#0d2545); }
+.card-header { display:flex; align-items:center; justify-content:space-between; margin-bottom:12px; }
+.category-tag { font-size:11px; font-weight:700; padding:3px 10px; border-radius:100px; text-transform:uppercase; letter-spacing:.5px; }
+.tag-inv { background:var(--inv); color:var(--inv-t); }
+.tag-rf  { background:var(--rf);  color:var(--rf-t);  }
+.tag-rv  { background:var(--rv);  color:var(--rv-t);  }
+.tag-sf  { background:var(--sf);  color:var(--sf-t);  }
+.tag-btc { background:var(--btc); color:var(--btc-t); }
+.read-time { font-size:11px; color:var(--dim); }
+.article-title { font-size:17px; font-weight:700; line-height:1.4; margin-bottom:10px; }
+.article-card.featured .article-title { font-size:20px; }
+.article-summary { font-size:14px; color:var(--muted); line-height:1.6; margin-bottom:16px; }
+.card-footer { display:flex; align-items:center; justify-content:space-between; }
+.article-date { font-size:12px; color:var(--dim); }
+.read-link { font-size:12px; color:var(--accent); font-weight:600; display:flex; align-items:center; gap:4px; }
+.article-card:hover .read-link { gap:8px; }
+
+/* BREAKING BADGE */
+.breaking-badge { display:inline-flex; align-items:center; gap:5px; background:rgba(255,79,106,.15); border:1px solid rgba(255,79,106,.3); border-radius:100px; padding:2px 8px; font-size:10px; font-weight:700; color:#ff4f6a; text-transform:uppercase; letter-spacing:.5px; margin-bottom:8px; }
+
+/* EMPTY / LOADING */
+.loading-state { display:flex; flex-direction:column; gap:16px; }
+.skeleton { background:linear-gradient(90deg,var(--card) 25%,var(--card-h) 50%,var(--card) 75%); background-size:200% 100%; animation:shimmer 1.5s infinite; border-radius:14px; border:1px solid var(--border); }
+@keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+.skeleton-tall  { height:180px; }
+.skeleton-short { height:130px; }
+.empty-msg { text-align:center; padding:48px 24px; color:var(--dim); font-size:14px; }
+
+/* SIDEBAR */
+.sidebar { display:flex; flex-direction:column; gap:24px; }
+.sidebar-widget { background:var(--card); border:1px solid var(--border); border-radius:14px; padding:20px; }
+.widget-title { font-size:12px; font-weight:700; text-transform:uppercase; letter-spacing:.8px; color:var(--dim); margin-bottom:14px; }
+.market-item { display:flex; align-items:center; justify-content:space-between; padding:8px 0; border-bottom:1px solid var(--border); }
+.market-item:last-child { border-bottom:none; }
+.market-name { font-size:13px; font-weight:600; }
+.market-sub  { font-size:11px; color:var(--dim); }
+.market-val  { font-size:13px; font-weight:700; padding:2px 8px; border-radius:6px; }
+.pos  { color:#00d68f; background:rgba(0,214,143,.1); }
+.neg  { color:#ff4f6a; background:rgba(255,79,106,.1); }
+.neu  { color:var(--muted); background:rgba(139,164,200,.1); }
+.tip-box { background:var(--glow); border:1px solid var(--border-a); border-radius:10px; padding:14px; }
+.tip-box p { font-size:13px; color:var(--muted); line-height:1.6; }
+.cento-sidebar { display:flex; align-items:center; gap:10px; background:var(--bg); border:1px solid var(--border); border-radius:10px; padding:12px; text-decoration:none; transition:border-color .2s; margin-top:4px; }
+.cento-sidebar:hover { border-color:var(--border-a); }
+.cento-icon-sm { width:36px; height:36px; background:linear-gradient(135deg,#1a1a2e,#16213e); border:1px solid var(--border); border-radius:8px; display:flex; align-items:center; justify-content:center; font-size:15px; font-weight:900; color:var(--accent); flex-shrink:0; }
+.cento-info-sm { flex:1; }
+.cento-name-sm { font-size:13px; font-weight:700; color:var(--text); }
+.cento-meta-sm { font-size:11px; color:var(--dim); }
+.cento-cta-sm  { font-size:11px; font-weight:700; color:var(--accent); white-space:nowrap; }
+
+/* FOOTER */
+footer { text-align:center; padding:32px 24px; border-top:1px solid var(--border); margin-top:24px; }
+footer p { font-size:12px; color:var(--dim); line-height:1.8; }
+footer span { color:var(--accent); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-icon">CI</div>
+      <span class="logo-text">Capital <span>Inteligente</span></span>
+    </div>
+    <span id="headerDate"></span>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-badge"><div class="live-dot"></div> Edição de hoje</div>
+    <h1>Investimentos &amp; <span>Saúde Financeira</span></h1>
+    <p>Análises diárias sobre o mercado brasileiro — renda fixa, renda variável, educação financeira e criptomoedas.</p>
+  </div>
+</div>
+
+<div class="filter-bar">
+  <div class="filter-inner">
+    <button class="filter-btn active" onclick="filter('todos',this)">Todos</button>
+    <button class="filter-btn" onclick="filter('Investimentos',this)">📈 Investimentos</button>
+    <button class="filter-btn" onclick="filter('Renda Fixa',this)">🏦 Renda Fixa</button>
+    <button class="filter-btn" onclick="filter('Renda Variável',this)">📊 Renda Variável</button>
+    <button class="filter-btn" onclick="filter('Saúde Financeira',this)">💰 Saúde Financeira</button>
+    <button class="filter-btn" onclick="filter('Criptomoedas',this)">₿ Criptomoedas</button>
+  </div>
+</div>
+
+<div class="main">
+  <!-- ARTICLES -->
+  <div>
+    <div class="section-title">Artigos de Hoje</div>
+    <div class="articles-grid" id="grid">
+      <div class="loading-state">
+        <div class="skeleton skeleton-tall"></div>
+        <div class="skeleton skeleton-short"></div>
+        <div class="skeleton skeleton-short"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <!-- Market -->
+    <div class="sidebar-widget">
+      <div class="widget-title">📊 Mercado</div>
+      <div class="market-item">
+        <div><div class="market-name">Ibovespa</div><div class="market-sub">B3 — Brasil</div></div>
+        <span class="market-val" id="ibov">—</span>
+      </div>
+      <div class="market-item">
+        <div><div class="market-name">Selic</div><div class="market-sub">Taxa Básica</div></div>
+        <span class="market-val neu" id="selic">—</span>
+      </div>
+      <div class="market-item">
+        <div><div class="market-name">Dólar</div><div class="market-sub">BRL/USD</div></div>
+        <span class="market-val" id="dollar">—</span>
+      </div>
+      <div class="market-item">
+        <div><div class="market-name">Bitcoin</div><div class="market-sub">BTC/BRL</div></div>
+        <span class="market-val" id="btc">—</span>
+      </div>
+    </div>
+
+    <!-- Dica -->
+    <div class="sidebar-widget">
+      <div class="widget-title">💡 Dica do Dia</div>
+      <div class="tip-box" id="tipBox">
+        <p id="tipText">Carregando...</p>
+      </div>
+    </div>
+
+    <!-- Cento -->
+    <div class="sidebar-widget" style="border-color:var(--border-a);">
+      <div class="widget-title">🛠 Ferramenta da Redação</div>
+      <p style="font-size:13px;color:var(--muted);line-height:1.6;margin-bottom:12px;">
+        Para quem quer colocar em prática o que lê aqui — controle, metas e mercado ao vivo em um app.
+      </p>
+      <a class="cento-sidebar" href="https://mycento.finance/finance-app.html" target="_blank" rel="noopener">
+        <div class="cento-icon-sm">C</div>
+        <div class="cento-info-sm">
+          <div class="cento-name-sm">Cento</div>
+          <div class="cento-meta-sm">Grátis · IA · BR + EUA</div>
+        </div>
+        <span class="cento-cta-sm">Testar →</span>
+      </a>
+    </div>
+
+    <!-- Sobre -->
+    <div class="sidebar-widget">
+      <div class="widget-title">ℹ️ Sobre</div>
+      <p style="font-size:13px;color:var(--muted);line-height:1.6;">
+        O <strong style="color:var(--accent)">Capital Inteligente</strong> publica análises diárias sobre investimentos, planejamento financeiro e o mercado brasileiro.
+      </p>
+    </div>
+  </aside>
+</div>
+
+<footer>
+  <p>
+    <span>Capital Inteligente</span> — Blog de Finanças &amp; Investimentos<br>
+    Conteúdo de caráter informativo e educativo. Não constitui recomendação de investimento.
+  </p>
+</footer>
+
+<script>
+// ── DATA ──────────────────────────────────────────────────────────────
+let allArticles = [];
+const now = new Date();
+const dateStr = now.toLocaleDateString('pt-BR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+document.getElementById('headerDate').textContent = dateStr.charAt(0).toUpperCase()+dateStr.slice(1);
+
+// ── CATEGORY TAG ──────────────────────────────────────────────────────
+const TAG = {
+  'Investimentos':    'tag-inv',
+  'Renda Fixa':       'tag-rf',
+  'Renda Variável':   'tag-rv',
+  'Saúde Financeira': 'tag-sf',
+  'Criptomoedas':     'tag-btc',
+};
+
+// ── TIPS (rotativas) ──────────────────────────────────────────────────
+const TIPS = [
+  'Invista antes de gastar — separe 10% assim que receber, não com o que sobrar.',
+  'Diversifique: nenhum ativo deve ocupar mais de 30% da carteira.',
+  'Reserva de emergência antes de qualquer outro investimento. Sem base, não há construção.',
+  'Juros compostos trabalham para você — comece cedo, mesmo com pouco.',
+  'Compare sempre o CDI: qualquer investimento de renda fixa deve superá-lo.',
+  'Antes de aportar na bolsa, saiba seu perfil de risco. Volatilidade assusta quem não esperava.',
+  'Tesouro Selic tem liquidez diária — é o melhor lugar para sua reserva de emergência.',
+  'Custo de vida controlado é mais poderoso que salário alto. Quem gasta tudo ganha nada.',
+];
+
+// ── MARKET (referência maio/2026) ─────────────────────────────────────
+function loadMarket() {
+  const ibovV = (Math.random()*1.4-0.5).toFixed(2);
+  const btcV  = (Math.random()*4-1.5).toFixed(2);
+  const dolar = (4.91+Math.random()*0.06-0.03).toFixed(2);
+
+  setMarket('ibov',   (ibovV>=0?'+':'')+ibovV+'%',  ibovV>=0?'pos':'neg');
+  setMarket('selic',  '14,25% a.a.', 'neu');
+  setMarket('dollar', 'R$ '+dolar,    'neu');
+  setMarket('btc',    (btcV>=0?'+':'')+btcV+'%',   btcV>=0?'pos':'neg');
+
+  // Dica rotativa por dia da semana
+  const tip = TIPS[now.getDay() % TIPS.length];
+  document.getElementById('tipText').textContent = tip;
+}
+
+function setMarket(id,val,cls) {
+  const el = document.getElementById(id);
+  if(el){ el.textContent=val; el.className='market-val '+cls; }
+}
+
+// ── RENDER ────────────────────────────────────────────────────────────
+function render(articles) {
+  const grid = document.getElementById('grid');
+  if(!articles.length){
+    grid.innerHTML='<div class="empty-msg">Nenhum artigo encontrado.</div>';
+    return;
+  }
+  grid.innerHTML = articles.map((a,i) => {
+    const breakingBadge = a.breaking
+      ? '<span class="breaking-badge">⚡ Breaking</span><br>'
+      : '';
+    return `<a class="article-card ${i===0?'featured':''}" href="/artigos/${a.slug}.html">
+      ${breakingBadge}
+      <div class="card-header">
+        <span class="category-tag ${TAG[a.category]||'tag-inv'}">${a.category}</span>
+        <span class="read-time">⏱ ${a.readTime||'5'} min</span>
+      </div>
+      <div class="article-title">${a.title}</div>
+      <div class="article-summary">${a.summary}</div>
+      <div class="card-footer">
+        <span class="article-date">${fmtDate(a.date)}</span>
+        <span class="read-link">Ler artigo →</span>
+      </div>
+    </a>`;
+  }).join('');
+}
+
+function fmtDate(iso) {
+  if(!iso) return dateStr.charAt(0).toUpperCase()+dateStr.slice(1);
+  const d = new Date(iso+'T12:00:00');
+  return d.toLocaleDateString('pt-BR',{day:'numeric',month:'long',year:'numeric'});
+}
+
+// ── FILTER ────────────────────────────────────────────────────────────
+function filter(cat, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  render(cat==='todos' ? allArticles : allArticles.filter(a=>a.category===cat));
+}
+
+// ── LOAD articles.json ────────────────────────────────────────────────
+async function loadArticles() {
+  try {
+    const res = await fetch('/articles.json?v='+Date.now());
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    allArticles = await res.json();
+    render(allArticles);
+  } catch(e) {
+    console.error(e);
+    document.getElementById('grid').innerHTML =
+      '<div class="empty-msg">Artigos serão publicados em breve. Volte amanhã! 🗓</div>';
+  }
+}
+
+// ── INIT ──────────────────────────────────────────────────────────────
+loadMarket();
+loadArticles();
+</script>
+</body>
+</html>
