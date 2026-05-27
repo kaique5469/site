@@ -308,7 +308,7 @@ function render(articles) {
     const breakingBadge = a.breaking
       ? '<span class="breaking-badge">⚡ Breaking</span><br>'
       : '';
-    return `<a class="article-card ${i===0?'featured':''}" href="/artigos/${a.slug}.html">
+    return `<a class="article-card ${i===0?'featured':''}" href="artigos/${a.slug}.html">
       ${breakingBadge}
       <div class="card-header">
         <span class="category-tag ${TAG[a.category]||'tag-inv'}">${a.category}</span>
@@ -340,7 +340,7 @@ function filter(cat, btn) {
 // ── LOAD articles.json ────────────────────────────────────────────────
 async function loadArticles() {
   try {
-    const res = await fetch('/articles.json?v='+Date.now());
+    const res = await fetch('articles.json?v='+Date.now());
     if(!res.ok) throw new Error('HTTP '+res.status);
     allArticles = await res.json();
     render(allArticles);
