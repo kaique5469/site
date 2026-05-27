@@ -22,11 +22,9 @@ ARTICLES_JSON = SITE_DIR / "articles.json"
 SITEMAP_FILE  = SITE_DIR / "sitemap.xml"
 DOMAIN = os.getenv("SITE_DOMAIN", "capitalinteligente.com.br")
 
-GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-GEMINI_URL = (
-    "https://generativelanguage.googleapis.com/v1beta/models/"
-    "gemini-2.0-flash:generateContent?key=" + GEMINI_API_KEY
-)
+GROQ_API_KEY = os.environ["GROQ_API_KEY"]
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_MODEL = "llama-3.3-70b-versatile"
 
 MARKET_CONTEXT = """
 - Ibovespa em torno de 176.000 pontos, com volatilidade em maio
@@ -46,35 +44,26 @@ CENTO_BY_CATEGORY = {
 }
 
 
-# ── GEMINI API ────────────────────────────────────────────────────────────────
-def call_gemini(prompt: str, retries: int = 4) -> str:
+# ── GROQ API ──────────────────────────────────────────────────────────────────
+def call_groq(prompt: str) -> str:
     payload = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.8, "maxOutputTokens": 8192}
+        "model": GROQ_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.8,
+        "max_tokens": 8192,
     }).encode("utf-8")
 
-    for attempt in range(1, retries + 1):
-        try:
-            req = urllib.request.Request(
-                GEMINI_URL, data=payload,
-                headers={"Content-Type": "application/json"},
-                method="POST"
-            )
-            with urllib.request.urlopen(req, timeout=120) as resp:
-                data = json.loads(resp.read())
-            return data["candidates"][0]["content"]["parts"][0]["text"]
-        except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", errors="replace")
-            if e.code == 429:
-                wait = 30 * attempt
-                print(f"  ⏳ Rate limit (tentativa {attempt}/{retries}), aguardando {wait}s...")
-                time.sleep(wait)
-            else:
-                raise RuntimeError(f"Gemini HTTP {e.code}: {body[:400]}")
-        except Exception as e:
-            raise RuntimeError(f"Gemini erro: {e}")
-
-    raise RuntimeError("Rate limit persistente após múltiplas tentativas.")
+    req = urllib.request.Request(
+        GROQ_URL, data=payload,
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {GROQ_API_KEY}",
+        },
+        method="POST"
+    )
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        data = json.loads(resp.read())
+    return data["choices"][0]["message"]["content"]
 
 
 # ── GERAR ARTIGOS ─────────────────────────────────────────────────────────────
@@ -113,7 +102,7 @@ Categorias obrigatórias (1 de cada): Investimentos, Renda Fixa, Renda Variável
 O primeiro artigo é o destaque do dia — mais urgente e impactante.
 IMPORTANTE: responda APENAS o JSON, sem nenhum texto antes ou depois."""
 
-    raw = call_gemini(prompt)
+    raw = call_groq(prompt)
     match = re.search(r"\[[\s\S]*\]", raw)
     if match:
         return json.loads(match.group(0))

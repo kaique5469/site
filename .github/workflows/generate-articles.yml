@@ -35,7 +35,7 @@ jobs:
 
       - name: 📰 Gerar artigos
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           SITE_DOMAIN: ${{ vars.SITE_DOMAIN || 'capitalinteligente.com.br' }}
           BREAKING_TOPIC: ${{ inputs.breaking_topic || '' }}
           NUM_ARTICLES: ${{ inputs.num_articles || '6' }}
