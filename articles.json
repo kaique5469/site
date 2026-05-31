@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-05-31-ibovespa-em-176-mil-como-montar-carteira-defensiva-antes-das-eleicoes",
+    "slug": "2026-05-31-ibovespa-em-176-mil-como-montar-carteira-defensiva-antes-das-eleicoes",
+    "title": "Ibovespa em 176 mil: como montar carteira defensiva antes das eleições",
+    "category": "Investimentos",
+    "summary": "Entenda por que a volatilidade de maio exige uma alocação mais conservadora e descubra os ativos que podem proteger seu portfólio até o fim do ano.",
+    "readTime": "5",
+    "tags": [
+      "ibovespa",
+      "cautela-eleitoral",
+      "carteira-defensiva"
+    ],
+    "date": "2026-05-31",
+    "breaking": false
+  },
+  {
+    "id": "2026-05-31-tesouro-selic-vs-cdbs-onde-colocar-o-dinheiro-agora",
+    "slug": "2026-05-31-tesouro-selic-vs-cdbs-onde-colocar-o-dinheiro-agora",
+    "title": "Tesouro Selic vs. CDBs: onde colocar o dinheiro agora?",
+    "category": "Renda Fixa",
+    "summary": "Compare rentabilidade, liquidez e risco dos principais títulos de renda fixa diante da Selic em 14,25% e descubra a melhor escolha para seu perfil.",
+    "readTime": "5",
+    "tags": [
+      "tesouro-selic",
+      "cdb",
+      "selic-14,25"
+    ],
+    "date": "2026-05-31",
+    "breaking": false
+  },
+  {
+    "id": "2026-05-31-acoes-de-dividendos-sobrevivem-ao-clima-eleitoral",
+    "slug": "2026-05-31-acoes-de-dividendos-sobrevivem-ao-clima-eleitoral",
+    "title": "Ações de dividendos sobrevivem ao clima eleitoral?",
+    "category": "Renda Variável",
+    "summary": "Análise das empresas brasileiras que pagam dividendos consistentes e como elas podem proteger seu portfólio da volatilidade política.",
+    "readTime": "5",
+    "tags": [
+      "ações-dividendos",
+      "renda-variável",
+      "cautela-eleitoral"
+    ],
+    "date": "2026-05-31",
+    "breaking": false
+  },
+  {
+    "id": "2026-05-31-orcamento-domestico-ajuste-o-bolso-antes-da-alta-de-juros",
+    "slug": "2026-05-31-orcamento-domestico-ajuste-o-bolso-antes-da-alta-de-juros",
+    "title": "Orçamento doméstico: ajuste o bolso antes da alta de juros",
+    "category": "Saúde Financeira",
+    "summary": "Passo a passo para reorganizar despesas, reduzir custos e proteger o consumo familiar diante da Selic em 14,25% e da inflação persistente.",
+    "readTime": "5",
+    "tags": [
+      "orçamento-familiar",
+      "corte-de-despesas",
+      "dólar"
+    ],
+    "date": "2026-05-31",
+    "breaking": false
+  },
+  {
+    "id": "2026-05-31-bitcoin-em-2026-ainda-vale-a-pena-na-carteira-de-risco-moderado",
+    "slug": "2026-05-31-bitcoin-em-2026-ainda-vale-a-pena-na-carteira-de-risco-moderado",
+    "title": "Bitcoin em 2026: ainda vale a pena na carteira de risco moderado?",
+    "category": "Criptomoedas",
+    "summary": "Avalia o desempenho do Bitcoin frente à volatilidade global e indica como incluir a cripto de forma equilibrada em um portfólio de risco moderado.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "criptomoedas",
+      "alocação-moderada"
+    ],
+    "date": "2026-05-31",
+    "breaking": false
+  },
+  {
+    "id": "2026-05-31-ipca-15-em-foco-o-que-esperar-para-a-inflacao-de-2026",
+    "slug": "2026-05-31-ipca-15-em-foco-o-que-esperar-para-a-inflacao-de-2026",
+    "title": "IPCA-15 em foco: o que esperar para a inflação de 2026?",
+    "category": "Renda Fixa",
+    "summary": "Análise dos últimos indicadores de inflação e projeções para o IPCA-15, explicando como isso afeta títulos atrelados e a estratégia de proteção de poder de compra.",
+    "readTime": "5",
+    "tags": [
+      "inflacao",
+      "ipca-15",
+      "tesouro-ipca"
+    ],
+    "date": "2026-05-31",
+    "breaking": false
+  },
+  {
     "id": "2026-05-30-ibovespa-a-beira-da-ruptura-o-que-o-investidor-deve-fazer-hoje",
     "slug": "2026-05-30-ibovespa-a-beira-da-ruptura-o-que-o-investidor-deve-fazer-hoje",
     "title": "Ibovespa à beira da ruptura: o que o investidor deve fazer hoje",
