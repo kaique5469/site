@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-01-dolar-abaixo-de-r490-o-que-isso-muda-para-seu-portfolio",
+    "slug": "2026-06-01-dolar-abaixo-de-r490-o-que-isso-muda-para-seu-portfolio",
+    "title": "Dólar abaixo de R$4,90: o que isso muda para seu portfólio?",
+    "category": "Investimentos",
+    "summary": "O real ganha força e o dólar atinge o menor patamar em dois anos. Entenda como a queda cambial afeta renda fixa, ações e ativos externos.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "câmbio",
+      "portfólio"
+    ],
+    "date": "2026-06-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-01-tesouro-selic-x-tesouro-ipca-onde-colocar-seu-dinheiro-agora",
+    "slug": "2026-06-01-tesouro-selic-x-tesouro-ipca-onde-colocar-seu-dinheiro-agora",
+    "title": "Tesouro Selic x Tesouro IPCA+: onde colocar seu dinheiro agora",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25% e inflação em foco, compare os dois principais títulos públicos e descubra qual oferece melhor retorno real neste momento.",
+    "readTime": "5",
+    "tags": [
+      "tesouro-direto",
+      "selic",
+      "inflação"
+    ],
+    "date": "2026-06-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-01-ibovespa-em-176-mil-setores-que-podem-liderar-a-recuperacao",
+    "slug": "2026-06-01-ibovespa-em-176-mil-setores-que-podem-liderar-a-recuperacao",
+    "title": "Ibovespa em 176 mil: setores que podem liderar a recuperação",
+    "category": "Renda Variável",
+    "summary": "Apesar da volatilidade, alguns segmentos apresentam fundamentos sólidos. Veja onde concentrar investimentos na bolsa em 2026.",
+    "readTime": "5",
+    "tags": [
+      "ibovespa",
+      "ações",
+      "setores"
+    ],
+    "date": "2026-06-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-01-saude-financeira-em-tempos-de-eleicao-5-passos-para-proteger-seu-orcam",
+    "slug": "2026-06-01-saude-financeira-em-tempos-de-eleicao-5-passos-para-proteger-seu-orcam",
+    "title": "Saúde financeira em tempos de eleição: 5 passos para proteger seu orçamento",
+    "category": "Saúde Financeira",
+    "summary": "A incerteza política pode mexer nas finanças pessoais. Aprenda cinco medidas simples para manter o controle e evitar surpresas.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "reserva-de-emergência",
+      "dívida"
+    ],
+    "date": "2026-06-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-01-bitcoin-em-2026-volatilidade-global-ainda-domina",
+    "slug": "2026-06-01-bitcoin-em-2026-volatilidade-global-ainda-domina",
+    "title": "Bitcoin em 2026: volatilidade global ainda domina?",
+    "category": "Criptomoedas",
+    "summary": "Com o mercado cripto seguindo tendências internacionais, o Bitcoin mostra movimentos intensos. Entenda os principais catalisadores e como posicionar sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "crypto",
+      "volatilidade"
+    ],
+    "date": "2026-06-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-01-cdbs-de-alta-rentabilidade-como-escolher-os-melhores-antes-da-selic-ca",
+    "slug": "2026-06-01-cdbs-de-alta-rentabilidade-como-escolher-os-melhores-antes-da-selic-ca",
+    "title": "CDBs de alta rentabilidade: como escolher os melhores antes da Selic cair",
+    "category": "Investimentos",
+    "summary": "Com a Selic em queda, os CDBs de curto prazo perdem parte da atratividade. Saiba quais critérios usar para garantir bons retornos ainda hoje.",
+    "readTime": "5",
+    "tags": [
+      "cdb",
+      "renda-fixa",
+      "selic"
+    ],
+    "date": "2026-06-01",
+    "breaking": false
+  },
+  {
     "id": "2026-06-01-ibovespa-a-beira-de-176-mil-o-que-o-investidor-deve-fazer-agora",
     "slug": "2026-06-01-ibovespa-a-beira-de-176-mil-o-que-o-investidor-deve-fazer-agora",
     "title": "Ibovespa à beira de 176 mil: o que o investidor deve fazer agora",
@@ -811,90 +901,6 @@
       "inflacao",
       "ipca-15",
       "tesouro-ipca"
-    ],
-    "date": "2026-05-27",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-27-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
-    "slug": "2026-05-27-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
-    "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
-    "category": "Investimentos",
-    "summary": "Com o índice rondando 176 mil pontos e alta volatilidade, o artigo aponta estratégias defensivas e oportunidades de compra. O leitor entenderá como alinhar risco e retorno neste cenário eleitoral.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "volatilidade"
-    ],
-    "date": "2026-05-27",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-27-selic-1425-como-montar-a-carteira-de-renda-fixa-ideal-agora",
-    "slug": "2026-05-27-selic-1425-como-montar-a-carteira-de-renda-fixa-ideal-agora",
-    "title": "Selic 14,25%: como montar a carteira de renda fixa ideal agora",
-    "category": "Renda Fixa",
-    "summary": "Entenda o impacto do atual patamar da taxa Selic nos principais papéis de renda fixa. O leitor aprenderá a combinar títulos públicos, CDBs e fundos para otimizar rendimento e liquidez.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-05-27",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-27-acoes-de-dividendos-ainda-sao-atrativas-com-a-selic-em-queda",
-    "slug": "2026-05-27-acoes-de-dividendos-ainda-sao-atrativas-com-a-selic-em-queda",
-    "title": "Ações de dividendos ainda são atrativas com a Selic em queda?",
-    "category": "Renda Variável",
-    "summary": "Analisa se o recuo da Selic e a desvalorização do dólar mantêm o apelo das ações pagadoras de dividendos. O leitor descobrirá quais setores devem ser priorizados.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "ações"
-    ],
-    "date": "2026-05-27",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-27-saude-financeira-em-tempos-de-eleicoes-5-passos-para-nao-perder-o-foco",
-    "slug": "2026-05-27-saude-financeira-em-tempos-de-eleicoes-5-passos-para-nao-perder-o-foco",
-    "title": "Saúde financeira em tempos de eleições: 5 passos para não perder o foco",
-    "category": "Saúde Financeira",
-    "summary": "Apresenta um plano de cinco medidas práticas para preservar a saúde financeira pessoal diante da incerteza política. O leitor sai com um checklist acionável.",
-    "readTime": "5",
-    "tags": [
-      "planejamento",
-      "educação financeira"
-    ],
-    "date": "2026-05-27",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-27-criptomoedas-em-2026-bitcoin-ainda-pode-ser-reserva-de-valor",
-    "slug": "2026-05-27-criptomoedas-em-2026-bitcoin-ainda-pode-ser-reserva-de-valor",
-    "title": "Criptomoedas em 2026: Bitcoin ainda pode ser reserva de valor?",
-    "category": "Criptomoedas",
-    "summary": "Explora o papel do Bitcoin como reserva de valor frente à queda do dólar e à volatilidade global. O leitor entenderá os principais fatores que sustentam ou limitam essa função.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "reserva de valor"
-    ],
-    "date": "2026-05-27",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-27-dolar-a-r-491-como-o-cambio-barato-altera-seu-plano-de-investimentos",
-    "slug": "2026-05-27-dolar-a-r-491-como-o-cambio-barato-altera-seu-plano-de-investimentos",
-    "title": "Dólar a R$ 4,91: como o câmbio barato altera seu plano de investimentos",
-    "category": "Investimentos",
-    "summary": "Analisa as consequências da queda do dólar para a alocação de ativos, importação de bens e estratégias de hedge. O leitor aprenderá a adaptar sua carteira ao novo patamar cambial.",
-    "readTime": "5",
-    "tags": [
-      "câmbio",
-      "dólar"
     ],
     "date": "2026-05-27",
     "breaking": false
