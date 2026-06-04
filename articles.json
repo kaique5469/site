@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-04-ibovespa-a-beira-de-ruptura-o-que-a-queda-da-selic-realmente-significa",
+    "slug": "2026-06-04-ibovespa-a-beira-de-ruptura-o-que-a-queda-da-selic-realmente-significa",
+    "title": "Ibovespa à beira de ruptura: o que a queda da Selic realmente significa",
+    "category": "Investimentos",
+    "summary": "Analiso o impacto da redução da taxa Selic sobre o Ibovespa e mostro como posicionar a carteira para aproveitar a volatilidade de maio.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic",
+      "cortes de juros"
+    ],
+    "date": "2026-06-04",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-04-tesouro-selic-x-cdb-quem-ganha-com-a-queda-do-dolar",
+    "slug": "2026-06-04-tesouro-selic-x-cdb-quem-ganha-com-a-queda-do-dolar",
+    "title": "Tesouro Selic x CDB: quem ganha com a queda do dólar?",
+    "category": "Renda Fixa",
+    "summary": "Comparo Tesouro Selic e CDBs de bancos médios mostrando como a desvalorização do dólar afeta a rentabilidade real desses ativos.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Selic",
+      "CDB",
+      "dólar"
+    ],
+    "date": "2026-06-04",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-04-acoes-de-energia-e-infraestrutura-apostas-seguras-no-ano-eleitoral",
+    "slug": "2026-06-04-acoes-de-energia-e-infraestrutura-apostas-seguras-no-ano-eleitoral",
+    "title": "Ações de energia e infraestrutura: apostas seguras no ano eleitoral",
+    "category": "Renda Variável",
+    "summary": "Aponto setores menos sensíveis ao risco político e mostro como montar uma carteira enxuta com energia, saneamento e transportes.",
+    "readTime": "5",
+    "tags": [
+      "energia",
+      "saneamento",
+      "infraestrutura"
+    ],
+    "date": "2026-06-04",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-04-orcamento-domestico-como-usar-a-queda-do-dolar-para-melhorar-sua-saude",
+    "slug": "2026-06-04-orcamento-domestico-como-usar-a-queda-do-dolar-para-melhorar-sua-saude",
+    "title": "Orçamento doméstico: como usar a queda do dólar para melhorar sua saúde financeira",
+    "category": "Saúde Financeira",
+    "summary": "Ensino a reorganizar despesas e aproveitar a moeda americana mais barata para reduzir custos e acelerar metas de investimento.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "dólar",
+      "quitação de dívida"
+    ],
+    "date": "2026-06-04",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-04-bitcoin-em-2026-volatilidade-global-ou-oportunidade-de-longo-prazo",
+    "slug": "2026-06-04-bitcoin-em-2026-volatilidade-global-ou-oportunidade-de-longo-prazo",
+    "title": "Bitcoin em 2026: volatilidade global ou oportunidade de longo prazo?",
+    "category": "Criptomoedas",
+    "summary": "Analiso o comportamento do Bitcoin frente à política monetária dos EUA e ao cenário brasileiro, indicando se vale a pena manter posição.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade",
+      "investimento"
+    ],
+    "date": "2026-06-04",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-04-dividendos-em-tempos-de-corte-de-juros-quais-papeis-realmente-entregam",
+    "slug": "2026-06-04-dividendos-em-tempos-de-corte-de-juros-quais-papeis-realmente-entregam",
+    "title": "Dividendos em tempos de corte de juros: quais papéis realmente entregam",
+    "category": "Investimentos",
+    "summary": "Listo as empresas brasileiras com histórico de pagamento de dividendos acima de 6% ao ano e explico como a queda da Selic pode melhorar ainda mais os rendimentos.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "ações",
+      "rendimento"
+    ],
+    "date": "2026-06-04",
+    "breaking": false
+  },
+  {
     "id": "2026-06-04-ibovespa-em-176-mil-o-que-a-volatilidade-de-maio-sinaliza-para-investi",
     "slug": "2026-06-04-ibovespa-em-176-mil-o-que-a-volatilidade-de-maio-sinaliza-para-investi",
     "title": "Ibovespa em 176 mil: o que a volatilidade de maio sinaliza para investidores",
@@ -808,96 +898,6 @@
       "volatilidade"
     ],
     "date": "2026-05-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-29-ibovespa-a-beira-de-176-mil-oportunidades-e-riscos-na-volatilidade-de-",
-    "slug": "2026-05-29-ibovespa-a-beira-de-176-mil-oportunidades-e-riscos-na-volatilidade-de-",
-    "title": "Ibovespa à beira de 176 mil: oportunidades e riscos na volatilidade de maio",
-    "category": "Investimentos",
-    "summary": "Entenda como a volatilidade de maio pode gerar oportunidades de compra e venda no Ibovespa. Aprenda a proteger sua carteira enquanto o índice oscila ao redor de 176 mil pontos.",
-    "readTime": "5",
-    "tags": [
-      "ibovespa",
-      "volatilidade",
-      "corte-selic"
-    ],
-    "date": "2026-05-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-29-tesouro-selic-2027-por-que-ainda-e-a-ancora-da-renda-fixa-em-2026",
-    "slug": "2026-05-29-tesouro-selic-2027-por-que-ainda-e-a-ancora-da-renda-fixa-em-2026",
-    "title": "Tesouro Selic 2027: por que ainda é a âncora da renda fixa em 2026",
-    "category": "Renda Fixa",
-    "summary": "Descubra por que o Tesouro Selic continua atraente apesar da alta taxa de juros. Veja como usar o título para proteger seu patrimônio e melhorar a liquidez.",
-    "readTime": "5",
-    "tags": [
-      "tesouro-selic",
-      "renda-fixa",
-      "liquidez"
-    ],
-    "date": "2026-05-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-29-acoes-de-energia-no-radar-dividendos-robustos-e-risco-politico",
-    "slug": "2026-05-29-acoes-de-energia-no-radar-dividendos-robustos-e-risco-politico",
-    "title": "Ações de energia no radar: dividendos robustos e risco político",
-    "category": "Renda Variável",
-    "summary": "Analise as principais empresas de energia que pagam dividendos acima de 8% ao ano. Saiba como o cenário político pode afetar esses papéis.",
-    "readTime": "5",
-    "tags": [
-      "ações-energia",
-      "dividendos",
-      "risco-político"
-    ],
-    "date": "2026-05-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-29-orcamento-domestico-2026-5-passos-para-melhorar-sua-saude-financeira-a",
-    "slug": "2026-05-29-orcamento-domestico-2026-5-passos-para-melhorar-sua-saude-financeira-a",
-    "title": "Orçamento doméstico 2026: 5 passos para melhorar sua saúde financeira agora",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda a montar um orçamento eficaz em meio à alta do dólar e à Selic em 14,25%. Cinco ações práticas para aumentar a reserva de emergência.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "reserva-de-emergência",
-      "dívida"
-    ],
-    "date": "2026-05-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-29-bitcoin-em-2026-como-a-volatilidade-global-afeta-o-investidor-brasilei",
-    "slug": "2026-05-29-bitcoin-em-2026-como-a-volatilidade-global-afeta-o-investidor-brasilei",
-    "title": "Bitcoin em 2026: como a volatilidade global afeta o investidor brasileiro",
-    "category": "Criptomoedas",
-    "summary": "Veja como a correlação entre Bitcoin e mercados internacionais molda estratégias de hedge. Dicas práticas para quem quer manter exposição moderada.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "volatilidade",
-      "hedge"
-    ],
-    "date": "2026-05-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-29-fundos-multimercado-o-que-esperar-enquanto-a-selic-cai",
-    "slug": "2026-05-29-fundos-multimercado-o-que-esperar-enquanto-a-selic-cai",
-    "title": "Fundos multimercado: o que esperar enquanto a Selic cai",
-    "category": "Investimentos",
-    "summary": "Análise de como os fundos multimercado estão se reposicionando diante da expectativa de cortes na taxa Selic. Identifique gestores com performance consistente.",
-    "readTime": "5",
-    "tags": [
-      "fundos-multimercado",
-      "corte-selic",
-      "crédito-privado"
-    ],
-    "date": "2026-05-29",
     "breaking": false
   }
 ]
