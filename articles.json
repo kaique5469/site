@@ -1,5 +1,101 @@
 [
   {
+    "id": "2026-06-05-corte-da-selic-acelera-o-que-isso-significa-para-seu-bolso-agora",
+    "slug": "2026-06-05-corte-da-selic-acelera-o-que-isso-significa-para-seu-bolso-agora",
+    "title": "Corte da Selic acelera: o que isso significa para seu bolso agora",
+    "category": "Investimentos",
+    "summary": "Entenda como a redução da taxa Selic impacta investimentos, crédito e consumo. Descubra os setores que mais se beneficiam e como ajustar sua carteira imediatamente.",
+    "readTime": "5",
+    "tags": [
+      "selic",
+      "cortes-de-juros",
+      "renda-fixa",
+      "renda-variavel"
+    ],
+    "date": "2026-06-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-05-tesouro-selic-x-cdb-onde-colocar-seus-r-10-mil-hoje",
+    "slug": "2026-06-05-tesouro-selic-x-cdb-onde-colocar-seus-r-10-mil-hoje",
+    "title": "Tesouro Selic x CDB: onde colocar seus R$ 10 mil hoje?",
+    "category": "Renda Fixa",
+    "summary": "Compare a rentabilidade, risco e liquidez do Tesouro Selic e dos CDBs de grandes bancos. Saiba qual opção protege melhor seu capital diante da queda da taxa Selic.",
+    "readTime": "5",
+    "tags": [
+      "tesouro-selic",
+      "cdb",
+      "fgc",
+      "liquidez"
+    ],
+    "date": "2026-06-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-05-ibovespa-em-176-mil-setores-que-podem-liderar-a-recuperacao-pos-eleica",
+    "slug": "2026-06-05-ibovespa-em-176-mil-setores-que-podem-liderar-a-recuperacao-pos-eleica",
+    "title": "Ibovespa em 176 mil: setores que podem liderar a recuperação pós-eleição",
+    "category": "Renda Variável",
+    "summary": "Analise os grupos de ações que têm maior chance de alta com a queda da volatilidade eleitoral e a expectativa de cortes na taxa. Veja quais papéis comprar agora.",
+    "readTime": "5",
+    "tags": [
+      "ibovespa",
+      "setores-ciclicos",
+      "ações",
+      "dividendos"
+    ],
+    "date": "2026-06-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-05-orcamento-domestico-2026-como-proteger-suas-financas-na-era-do-dolar-b",
+    "slug": "2026-06-05-orcamento-domestico-2026-como-proteger-suas-financas-na-era-do-dolar-b",
+    "title": "Orçamento doméstico 2026: como proteger suas finanças na era do dólar barato",
+    "category": "Saúde Financeira",
+    "summary": "Aprenda a reorganizar seu orçamento familiar aproveitando a cotação do dólar em R$4,91. Dicas práticas para reduzir custos, investir e aumentar a reserva de emergência.",
+    "readTime": "5",
+    "tags": [
+      "orçamento-familiar",
+      "dólar",
+      "reserva-de-emergência",
+      "custo-de-vida"
+    ],
+    "date": "2026-06-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-05-bitcoin-2026-volatilidade-global-e-a-nova-onda-de-etfs-de-cripto",
+    "slug": "2026-06-05-bitcoin-2026-volatilidade-global-e-a-nova-onda-de-etfs-de-cripto",
+    "title": "Bitcoin 2026: volatilidade global e a nova onda de ETFs de cripto",
+    "category": "Criptomoedas",
+    "summary": "Explore como a recente estabilidade do Bitcoin se relaciona com a aprovação de ETFs de cripto nos EUA e a correlação com ativos de risco. Dicas para posicionamento seguro.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "etfs-cripto",
+      "volatilidade",
+      "investimento"
+    ],
+    "date": "2026-06-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-05-fundos-multimercado-a-escolha-certeira-em-meio-a-incerteza-eleitoral",
+    "slug": "2026-06-05-fundos-multimercado-a-escolha-certeira-em-meio-a-incerteza-eleitoral",
+    "title": "Fundos multimercado: a escolha certeira em meio à incerteza eleitoral",
+    "category": "Investimentos",
+    "summary": "Veja por que os fundos multimercado podem ser a melhor aposta para quem busca proteção e retorno acima da média no cenário de eleições e cortes de juros.",
+    "readTime": "5",
+    "tags": [
+      "fundos-multimercado",
+      "corte-de-juros",
+      "eleições",
+      "carteira"
+    ],
+    "date": "2026-06-05",
+    "breaking": false
+  },
+  {
     "id": "2026-06-05-corte-da-selic-acelera-o-que-isso-muda-para-sua-carteira-hoje",
     "slug": "2026-06-05-corte-da-selic-acelera-o-que-isso-muda-para-sua-carteira-hoje",
     "title": "Corte da Selic acelera: o que isso muda para sua carteira hoje",
@@ -808,96 +904,6 @@
       "ações"
     ],
     "date": "2026-06-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-31-ibovespa-em-176-mil-como-montar-carteira-defensiva-antes-das-eleicoes",
-    "slug": "2026-05-31-ibovespa-em-176-mil-como-montar-carteira-defensiva-antes-das-eleicoes",
-    "title": "Ibovespa em 176 mil: como montar carteira defensiva antes das eleições",
-    "category": "Investimentos",
-    "summary": "Entenda por que a volatilidade de maio exige uma alocação mais conservadora e descubra os ativos que podem proteger seu portfólio até o fim do ano.",
-    "readTime": "5",
-    "tags": [
-      "ibovespa",
-      "cautela-eleitoral",
-      "carteira-defensiva"
-    ],
-    "date": "2026-05-31",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-31-tesouro-selic-vs-cdbs-onde-colocar-o-dinheiro-agora",
-    "slug": "2026-05-31-tesouro-selic-vs-cdbs-onde-colocar-o-dinheiro-agora",
-    "title": "Tesouro Selic vs. CDBs: onde colocar o dinheiro agora?",
-    "category": "Renda Fixa",
-    "summary": "Compare rentabilidade, liquidez e risco dos principais títulos de renda fixa diante da Selic em 14,25% e descubra a melhor escolha para seu perfil.",
-    "readTime": "5",
-    "tags": [
-      "tesouro-selic",
-      "cdb",
-      "selic-14,25"
-    ],
-    "date": "2026-05-31",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-31-acoes-de-dividendos-sobrevivem-ao-clima-eleitoral",
-    "slug": "2026-05-31-acoes-de-dividendos-sobrevivem-ao-clima-eleitoral",
-    "title": "Ações de dividendos sobrevivem ao clima eleitoral?",
-    "category": "Renda Variável",
-    "summary": "Análise das empresas brasileiras que pagam dividendos consistentes e como elas podem proteger seu portfólio da volatilidade política.",
-    "readTime": "5",
-    "tags": [
-      "ações-dividendos",
-      "renda-variável",
-      "cautela-eleitoral"
-    ],
-    "date": "2026-05-31",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-31-orcamento-domestico-ajuste-o-bolso-antes-da-alta-de-juros",
-    "slug": "2026-05-31-orcamento-domestico-ajuste-o-bolso-antes-da-alta-de-juros",
-    "title": "Orçamento doméstico: ajuste o bolso antes da alta de juros",
-    "category": "Saúde Financeira",
-    "summary": "Passo a passo para reorganizar despesas, reduzir custos e proteger o consumo familiar diante da Selic em 14,25% e da inflação persistente.",
-    "readTime": "5",
-    "tags": [
-      "orçamento-familiar",
-      "corte-de-despesas",
-      "dólar"
-    ],
-    "date": "2026-05-31",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-31-bitcoin-em-2026-ainda-vale-a-pena-na-carteira-de-risco-moderado",
-    "slug": "2026-05-31-bitcoin-em-2026-ainda-vale-a-pena-na-carteira-de-risco-moderado",
-    "title": "Bitcoin em 2026: ainda vale a pena na carteira de risco moderado?",
-    "category": "Criptomoedas",
-    "summary": "Avalia o desempenho do Bitcoin frente à volatilidade global e indica como incluir a cripto de forma equilibrada em um portfólio de risco moderado.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "criptomoedas",
-      "alocação-moderada"
-    ],
-    "date": "2026-05-31",
-    "breaking": false
-  },
-  {
-    "id": "2026-05-31-ipca-15-em-foco-o-que-esperar-para-a-inflacao-de-2026",
-    "slug": "2026-05-31-ipca-15-em-foco-o-que-esperar-para-a-inflacao-de-2026",
-    "title": "IPCA-15 em foco: o que esperar para a inflação de 2026?",
-    "category": "Renda Fixa",
-    "summary": "Análise dos últimos indicadores de inflação e projeções para o IPCA-15, explicando como isso afeta títulos atrelados e a estratégia de proteção de poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "inflacao",
-      "ipca-15",
-      "tesouro-ipca"
-    ],
-    "date": "2026-05-31",
     "breaking": false
   }
 ]
