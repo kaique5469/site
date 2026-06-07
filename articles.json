@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-07-ibovespa-a-beira-de-nova-tendencia-o-que-o-investidor-deve-observar-ag",
+    "slug": "2026-06-07-ibovespa-a-beira-de-nova-tendencia-o-que-o-investidor-deve-observar-ag",
+    "title": "Ibovespa à beira de nova tendência: o que o investidor deve observar agora",
+    "category": "Investimentos",
+    "summary": "Com o índice rondando 176 mil pontos e a volatilidade de maio ainda presente, o mercado sinaliza possíveis mudanças de direção. O leitor entenderá os principais gatilhos que podem mover o Ibovespa nos próximos dias.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "corte Selic",
+      "eleição 2026"
+    ],
+    "date": "2026-06-07",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-07-renda-fixa-em-2026-como-aproveitar-a-queda-da-taxa-selic",
+    "slug": "2026-06-07-renda-fixa-em-2026-como-aproveitar-a-queda-da-taxa-selic",
+    "title": "Renda fixa em 2026: como aproveitar a queda da taxa Selic",
+    "category": "Renda Fixa",
+    "summary": "A Selic em 14,25% abre oportunidades em títulos pós-fixados e em CDBs com liquidez diária. O leitor aprenderá a montar uma estratégia que combine segurança e rentabilidade.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "CDB",
+      "Tesouro Selic"
+    ],
+    "date": "2026-06-07",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-07-acoes-de-energia-porto-seguro-no-cenario-eleitoral-brasileiro",
+    "slug": "2026-06-07-acoes-de-energia-porto-seguro-no-cenario-eleitoral-brasileiro",
+    "title": "Ações de energia: porto seguro no cenário eleitoral brasileiro",
+    "category": "Renda Variável",
+    "summary": "Setor de energia mostra resiliência diante da incerteza política, com dividendos consistentes e demanda crescente. O leitor descobrirá como selecionar as melhores companhias para compor a carteira.",
+    "readTime": "5",
+    "tags": [
+      "energia",
+      "dividendos",
+      "reforma energética"
+    ],
+    "date": "2026-06-07",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-07-financas-pessoais-como-usar-a-queda-do-dolar-para-fortalecer-seu-orcam",
+    "slug": "2026-06-07-financas-pessoais-como-usar-a-queda-do-dolar-para-fortalecer-seu-orcam",
+    "title": "Finanças pessoais: como usar a queda do dólar para fortalecer seu orçamento",
+    "category": "Saúde Financeira",
+    "summary": "O dólar a R$ 4,91 representa a menor cotação em dois anos, abrindo oportunidades de economia em importados e investimentos. O leitor aprenderá táticas simples para otimizar gastos e aumentar a reserva.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "orçamento",
+      "investimento internacional"
+    ],
+    "date": "2026-06-07",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-07-bitcoin-em-2026-o-que-a-volatilidade-global-indica-para-investidores-b",
+    "slug": "2026-06-07-bitcoin-em-2026-o-que-a-volatilidade-global-indica-para-investidores-b",
+    "title": "Bitcoin em 2026: o que a volatilidade global indica para investidores brasileiros",
+    "category": "Criptomoedas",
+    "summary": "Com o Bitcoin acompanhando a instabilidade dos mercados internacionais, o leitor entenderá os principais fatores que movem a cripto e como posicionar sua carteira sem excessos de risco.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade",
+      "investimento cripto"
+    ],
+    "date": "2026-06-07",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-07-ipca-15-como-o-indice-pode-redefinir-a-politica-de-juros-no-brasil",
+    "slug": "2026-06-07-ipca-15-como-o-indice-pode-redefinir-a-politica-de-juros-no-brasil",
+    "title": "IPCA-15: como o índice pode redefinir a política de juros no Brasil",
+    "category": "Investimentos",
+    "summary": "O IPCA-15 está sendo monitorado como termômetro da inflação. O leitor verá como a leitura pode influenciar os próximos cortes da Selic e afetar diferentes classes de ativos.",
+    "readTime": "5",
+    "tags": [
+      "IPCA-15",
+      "inflação",
+      "Selic"
+    ],
+    "date": "2026-06-07",
+    "breaking": false
+  },
+  {
     "id": "2026-06-06-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
     "slug": "2026-06-06-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
     "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
@@ -814,96 +904,6 @@
       "hedge"
     ],
     "date": "2026-06-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-01-dolar-abaixo-de-r490-o-que-isso-muda-para-seu-portfolio",
-    "slug": "2026-06-01-dolar-abaixo-de-r490-o-que-isso-muda-para-seu-portfolio",
-    "title": "Dólar abaixo de R$4,90: o que isso muda para seu portfólio?",
-    "category": "Investimentos",
-    "summary": "O real ganha força e o dólar atinge o menor patamar em dois anos. Entenda como a queda cambial afeta renda fixa, ações e ativos externos.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "câmbio",
-      "portfólio"
-    ],
-    "date": "2026-06-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-01-tesouro-selic-x-tesouro-ipca-onde-colocar-seu-dinheiro-agora",
-    "slug": "2026-06-01-tesouro-selic-x-tesouro-ipca-onde-colocar-seu-dinheiro-agora",
-    "title": "Tesouro Selic x Tesouro IPCA+: onde colocar seu dinheiro agora",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25% e inflação em foco, compare os dois principais títulos públicos e descubra qual oferece melhor retorno real neste momento.",
-    "readTime": "5",
-    "tags": [
-      "tesouro-direto",
-      "selic",
-      "inflação"
-    ],
-    "date": "2026-06-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-01-ibovespa-em-176-mil-setores-que-podem-liderar-a-recuperacao",
-    "slug": "2026-06-01-ibovespa-em-176-mil-setores-que-podem-liderar-a-recuperacao",
-    "title": "Ibovespa em 176 mil: setores que podem liderar a recuperação",
-    "category": "Renda Variável",
-    "summary": "Apesar da volatilidade, alguns segmentos apresentam fundamentos sólidos. Veja onde concentrar investimentos na bolsa em 2026.",
-    "readTime": "5",
-    "tags": [
-      "ibovespa",
-      "ações",
-      "setores"
-    ],
-    "date": "2026-06-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-01-saude-financeira-em-tempos-de-eleicao-5-passos-para-proteger-seu-orcam",
-    "slug": "2026-06-01-saude-financeira-em-tempos-de-eleicao-5-passos-para-proteger-seu-orcam",
-    "title": "Saúde financeira em tempos de eleição: 5 passos para proteger seu orçamento",
-    "category": "Saúde Financeira",
-    "summary": "A incerteza política pode mexer nas finanças pessoais. Aprenda cinco medidas simples para manter o controle e evitar surpresas.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "reserva-de-emergência",
-      "dívida"
-    ],
-    "date": "2026-06-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-01-bitcoin-em-2026-volatilidade-global-ainda-domina",
-    "slug": "2026-06-01-bitcoin-em-2026-volatilidade-global-ainda-domina",
-    "title": "Bitcoin em 2026: volatilidade global ainda domina?",
-    "category": "Criptomoedas",
-    "summary": "Com o mercado cripto seguindo tendências internacionais, o Bitcoin mostra movimentos intensos. Entenda os principais catalisadores e como posicionar sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "crypto",
-      "volatilidade"
-    ],
-    "date": "2026-06-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-01-cdbs-de-alta-rentabilidade-como-escolher-os-melhores-antes-da-selic-ca",
-    "slug": "2026-06-01-cdbs-de-alta-rentabilidade-como-escolher-os-melhores-antes-da-selic-ca",
-    "title": "CDBs de alta rentabilidade: como escolher os melhores antes da Selic cair",
-    "category": "Investimentos",
-    "summary": "Com a Selic em queda, os CDBs de curto prazo perdem parte da atratividade. Saiba quais critérios usar para garantir bons retornos ainda hoje.",
-    "readTime": "5",
-    "tags": [
-      "cdb",
-      "renda-fixa",
-      "selic"
-    ],
-    "date": "2026-06-01",
     "breaking": false
   }
 ]
