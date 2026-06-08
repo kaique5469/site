@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-08-ibovespa-a-beira-da-virada-o-que-a-queda-da-selic-indica-para-investid",
+    "slug": "2026-06-08-ibovespa-a-beira-da-virada-o-que-a-queda-da-selic-indica-para-investid",
+    "title": "Ibovespa à beira da virada: o que a queda da Selic indica para investidores",
+    "category": "Investimentos",
+    "summary": "Com a Selic em 14,25% e o ciclo de cortes em curso, o Ibovespa oscila próximo a 176 mil pontos. Entenda como o cenário político e a inflação influenciam a decisão de alocação entre risco e retorno.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic",
+      "corte de juros"
+    ],
+    "date": "2026-06-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-08-renda-fixa-poscorte-onde-buscar-rendimento-acima-da-media-em-2026",
+    "slug": "2026-06-08-renda-fixa-poscorte-onde-buscar-rendimento-acima-da-media-em-2026",
+    "title": "Renda fixa pós‑corte: onde buscar rendimento acima da média em 2026",
+    "category": "Renda Fixa",
+    "summary": "Com a taxa Selic a 14,25% e expectativa de novos cortes, os títulos tradicionais perdem atratividade. Descubra quais papéis e fundos ainda podem gerar retornos superiores ao CDI.",
+    "readTime": "5",
+    "tags": [
+      "renda fixa",
+      "debêntures",
+      "fundos de crédito"
+    ],
+    "date": "2026-06-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-08-acoes-de-dividendos-porto-seguro-em-epoca-de-eleicao",
+    "slug": "2026-06-08-acoes-de-dividendos-porto-seguro-em-epoca-de-eleicao",
+    "title": "Ações de dividendos: porto seguro em época de eleição",
+    "category": "Renda Variável",
+    "summary": "Em ano eleitoral, a cautela domina o mercado de ações. Conheça as empresas que combinam bom payout e baixa correlação com a política, oferecendo proteção ao portfólio.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "ações",
+      "eleição"
+    ],
+    "date": "2026-06-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-08-saude-financeira-em-tempos-de-alta-inflacao-5-passos-praticos",
+    "slug": "2026-06-08-saude-financeira-em-tempos-de-alta-inflacao-5-passos-praticos",
+    "title": "Saúde financeira em tempos de alta inflação: 5 passos práticos",
+    "category": "Saúde Financeira",
+    "summary": "A inflação ainda pressiona o bolso, mas há medidas simples para proteger o poder de compra. Aprenda a ajustar orçamento, renegociar dívidas e otimizar investimentos.",
+    "readTime": "5",
+    "tags": [
+      "inflação",
+      "orçamento",
+      "educação financeira"
+    ],
+    "date": "2026-06-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-08-criptomoedas-em-2026-bitcoin-ainda-lidera-mas-altcoins-ganham-forca",
+    "slug": "2026-06-08-criptomoedas-em-2026-bitcoin-ainda-lidera-mas-altcoins-ganham-forca",
+    "title": "Criptomoedas em 2026: Bitcoin ainda lidera, mas altcoins ganham força",
+    "category": "Criptomoedas",
+    "summary": "Com o dólar em baixa e a volatilidade global, o Bitcoin segue como reserva de valor, enquanto projetos DeFi e Web3 apresentam oportunidades de alta. Saiba onde alocar seu capital cripto.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "altcoins",
+      "DeFi"
+    ],
+    "date": "2026-06-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-08-como-montar-um-fundo-de-emergencia-resiliente-em-2026",
+    "slug": "2026-06-08-como-montar-um-fundo-de-emergencia-resiliente-em-2026",
+    "title": "Como montar um fundo de emergência resiliente em 2026",
+    "category": "Investimentos",
+    "summary": "A volatilidade do mercado e a incerteza política exigem uma reserva de emergência bem estruturada. Veja quais ativos usar para garantir liquidez, proteção contra inflação e segurança.",
+    "readTime": "5",
+    "tags": [
+      "fundo de emergência",
+      "liquidez",
+      "renda fixa"
+    ],
+    "date": "2026-06-08",
+    "breaking": false
+  },
+  {
     "id": "2026-06-07-ibovespa-a-beira-de-nova-tendencia-o-que-o-investidor-deve-observar-ag",
     "slug": "2026-06-07-ibovespa-a-beira-de-nova-tendencia-o-que-o-investidor-deve-observar-ag",
     "title": "Ibovespa à beira de nova tendência: o que o investidor deve observar agora",
@@ -813,95 +903,6 @@
       "dólar",
       "importação",
       "ETF"
-    ],
-    "date": "2026-06-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-02-ibovespa-a-beira-de-ruptura-o-que-a-queda-da-selic-indica-para-o-inves",
-    "slug": "2026-06-02-ibovespa-a-beira-de-ruptura-o-que-a-queda-da-selic-indica-para-o-inves",
-    "title": "Ibovespa à beira de ruptura: o que a queda da Selic indica para o investidor",
-    "category": "Investimentos",
-    "summary": "Entenda como a redução da taxa Selic está moldando o cenário de ações e quais setores podem liderar a retomada. Aprenda a ajustar sua carteira para aproveitar o momento de volatilidade pós‑eleição.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "corte da Selic"
-    ],
-    "date": "2026-06-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-02-renda-fixa-em-2026-onde-a-taxa-selic-baixa-cria-oportunidades-reais",
-    "slug": "2026-06-02-renda-fixa-em-2026-onde-a-taxa-selic-baixa-cria-oportunidades-reais",
-    "title": "Renda fixa em 2026: onde a taxa Selic baixa cria oportunidades reais",
-    "category": "Renda Fixa",
-    "summary": "Descubra quais títulos de renda fixa oferecem melhor retorno frente ao novo patamar da Selic. Saiba como montar uma carteira que proteja seu capital e gere renda consistente.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "CDB",
-      "NTN-B"
-    ],
-    "date": "2026-06-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-02-acoes-de-energia-e-mineracao-por-que-sao-a-jogada-segura-neste-ciclo-d",
-    "slug": "2026-06-02-acoes-de-energia-e-mineracao-por-que-sao-a-jogada-segura-neste-ciclo-d",
-    "title": "Ações de energia e mineração: por que são a jogada segura neste ciclo de corte de juros",
-    "category": "Renda Variável",
-    "summary": "Analise o desempenho dos setores de energia e mineração diante da queda do dólar e da Selic. Receba recomendações de empresas com dividendos robustos e potencial de valorização.",
-    "readTime": "5",
-    "tags": [
-      "energia",
-      "mineração",
-      "dividendos"
-    ],
-    "date": "2026-06-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-02-saude-financeira-pessoal-como-usar-a-queda-do-dolar-a-seu-favor",
-    "slug": "2026-06-02-saude-financeira-pessoal-como-usar-a-queda-do-dolar-a-seu-favor",
-    "title": "Saúde financeira pessoal: como usar a queda do dólar a seu favor",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda táticas para proteger seu orçamento e aumentar o poder de compra aproveitando o dólar em baixa. Dicas práticas para renegociar dívidas e otimizar investimentos.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "orçamento",
-      "renegociação"
-    ],
-    "date": "2026-06-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-02-criptomoedas-em-2026-bitcoin-segue-a-mare-da-volatilidade-global",
-    "slug": "2026-06-02-criptomoedas-em-2026-bitcoin-segue-a-mare-da-volatilidade-global",
-    "title": "Criptomoedas em 2026: Bitcoin segue a maré da volatilidade global",
-    "category": "Criptomoedas",
-    "summary": "Explore o comportamento do Bitcoin e das principais altcoins frente ao cenário econômico brasileiro e internacional. Receba orientações para proteger e potencializar sua carteira cripto.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "altcoins",
-      "regulação"
-    ],
-    "date": "2026-06-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-02-como-montar-uma-carteira-defensiva-para-o-ano-eleitoral-brasileiro",
-    "slug": "2026-06-02-como-montar-uma-carteira-defensiva-para-o-ano-eleitoral-brasileiro",
-    "title": "Como montar uma carteira defensiva para o ano eleitoral brasileiro",
-    "category": "Investimentos",
-    "summary": "Saiba quais ativos são menos sensíveis à política e como estruturar uma carteira que preserve capital durante a campanha. Estratégias de hedge e alocação equilibrada para 2026.",
-    "readTime": "5",
-    "tags": [
-      "carteira defensiva",
-      "eleições",
-      "hedge"
     ],
     "date": "2026-06-02",
     "breaking": false
