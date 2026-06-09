@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-09-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
+    "slug": "2026-06-09-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
+    "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
+    "category": "Investimentos",
+    "summary": "Com o índice rondando 176 mil pontos e alta volatilidade, o investidor precisa redefinir estratégias. Este artigo mostra os cenários mais prováveis e como posicionar a carteira para proteger ganhos.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "volatilidade",
+      "corte-selic"
+    ],
+    "date": "2026-06-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-09-tesouro-selic-x-cdb-onde-estacionar-o-dinheiro-com-a-selic-em-1425",
+    "slug": "2026-06-09-tesouro-selic-x-cdb-onde-estacionar-o-dinheiro-com-a-selic-em-1425",
+    "title": "Tesouro Selic x CDB: onde estacionar o dinheiro com a Selic em 14,25%?",
+    "category": "Renda Fixa",
+    "summary": "Com a taxa Selic em 14,25% ao ano, a renda fixa oferece oportunidades de rendimento acima da inflação. Comparativo prático entre Tesouro Selic e CDBs de bancos médios para quem busca segurança e liquidez.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Selic",
+      "CDB",
+      "renda fixa"
+    ],
+    "date": "2026-06-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-09-acoes-de-energia-e-infraestrutura-oportunidades-no-ciclo-de-corte-da-s",
+    "slug": "2026-06-09-acoes-de-energia-e-infraestrutura-oportunidades-no-ciclo-de-corte-da-s",
+    "title": "Ações de energia e infraestrutura: oportunidades no ciclo de corte da Selic",
+    "category": "Renda Variável",
+    "summary": "A queda da Selic abre caminho para a reavaliação de setores de capital intensivo. O artigo analisa por que energia e infraestrutura podem liderar a recuperação da bolsa nos próximos meses.",
+    "readTime": "5",
+    "tags": [
+      "energia",
+      "infraestrutura",
+      "corte-selic"
+    ],
+    "date": "2026-06-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-09-planejamento-financeiro-em-ano-eleitoral-como-blindar-seu-orcamento",
+    "slug": "2026-06-09-planejamento-financeiro-em-ano-eleitoral-como-blindar-seu-orcamento",
+    "title": "Planejamento financeiro em ano eleitoral: como blindar seu orçamento",
+    "category": "Saúde Financeira",
+    "summary": "A instabilidade política pode impactar salários, inflação e crédito. Aprenda a montar um orçamento resiliente, manter reservas de emergência e evitar armadilhas de consumo neste período sensível.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "reserva-de-emergência",
+      "ano-eleitoral"
+    ],
+    "date": "2026-06-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-09-bitcoin-a-beira-de-novo-rally-o-que-dizem-os-indicadores-globais",
+    "slug": "2026-06-09-bitcoin-a-beira-de-novo-rally-o-que-dizem-os-indicadores-globais",
+    "title": "Bitcoin à beira de novo rally? O que dizem os indicadores globais",
+    "category": "Criptomoedas",
+    "summary": "Com o dólar em queda e a volatilidade do mercado mundial, o Bitcoin pode iniciar um novo ciclo de alta. Análise dos principais indicadores técnicos e macroeconômicos que apontam para o próximo movimento.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "crypto",
+      "dolar"
+    ],
+    "date": "2026-06-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-09-como-escolher-fundos-de-acoes-em-meio-a-incerteza-eleitoral",
+    "slug": "2026-06-09-como-escolher-fundos-de-acoes-em-meio-a-incerteza-eleitoral",
+    "title": "Como escolher fundos de ações em meio à incerteza eleitoral",
+    "category": "Investimentos",
+    "summary": "Fundos de ações podem ser uma alternativa para quem quer exposição ao mercado sem escolher papéis individuais. O guia apresenta critérios de seleção que ajudam a mitigar riscos políticos e de volatilidade.",
+    "readTime": "5",
+    "tags": [
+      "fundos-de-acoes",
+      "investimento",
+      "eleicoes"
+    ],
+    "date": "2026-06-09",
+    "breaking": false
+  },
+  {
     "id": "2026-06-08-ibovespa-a-beira-de-ruptura-o-que-os-investidores-devem-fazer-agora",
     "slug": "2026-06-08-ibovespa-a-beira-de-ruptura-o-que-os-investidores-devem-fazer-agora",
     "title": "Ibovespa à beira de ruptura: o que os investidores devem fazer agora",
@@ -811,101 +901,6 @@
       "alocação",
       "renda fixa",
       "criptomoedas"
-    ],
-    "date": "2026-06-03",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-03-ibovespa-em-176-mil-estrategias-para-navegar-na-volatilidade-pre-eleit",
-    "slug": "2026-06-03-ibovespa-em-176-mil-estrategias-para-navegar-na-volatilidade-pre-eleit",
-    "title": "Ibovespa em 176 mil: Estratégias para navegar na volatilidade pré-eleitoral",
-    "category": "Investimentos",
-    "summary": "Entenda como a alta volatilidade do Ibovespa pode afetar sua carteira e descubra táticas práticas para proteger ganhos e aproveitar oportunidades antes das eleições.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "volatilidade",
-      "eleições",
-      "hedge"
-    ],
-    "date": "2026-06-03",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-03-tesouro-selic-2026-por-que-ainda-e-a-aposta-mais-segura-em-meio-ao-cor",
-    "slug": "2026-06-03-tesouro-selic-2026-por-que-ainda-e-a-aposta-mais-segura-em-meio-ao-cor",
-    "title": "Tesouro Selic 2026: Por que ainda é a aposta mais segura em meio ao corte da taxa",
-    "category": "Renda Fixa",
-    "summary": "Analise o desempenho do Tesouro Selic com a Selic em 14,25% e veja como ele pode ser usado para preservar capital enquanto o ciclo de cortes avança.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Selic",
-      "renda fixa",
-      "corte de juros",
-      "liquidez"
-    ],
-    "date": "2026-06-03",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-03-acoes-de-dividendos-refugio-seguro-na-eleicao-de-2026",
-    "slug": "2026-06-03-acoes-de-dividendos-refugio-seguro-na-eleicao-de-2026",
-    "title": "Ações de dividendos: Refúgio seguro na eleição de 2026?",
-    "category": "Renda Variável",
-    "summary": "Explore quais empresas brasileiras pagam dividendos consistentes e como elas podem proteger seu patrimônio durante o período eleitoral.",
-    "readTime": "5",
-    "tags": [
-      "ações de dividendos",
-      "renda variável",
-      "eleições 2026"
-    ],
-    "date": "2026-06-03",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-03-dolar-a-r491-o-que-a-queda-de-105-no-ano-significa-para-sua-carteira",
-    "slug": "2026-06-03-dolar-a-r491-o-que-a-queda-de-105-no-ano-significa-para-sua-carteira",
-    "title": "Dólar a R$4,91: O que a queda de 10,5% no ano significa para sua carteira",
-    "category": "Saúde Financeira",
-    "summary": "Entenda como a desvalorização do dólar impacta investimentos, compras internacionais e a proteção contra a inflação no Brasil.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "câmbio",
-      "inflação",
-      "proteção"
-    ],
-    "date": "2026-06-03",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-03-criptomoedas-em-2026-como-o-bitcoin-reage-a-volatilidade-global-e-o-qu",
-    "slug": "2026-06-03-criptomoedas-em-2026-como-o-bitcoin-reage-a-volatilidade-global-e-o-qu",
-    "title": "Criptomoedas em 2026: Como o Bitcoin reage à volatilidade global e o que esperar",
-    "category": "Criptomoedas",
-    "summary": "Analise o comportamento do Bitcoin frente à instabilidade dos mercados tradicionais e descubra estratégias de curto e longo prazo para investidores de cripto.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade",
-      "DCA",
-      "layer-2"
-    ],
-    "date": "2026-06-03",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-03-ipca15-em-foco-como-a-inflacao-medida-impacta-suas-decisoes-de-investi",
-    "slug": "2026-06-03-ipca15-em-foco-como-a-inflacao-medida-impacta-suas-decisoes-de-investi",
-    "title": "IPCA‑15 em foco: Como a inflação medida impacta suas decisões de investimento",
-    "category": "Investimentos",
-    "summary": "Descubra a importância do IPCA‑15 como termômetro da inflação e veja como ajustar sua carteira para proteger o poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "IPCA-15",
-      "inflação",
-      "cortes de juros",
-      "planejamento"
     ],
     "date": "2026-06-03",
     "breaking": false
