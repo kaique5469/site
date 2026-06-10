@@ -1,5 +1,101 @@
 [
   {
+    "id": "2026-06-10-corte-da-selic-avanca-o-que-isso-significa-para-seu-portfolio-agora",
+    "slug": "2026-06-10-corte-da-selic-avanca-o-que-isso-significa-para-seu-portfolio-agora",
+    "title": "Corte da Selic avança: o que isso significa para seu portfólio agora",
+    "category": "Investimentos",
+    "summary": "Entenda como a queda da taxa Selic está remodelando oportunidades de renda fixa e ações. Descubra os setores mais beneficiados e como ajustar sua alocação para capturar ganhos.",
+    "readTime": "5",
+    "tags": [
+      "corte-selic",
+      "rebalanceamento",
+      "renda-fixa",
+      "ações"
+    ],
+    "date": "2026-06-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-10-ibovespa-volatil-estrategias-para-proteger-seu-capital-em-maio",
+    "slug": "2026-06-10-ibovespa-volatil-estrategias-para-proteger-seu-capital-em-maio",
+    "title": "Ibovespa volátil: estratégias para proteger seu capital em maio",
+    "category": "Renda Variável",
+    "summary": "Com o índice rondando 176 mil pontos e alta volatilidade, veja táticas para preservar ganhos e limitar perdas. Aprenda a usar stop loss, hedge e seleção setorial.",
+    "readTime": "5",
+    "tags": [
+      "ibovespa",
+      "volatilidade",
+      "stop-loss",
+      "hedge"
+    ],
+    "date": "2026-06-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-10-dolar-a-r491-oportunidades-para-quem-pensa-em-renda-fixa-internacional",
+    "slug": "2026-06-10-dolar-a-r491-oportunidades-para-quem-pensa-em-renda-fixa-internacional",
+    "title": "Dólar a R$4,91: oportunidades para quem pensa em renda fixa internacional",
+    "category": "Renda Fixa",
+    "summary": "A moeda americana em seu menor patamar dos últimos dois anos abre janelas para títulos internacionais. Saiba como acessar esses ativos e quais os riscos.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "renda-fixa-internacional",
+      "tesouro-eua",
+      "câmbio"
+    ],
+    "date": "2026-06-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-10-saude-financeira-em-ano-eleitoral-como-manter-o-plano-de-investimentos",
+    "slug": "2026-06-10-saude-financeira-em-ano-eleitoral-como-manter-o-plano-de-investimentos",
+    "title": "Saúde financeira em ano eleitoral: como manter o plano de investimentos sólido",
+    "category": "Saúde Financeira",
+    "summary": "Eleição traz incertezas, mas seu orçamento não precisa sofrer. Aprenda a revisar metas, reforçar a reserva de emergência e controlar gastos em tempos de instabilidade.",
+    "readTime": "5",
+    "tags": [
+      "planejamento-financeiro",
+      "reserva-de-emergência",
+      "eleição",
+      "controle-de-gastos"
+    ],
+    "date": "2026-06-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-10-bitcoin-acompanha-volatilidade-global-o-que-esperar-nos-proximos-meses",
+    "slug": "2026-06-10-bitcoin-acompanha-volatilidade-global-o-que-esperar-nos-proximos-meses",
+    "title": "Bitcoin acompanha volatilidade global: o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "Com o cripto mercado alinhado ao risco global, veja os fatores que podem mover o Bitcoin nos próximos ciclos e como proteger sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "volatilidade",
+      "stablecoins",
+      "derivativos"
+    ],
+    "date": "2026-06-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-10-debentures-incentivadas-renda-fixa-com-beneficio-fiscal-em-foco",
+    "slug": "2026-06-10-debentures-incentivadas-renda-fixa-com-beneficio-fiscal-em-foco",
+    "title": "Debêntures incentivadas: renda fixa com benefício fiscal em foco",
+    "category": "Renda Fixa",
+    "summary": "Conheça as debêntures de infraestrutura que oferecem isenção de IR e rendimentos atrativos. Avalie risco, prazo e setores mais promissores para compor sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "debêntures",
+      "isenção-ir",
+      "infraestrutura",
+      "renda-fixa"
+    ],
+    "date": "2026-06-10",
+    "breaking": false
+  },
+  {
     "id": "2026-06-10-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
     "slug": "2026-06-10-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
     "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
@@ -812,96 +908,6 @@
       "câmbio"
     ],
     "date": "2026-06-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-04-ibovespa-a-beira-de-ruptura-o-que-a-queda-da-selic-realmente-significa",
-    "slug": "2026-06-04-ibovespa-a-beira-de-ruptura-o-que-a-queda-da-selic-realmente-significa",
-    "title": "Ibovespa à beira de ruptura: o que a queda da Selic realmente significa",
-    "category": "Investimentos",
-    "summary": "Analiso o impacto da redução da taxa Selic sobre o Ibovespa e mostro como posicionar a carteira para aproveitar a volatilidade de maio.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic",
-      "cortes de juros"
-    ],
-    "date": "2026-06-04",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-04-tesouro-selic-x-cdb-quem-ganha-com-a-queda-do-dolar",
-    "slug": "2026-06-04-tesouro-selic-x-cdb-quem-ganha-com-a-queda-do-dolar",
-    "title": "Tesouro Selic x CDB: quem ganha com a queda do dólar?",
-    "category": "Renda Fixa",
-    "summary": "Comparo Tesouro Selic e CDBs de bancos médios mostrando como a desvalorização do dólar afeta a rentabilidade real desses ativos.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Selic",
-      "CDB",
-      "dólar"
-    ],
-    "date": "2026-06-04",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-04-acoes-de-energia-e-infraestrutura-apostas-seguras-no-ano-eleitoral",
-    "slug": "2026-06-04-acoes-de-energia-e-infraestrutura-apostas-seguras-no-ano-eleitoral",
-    "title": "Ações de energia e infraestrutura: apostas seguras no ano eleitoral",
-    "category": "Renda Variável",
-    "summary": "Aponto setores menos sensíveis ao risco político e mostro como montar uma carteira enxuta com energia, saneamento e transportes.",
-    "readTime": "5",
-    "tags": [
-      "energia",
-      "saneamento",
-      "infraestrutura"
-    ],
-    "date": "2026-06-04",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-04-orcamento-domestico-como-usar-a-queda-do-dolar-para-melhorar-sua-saude",
-    "slug": "2026-06-04-orcamento-domestico-como-usar-a-queda-do-dolar-para-melhorar-sua-saude",
-    "title": "Orçamento doméstico: como usar a queda do dólar para melhorar sua saúde financeira",
-    "category": "Saúde Financeira",
-    "summary": "Ensino a reorganizar despesas e aproveitar a moeda americana mais barata para reduzir custos e acelerar metas de investimento.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "dólar",
-      "quitação de dívida"
-    ],
-    "date": "2026-06-04",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-04-bitcoin-em-2026-volatilidade-global-ou-oportunidade-de-longo-prazo",
-    "slug": "2026-06-04-bitcoin-em-2026-volatilidade-global-ou-oportunidade-de-longo-prazo",
-    "title": "Bitcoin em 2026: volatilidade global ou oportunidade de longo prazo?",
-    "category": "Criptomoedas",
-    "summary": "Analiso o comportamento do Bitcoin frente à política monetária dos EUA e ao cenário brasileiro, indicando se vale a pena manter posição.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade",
-      "investimento"
-    ],
-    "date": "2026-06-04",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-04-dividendos-em-tempos-de-corte-de-juros-quais-papeis-realmente-entregam",
-    "slug": "2026-06-04-dividendos-em-tempos-de-corte-de-juros-quais-papeis-realmente-entregam",
-    "title": "Dividendos em tempos de corte de juros: quais papéis realmente entregam",
-    "category": "Investimentos",
-    "summary": "Listo as empresas brasileiras com histórico de pagamento de dividendos acima de 6% ao ano e explico como a queda da Selic pode melhorar ainda mais os rendimentos.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "ações",
-      "rendimento"
-    ],
-    "date": "2026-06-04",
     "breaking": false
   }
 ]
