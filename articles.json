@@ -1,5 +1,96 @@
 [
   {
+    "id": "2026-06-15-corte-da-selic-acelera-o-que-isso-significa-para-seu-portfolio-agora",
+    "slug": "2026-06-15-corte-da-selic-acelera-o-que-isso-significa-para-seu-portfolio-agora",
+    "title": "Corte da Selic acelera: o que isso significa para seu portfólio agora",
+    "category": "Investimentos",
+    "summary": "Entenda como a redução da taxa Selic afeta renda fixa, ações e cripto. Descubra onde posicionar seu dinheiro para aproveitar a nova fase de juros mais baixos.",
+    "readTime": "5",
+    "tags": [
+      "corte-selic",
+      "renda-fixa",
+      "ações",
+      "criptomoedas"
+    ],
+    "date": "2026-06-15",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-15-tesouro-selic-x-cdb-qual-rende-mais-com-a-taxa-em-queda",
+    "slug": "2026-06-15-tesouro-selic-x-cdb-qual-rende-mais-com-a-taxa-em-queda",
+    "title": "Tesouro Selic x CDB: qual rende mais com a taxa em queda?",
+    "category": "Renda Fixa",
+    "summary": "Compare a rentabilidade e risco do Tesouro Selic versus CDBs de bancos médios. Saiba qual instrumento oferece melhor proteção contra a volatilidade.",
+    "readTime": "5",
+    "tags": [
+      "tesouro-selic",
+      "cdb",
+      "rentabilidade"
+    ],
+    "date": "2026-06-15",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-15-ibovespa-176-mil-setores-em-destaque-no-cenario-eleitoral",
+    "slug": "2026-06-15-ibovespa-176-mil-setores-em-destaque-no-cenario-eleitoral",
+    "title": "Ibovespa 176 mil: setores em destaque no cenário eleitoral",
+    "category": "Renda Variável",
+    "summary": "Identifique as áreas que podem se beneficiar ou sofrer com a eleição. Aprenda a ajustar sua carteira de ações frente à volatilidade política.",
+    "readTime": "5",
+    "tags": [
+      "ibovespa",
+      "eleição",
+      "setores"
+    ],
+    "date": "2026-06-15",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-15-dolar-a-r-491-como-proteger-seu-poder-de-compra-em-2026",
+    "slug": "2026-06-15-dolar-a-r-491-como-proteger-seu-poder-de-compra-em-2026",
+    "title": "Dólar a R$ 4,91: como proteger seu poder de compra em 2026",
+    "category": "Saúde Financeira",
+    "summary": "Com o real se fortalecendo, descubra ferramentas para blindar sua renda contra futuras desvalorizações cambiais e manter a inflação sob controle.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "proteção-cambial",
+      "inflação"
+    ],
+    "date": "2026-06-15",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-15-bitcoin-em-2026-volatilidade-global-e-oportunidades-locais",
+    "slug": "2026-06-15-bitcoin-em-2026-volatilidade-global-e-oportunidades-locais",
+    "title": "Bitcoin em 2026: volatilidade global e oportunidades locais",
+    "category": "Criptomoedas",
+    "summary": "Analise a correlação do Bitcoin com o mercado tradicional e descubra como o cenário brasileiro pode abrir portas para investidores cautelosos.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "volatilidade",
+      "dca"
+    ],
+    "date": "2026-06-15",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-15-ipca-15-em-foco-como-a-inflacao-afeta-seus-investimentos-em-2026",
+    "slug": "2026-06-15-ipca-15-em-foco-como-a-inflacao-afeta-seus-investimentos-em-2026",
+    "title": "IPCA-15 em foco: como a inflação afeta seus investimentos em 2026",
+    "category": "Investimentos",
+    "summary": "Desvende a relação entre o IPCA-15, os juros e a rentabilidade dos principais ativos. Saiba ajustes necessários para proteger sua carteira da inflação.",
+    "readTime": "5",
+    "tags": [
+      "ipca-15",
+      "inflação",
+      "renda-fixa"
+    ],
+    "date": "2026-06-15",
+    "breaking": false
+  },
+  {
     "id": "2026-06-14-ibovespa-em-baixa-como-proteger-sua-carteira-antes-da-eleicao",
     "slug": "2026-06-14-ibovespa-em-baixa-como-proteger-sua-carteira-antes-da-eleicao",
     "title": "Ibovespa em baixa: como proteger sua carteira antes da eleição",
@@ -816,96 +907,6 @@
       "FIIs",
       "logística",
       "renda"
-    ],
-    "date": "2026-06-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-09-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
-    "slug": "2026-06-09-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
-    "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
-    "category": "Investimentos",
-    "summary": "Com o índice rondando 176 mil pontos e alta volatilidade, o investidor precisa redefinir estratégias. Este artigo mostra os cenários mais prováveis e como posicionar a carteira para proteger ganhos.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "volatilidade",
-      "corte-selic"
-    ],
-    "date": "2026-06-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-09-tesouro-selic-x-cdb-onde-estacionar-o-dinheiro-com-a-selic-em-1425",
-    "slug": "2026-06-09-tesouro-selic-x-cdb-onde-estacionar-o-dinheiro-com-a-selic-em-1425",
-    "title": "Tesouro Selic x CDB: onde estacionar o dinheiro com a Selic em 14,25%?",
-    "category": "Renda Fixa",
-    "summary": "Com a taxa Selic em 14,25% ao ano, a renda fixa oferece oportunidades de rendimento acima da inflação. Comparativo prático entre Tesouro Selic e CDBs de bancos médios para quem busca segurança e liquidez.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Selic",
-      "CDB",
-      "renda fixa"
-    ],
-    "date": "2026-06-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-09-acoes-de-energia-e-infraestrutura-oportunidades-no-ciclo-de-corte-da-s",
-    "slug": "2026-06-09-acoes-de-energia-e-infraestrutura-oportunidades-no-ciclo-de-corte-da-s",
-    "title": "Ações de energia e infraestrutura: oportunidades no ciclo de corte da Selic",
-    "category": "Renda Variável",
-    "summary": "A queda da Selic abre caminho para a reavaliação de setores de capital intensivo. O artigo analisa por que energia e infraestrutura podem liderar a recuperação da bolsa nos próximos meses.",
-    "readTime": "5",
-    "tags": [
-      "energia",
-      "infraestrutura",
-      "corte-selic"
-    ],
-    "date": "2026-06-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-09-planejamento-financeiro-em-ano-eleitoral-como-blindar-seu-orcamento",
-    "slug": "2026-06-09-planejamento-financeiro-em-ano-eleitoral-como-blindar-seu-orcamento",
-    "title": "Planejamento financeiro em ano eleitoral: como blindar seu orçamento",
-    "category": "Saúde Financeira",
-    "summary": "A instabilidade política pode impactar salários, inflação e crédito. Aprenda a montar um orçamento resiliente, manter reservas de emergência e evitar armadilhas de consumo neste período sensível.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "reserva-de-emergência",
-      "ano-eleitoral"
-    ],
-    "date": "2026-06-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-09-bitcoin-a-beira-de-novo-rally-o-que-dizem-os-indicadores-globais",
-    "slug": "2026-06-09-bitcoin-a-beira-de-novo-rally-o-que-dizem-os-indicadores-globais",
-    "title": "Bitcoin à beira de novo rally? O que dizem os indicadores globais",
-    "category": "Criptomoedas",
-    "summary": "Com o dólar em queda e a volatilidade do mercado mundial, o Bitcoin pode iniciar um novo ciclo de alta. Análise dos principais indicadores técnicos e macroeconômicos que apontam para o próximo movimento.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "crypto",
-      "dolar"
-    ],
-    "date": "2026-06-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-09-como-escolher-fundos-de-acoes-em-meio-a-incerteza-eleitoral",
-    "slug": "2026-06-09-como-escolher-fundos-de-acoes-em-meio-a-incerteza-eleitoral",
-    "title": "Como escolher fundos de ações em meio à incerteza eleitoral",
-    "category": "Investimentos",
-    "summary": "Fundos de ações podem ser uma alternativa para quem quer exposição ao mercado sem escolher papéis individuais. O guia apresenta critérios de seleção que ajudam a mitigar riscos políticos e de volatilidade.",
-    "readTime": "5",
-    "tags": [
-      "fundos-de-acoes",
-      "investimento",
-      "eleicoes"
     ],
     "date": "2026-06-09",
     "breaking": false
