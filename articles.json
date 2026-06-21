@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-21-corte-da-selic-o-que-o-novo-patamar-de-1375-significa-para-seu-bolso",
+    "slug": "2026-06-21-corte-da-selic-o-que-o-novo-patamar-de-1375-significa-para-seu-bolso",
+    "title": "Corte da Selic: o que o novo patamar de 13,75% significa para seu bolso",
+    "category": "Investimentos",
+    "summary": "Entenda como a primeira redução da Selic impacta renda fixa, ações e consumo. Descubra onde alocar recursos para aproveitar a queda da taxa.",
+    "readTime": "5",
+    "tags": [
+      "selic",
+      "corte-de-juros",
+      "renda-fixa"
+    ],
+    "date": "2026-06-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-21-ibovespa-em-176-mil-como-navegar-na-volatilidade-poseleicao",
+    "slug": "2026-06-21-ibovespa-em-176-mil-como-navegar-na-volatilidade-poseleicao",
+    "title": "Ibovespa em 176 mil: como navegar na volatilidade pós‑eleição",
+    "category": "Renda Variável",
+    "summary": "Analise os principais drivers da bolsa após o pico de 176 mil pontos e identifique setores com melhor risco‑retorno no cenário eleitoral.",
+    "readTime": "5",
+    "tags": [
+      "ibovespa",
+      "volatilidade",
+      "eleições"
+    ],
+    "date": "2026-06-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-21-dolar-a-r491-oportunidades-e-armadilhas-para-quem-investe-em-moeda-est",
+    "slug": "2026-06-21-dolar-a-r491-oportunidades-e-armadilhas-para-quem-investe-em-moeda-est",
+    "title": "Dólar a R$4,91: oportunidades e armadilhas para quem investe em moeda estrangeira",
+    "category": "Renda Fixa",
+    "summary": "Com o dólar em menor nível em dois anos, veja como proteger a carteira e onde encontrar rendimentos reais frente à inflação.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "câmbio",
+      "proteção"
+    ],
+    "date": "2026-06-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-21-saude-financeira-em-tempos-de-eleicao-5-passos-para-manter-a-disciplin",
+    "slug": "2026-06-21-saude-financeira-em-tempos-de-eleicao-5-passos-para-manter-a-disciplin",
+    "title": "Saúde financeira em tempos de eleição: 5 passos para manter a disciplina",
+    "category": "Saúde Financeira",
+    "summary": "Mesmo com incertezas políticas, hábitos sólidos garantem estabilidade. Aprenda cinco ações simples que fortalecem seu orçamento e investimentos.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "educação-financeira",
+      "fundo-de-emergência"
+    ],
+    "date": "2026-06-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-21-bitcoin-em-linha-com-a-volatilidade-global-o-que-esperar-nos-proximos-",
+    "slug": "2026-06-21-bitcoin-em-linha-com-a-volatilidade-global-o-que-esperar-nos-proximos-",
+    "title": "Bitcoin em linha com a volatilidade global: o que esperar nos próximos 12 meses",
+    "category": "Criptomoedas",
+    "summary": "Análise dos fatores que movem o Bitcoin frente ao cenário macro e dicas práticas para quem pretende manter ou entrar no mercado cripto.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "volatilidade",
+      "crypto"
+    ],
+    "date": "2026-06-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-21-ipca15-em-foco-como-a-inflacao-afeta-seus-investimentos-em-2026",
+    "slug": "2026-06-21-ipca15-em-foco-como-a-inflacao-afeta-seus-investimentos-em-2026",
+    "title": "IPCA‑15 em foco: como a inflação afeta seus investimentos em 2026",
+    "category": "Renda Fixa",
+    "summary": "Com o IPCA‑15 como termômetro da inflação, entenda seu impacto nos títulos públicos, debêntures e fundos de renda fixa.",
+    "readTime": "5",
+    "tags": [
+      "inflacao",
+      "ipca-15",
+      "titulos-publicos"
+    ],
+    "date": "2026-06-21",
+    "breaking": false
+  },
+  {
     "id": "2026-06-20-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
     "slug": "2026-06-20-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
     "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
@@ -807,96 +897,6 @@
       "juros"
     ],
     "date": "2026-06-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-15-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
-    "slug": "2026-06-15-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
-    "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
-    "category": "Investimentos",
-    "summary": "Com o índice rondando 176 mil pontos e a volatilidade alta, analisamos os cenários de curto prazo e as estratégias mais seguras para proteger o capital.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "volatilidade",
-      "corte da Selic"
-    ],
-    "date": "2026-06-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-15-renda-fixa-poscorte-como-montar-carteira-com-a-selic-a-1425",
-    "slug": "2026-06-15-renda-fixa-poscorte-como-montar-carteira-com-a-selic-a-1425",
-    "title": "Renda Fixa pós‑corte: como montar carteira com a Selic a 14,25%",
-    "category": "Renda Fixa",
-    "summary": "Entenda como ajustar títulos públicos e privados diante da primeira fase de corte da taxa Selic e maximize retorno sem aumentar risco.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "CDB",
-      "corte da Selic"
-    ],
-    "date": "2026-06-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-15-acoes-de-dividendos-porto-seguro-em-ano-eleitoral",
-    "slug": "2026-06-15-acoes-de-dividendos-porto-seguro-em-ano-eleitoral",
-    "title": "Ações de dividendos: porto seguro em ano eleitoral",
-    "category": "Renda Variável",
-    "summary": "Descubra por que empresas pagadoras de dividendos são a escolha preferencial para investidores que buscam renda e menor volatilidade neste ciclo político.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "ações",
-      "ano eleitoral"
-    ],
-    "date": "2026-06-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-15-gestao-de-financas-pessoais-como-usar-a-queda-do-dolar-a-seu-favor",
-    "slug": "2026-06-15-gestao-de-financas-pessoais-como-usar-a-queda-do-dolar-a-seu-favor",
-    "title": "Gestão de finanças pessoais: como usar a queda do dólar a seu favor",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda táticas simples para aproveitar a desvalorização do dólar, reduzindo custos e aumentando a proteção do seu orçamento doméstico.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "finanças pessoais",
-      "câmbio"
-    ],
-    "date": "2026-06-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-15-bitcoin-em-2026-ainda-vale-a-pena-manter-posicao",
-    "slug": "2026-06-15-bitcoin-em-2026-ainda-vale-a-pena-manter-posicao",
-    "title": "Bitcoin em 2026: ainda vale a pena manter posição?",
-    "category": "Criptomoedas",
-    "summary": "Analisamos o desempenho do Bitcoin frente ao cenário macroglobal e indicamos os principais sinais para decidir entre manter ou reduzir a exposição.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "criptomoedas",
-      "volatilidade"
-    ],
-    "date": "2026-06-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-15-como-a-inflacao-medida-pelo-ipca15-pode-mudar-sua-estrategia-de-invest",
-    "slug": "2026-06-15-como-a-inflacao-medida-pelo-ipca15-pode-mudar-sua-estrategia-de-invest",
-    "title": "Como a inflação medida pelo IPCA‑15 pode mudar sua estratégia de investimento",
-    "category": "Investimentos",
-    "summary": "Entenda a importância do IPCA‑15 para ajustar alocações entre renda fixa, ações e ativos reais, garantindo proteção contra a alta de preços.",
-    "readTime": "5",
-    "tags": [
-      "IPCA-15",
-      "inflação",
-      "alocação de ativos"
-    ],
-    "date": "2026-06-15",
     "breaking": false
   }
 ]
