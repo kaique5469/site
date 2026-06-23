@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-23-corte-da-selic-acelera-o-que-esperar-do-ibovespa-nos-proximos-30-dias",
+    "slug": "2026-06-23-corte-da-selic-acelera-o-que-esperar-do-ibovespa-nos-proximos-30-dias",
+    "title": "Corte da Selic acelera: o que esperar do Ibovespa nos próximos 30 dias",
+    "category": "Investimentos",
+    "summary": "Com a taxa Selic em 14,25% e o início de um ciclo de cortes, o mercado de ações entra em fase de ajuste. O leitor entenderá como a política monetária afeta o Ibovespa e quais setores podem se beneficiar.",
+    "readTime": "5",
+    "tags": [
+      "selic",
+      "ibovespa",
+      "corte-de-juros"
+    ],
+    "date": "2026-06-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-23-tesouro-selic-2027-a-nova-ancora-para-quem-busca-seguranca-e-rentabili",
+    "slug": "2026-06-23-tesouro-selic-2027-a-nova-ancora-para-quem-busca-seguranca-e-rentabili",
+    "title": "Tesouro Selic 2027: a nova âncora para quem busca segurança e rentabilidade",
+    "category": "Renda Fixa",
+    "summary": "O título público indexado à Selic se destaca como alternativa ao caixa, especialmente com a taxa ainda alta. O artigo mostra como comprar, o rendimento esperado e os riscos envolvidos.",
+    "readTime": "5",
+    "tags": [
+      "tesouro-selic",
+      "renda-fixa",
+      "investimento-seguro"
+    ],
+    "date": "2026-06-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-23-aposte-nas-acoes-de-energia-por-que-o-setor-brilha-com-juros-em-queda",
+    "slug": "2026-06-23-aposte-nas-acoes-de-energia-por-que-o-setor-brilha-com-juros-em-queda",
+    "title": "Aposte nas ações de energia: por que o setor brilha com juros em queda",
+    "category": "Renda Variável",
+    "summary": "Energia elétrica e petróleo se beneficiam da redução de juros e da demanda crescente. O leitor aprenderá quais empresas monitorar e como montar uma posição defensiva.",
+    "readTime": "5",
+    "tags": [
+      "energia",
+      "ações",
+      "dividendos"
+    ],
+    "date": "2026-06-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-23-dolar-a-r-491-oportunidades-para-quem-quer-proteger-o-patrimonio",
+    "slug": "2026-06-23-dolar-a-r-491-oportunidades-para-quem-quer-proteger-o-patrimonio",
+    "title": "Dólar a R$ 4,91: oportunidades para quem quer proteger o patrimônio",
+    "category": "Saúde Financeira",
+    "summary": "Com a moeda americana em seu menor patamar em dois anos, há espaço para estratégias de hedge e investimento no exterior. O artigo detalha como usar o câmbio a favor da carteira.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "hedge",
+      "proteção-patrimonial"
+    ],
+    "date": "2026-06-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-23-criptomoedas-em-2026-bitcoin-estabiliza-mas-altcoins-ganham-forca",
+    "slug": "2026-06-23-criptomoedas-em-2026-bitcoin-estabiliza-mas-altcoins-ganham-forca",
+    "title": "Criptomoedas em 2026: Bitcoin estabiliza, mas altcoins ganham força",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin acompanha a volatilidade global, mas moedas como Solana e Avalanche apresentam crescimento de uso. O leitor entenderá onde alocar parte da carteira com risco controlado.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "altcoins",
+      "cripto-2026"
+    ],
+    "date": "2026-06-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-23-como-o-ipca15-pode-mudar-a-estrategia-de-investimentos-em-2026",
+    "slug": "2026-06-23-como-o-ipca15-pode-mudar-a-estrategia-de-investimentos-em-2026",
+    "title": "Como o IPCA‑15 pode mudar a estratégia de investimentos em 2026",
+    "category": "Investimentos",
+    "summary": "A inflação medida pelo IPCA‑15 está no centro das decisões de política monetária. O texto explica como ajustar a carteira diante de possíveis surpresas nos números.",
+    "readTime": "5",
+    "tags": [
+      "ipca-15",
+      "inflação",
+      "ajuste-de-carteira"
+    ],
+    "date": "2026-06-23",
+    "breaking": false
+  },
+  {
     "id": "2026-06-22-ibovespa-em-176-mil-por-que-a-queda-da-selic-pode-virar-o-jogo",
     "slug": "2026-06-22-ibovespa-em-176-mil-por-que-a-queda-da-selic-pode-virar-o-jogo",
     "title": "Ibovespa em 176 mil: por que a queda da Selic pode virar o jogo",
@@ -809,96 +899,6 @@
       "Inflação",
       "IPCA-15",
       "Cenário Macro"
-    ],
-    "date": "2026-06-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-17-corte-da-selic-acelera-o-que-isso-implica-para-sua-carteira-hoje",
-    "slug": "2026-06-17-corte-da-selic-acelera-o-que-isso-implica-para-sua-carteira-hoje",
-    "title": "Corte da Selic acelera: o que isso implica para sua carteira hoje",
-    "category": "Investimentos",
-    "summary": "Com a taxa Selic em 14,25% e o ciclo de corte em andamento, o investidor precisa ajustar a alocação entre renda fixa e risco. Entenda os cenários e os ajustes recomendados.",
-    "readTime": "5",
-    "tags": [
-      "selic",
-      "corte-de-juros",
-      "rebalanceamento"
-    ],
-    "date": "2026-06-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-17-tesouro-selic-x-cdb-onde-estacionar-o-dinheiro-em-2026",
-    "slug": "2026-06-17-tesouro-selic-x-cdb-onde-estacionar-o-dinheiro-em-2026",
-    "title": "Tesouro Selic x CDB: onde estacionar o dinheiro em 2026?",
-    "category": "Renda Fixa",
-    "summary": "Comparação prática entre Tesouro Selic e CDBs de bancos médios diante da Selic em 14,25% e a queda do dólar. Descubra a opção mais rentável e segura para o curto prazo.",
-    "readTime": "5",
-    "tags": [
-      "tesouro-selic",
-      "cdb",
-      "renda-fixa"
-    ],
-    "date": "2026-06-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-17-ibovespa-em-176-mil-setores-que-podem-liderar-a-recuperacao-poseleitor",
-    "slug": "2026-06-17-ibovespa-em-176-mil-setores-que-podem-liderar-a-recuperacao-poseleitor",
-    "title": "Ibovespa em 176 mil: setores que podem liderar a recuperação pós‑eleitoral",
-    "category": "Renda Variável",
-    "summary": "Com a volatilidade de maio e a incerteza eleitoral, alguns setores apresentam fundamentos sólidos. Saiba onde colocar seu dinheiro para capturar ganhos nos próximos trimestres.",
-    "readTime": "5",
-    "tags": [
-      "ibovespa",
-      "setores",
-      "ações"
-    ],
-    "date": "2026-06-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-17-caixa-forte-5-passos-para-blindar-seu-orcamento-em-ano-eleitoral",
-    "slug": "2026-06-17-caixa-forte-5-passos-para-blindar-seu-orcamento-em-ano-eleitoral",
-    "title": "Caixa forte: 5 passos para blindar seu orçamento em ano eleitoral",
-    "category": "Saúde Financeira",
-    "summary": "A instabilidade política pode mexer no bolso de qualquer pessoa. Aprenda cinco medidas práticas para manter suas finanças saudáveis mesmo com a volatilidade do mercado.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "reserva-de-emergência",
-      "dívidas"
-    ],
-    "date": "2026-06-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-17-bitcoin-em-2026-ainda-vale-a-aposta-contra-a-selic-alta",
-    "slug": "2026-06-17-bitcoin-em-2026-ainda-vale-a-aposta-contra-a-selic-alta",
-    "title": "Bitcoin em 2026: ainda vale a aposta contra a Selic alta?",
-    "category": "Criptomoedas",
-    "summary": "Com a Selic em 14,25% e o dólar em queda, o Bitcoin volta ao foco dos investidores. Analise os fatores que podem sustentar ou derrubar a criptomoeda nos próximos meses.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "criptomoedas",
-      "selic"
-    ],
-    "date": "2026-06-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-17-fundos-de-dividendos-renda-estavel-em-um-ano-de-tensao-politica",
-    "slug": "2026-06-17-fundos-de-dividendos-renda-estavel-em-um-ano-de-tensao-politica",
-    "title": "Fundos de Dividendos: renda estável em um ano de tensão política",
-    "category": "Investimentos",
-    "summary": "Em meio à cautela eleitoral, os fundos de dividendos podem oferecer fluxo de caixa consistente. Conheça os critérios de seleção e os melhores fundos para 2026.",
-    "readTime": "5",
-    "tags": [
-      "fundos-de-dividendos",
-      "renda-variável",
-      "investimentos"
     ],
     "date": "2026-06-17",
     "breaking": false
