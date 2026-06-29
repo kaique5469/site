@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-29-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
+    "slug": "2026-06-29-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
+    "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
+    "category": "Investimentos",
+    "summary": "Com o índice próximo de 176 mil pontos e a volatilidade de maio, o momento exige postura agressiva ou defensiva. Aprenda a alinhar estratégia ao ciclo de corte da Selic e ao clima eleitoral.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "corte-selic",
+      "eleições"
+    ],
+    "date": "2026-06-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-29-renda-fixa-no-ciclo-de-queda-da-selic-oportunidades-de-2026",
+    "slug": "2026-06-29-renda-fixa-no-ciclo-de-queda-da-selic-oportunidades-de-2026",
+    "title": "Renda fixa no ciclo de queda da Selic: oportunidades de 2026",
+    "category": "Renda Fixa",
+    "summary": "A taxa Selic em 14,25% cria janelas de rendimento atraente para títulos prefixados e DI. Descubra quais papéis oferecem melhor relação risco‑retorno neste cenário de cortes sucessivos.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "TesouroDireto",
+      "CDB"
+    ],
+    "date": "2026-06-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-29-acoes-que-podem-brilhar-na-crise-eleitoral-brasileira",
+    "slug": "2026-06-29-acoes-que-podem-brilhar-na-crise-eleitoral-brasileira",
+    "title": "Ações que podem brilhar na crise eleitoral brasileira",
+    "category": "Renda Variável",
+    "summary": "Mesmo com a cautela do mercado, alguns setores têm fundamentos sólidos para superar a turbulência política. Veja quais empresas podem liderar a recuperação do Ibovespa.",
+    "readTime": "5",
+    "tags": [
+      "ações",
+      "dividendos",
+      "commodities"
+    ],
+    "date": "2026-06-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-29-saude-financeira-como-usar-a-queda-do-dolar-a-seu-favor",
+    "slug": "2026-06-29-saude-financeira-como-usar-a-queda-do-dolar-a-seu-favor",
+    "title": "Saúde financeira: como usar a queda do dólar a seu favor",
+    "category": "Saúde Financeira",
+    "summary": "O dólar a R$ 4,91 abre oportunidades de poupança e investimento internacional. Aprenda a proteger seu patrimônio e a potencializar ganhos com a moeda em baixa.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "hedge",
+      "reservadeemergência"
+    ],
+    "date": "2026-06-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-29-criptomoedas-em-2026-bitcoin-segue-a-mare-da-volatilidade-global",
+    "slug": "2026-06-29-criptomoedas-em-2026-bitcoin-segue-a-mare-da-volatilidade-global",
+    "title": "Criptomoedas em 2026: Bitcoin segue a maré da volatilidade global",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin acompanha a oscilação dos mercados internacionais, mas ainda oferece oportunidades de diversificação. Conheça os fatores que movem o preço e como se posicionar com segurança.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "ETF",
+      "volatilidade"
+    ],
+    "date": "2026-06-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-29-como-a-inflacao-medida-pelo-ipca15-pode-mudar-sua-carteira-em-2026",
+    "slug": "2026-06-29-como-a-inflacao-medida-pelo-ipca15-pode-mudar-sua-carteira-em-2026",
+    "title": "Como a inflação medida pelo IPCA‑15 pode mudar sua carteira em 2026",
+    "category": "Investimentos",
+    "summary": "O IPCA‑15 está no centro das decisões de política monetária. Entenda seu impacto nos ativos de renda fixa e variável e ajuste sua alocação para proteger o poder de compra.",
+    "readTime": "5",
+    "tags": [
+      "IPCA-15",
+      "inflação",
+      "rebalanceamento"
+    ],
+    "date": "2026-06-29",
+    "breaking": false
+  },
+  {
     "id": "2026-06-28-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "slug": "2026-06-28-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
@@ -811,96 +901,6 @@
       "dólar",
       "importação",
       "ações"
-    ],
-    "date": "2026-06-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-23-corte-da-selic-acelera-o-que-esperar-do-ibovespa-nos-proximos-30-dias",
-    "slug": "2026-06-23-corte-da-selic-acelera-o-que-esperar-do-ibovespa-nos-proximos-30-dias",
-    "title": "Corte da Selic acelera: o que esperar do Ibovespa nos próximos 30 dias",
-    "category": "Investimentos",
-    "summary": "Com a taxa Selic em 14,25% e o início de um ciclo de cortes, o mercado de ações entra em fase de ajuste. O leitor entenderá como a política monetária afeta o Ibovespa e quais setores podem se beneficiar.",
-    "readTime": "5",
-    "tags": [
-      "selic",
-      "ibovespa",
-      "corte-de-juros"
-    ],
-    "date": "2026-06-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-23-tesouro-selic-2027-a-nova-ancora-para-quem-busca-seguranca-e-rentabili",
-    "slug": "2026-06-23-tesouro-selic-2027-a-nova-ancora-para-quem-busca-seguranca-e-rentabili",
-    "title": "Tesouro Selic 2027: a nova âncora para quem busca segurança e rentabilidade",
-    "category": "Renda Fixa",
-    "summary": "O título público indexado à Selic se destaca como alternativa ao caixa, especialmente com a taxa ainda alta. O artigo mostra como comprar, o rendimento esperado e os riscos envolvidos.",
-    "readTime": "5",
-    "tags": [
-      "tesouro-selic",
-      "renda-fixa",
-      "investimento-seguro"
-    ],
-    "date": "2026-06-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-23-aposte-nas-acoes-de-energia-por-que-o-setor-brilha-com-juros-em-queda",
-    "slug": "2026-06-23-aposte-nas-acoes-de-energia-por-que-o-setor-brilha-com-juros-em-queda",
-    "title": "Aposte nas ações de energia: por que o setor brilha com juros em queda",
-    "category": "Renda Variável",
-    "summary": "Energia elétrica e petróleo se beneficiam da redução de juros e da demanda crescente. O leitor aprenderá quais empresas monitorar e como montar uma posição defensiva.",
-    "readTime": "5",
-    "tags": [
-      "energia",
-      "ações",
-      "dividendos"
-    ],
-    "date": "2026-06-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-23-dolar-a-r-491-oportunidades-para-quem-quer-proteger-o-patrimonio",
-    "slug": "2026-06-23-dolar-a-r-491-oportunidades-para-quem-quer-proteger-o-patrimonio",
-    "title": "Dólar a R$ 4,91: oportunidades para quem quer proteger o patrimônio",
-    "category": "Saúde Financeira",
-    "summary": "Com a moeda americana em seu menor patamar em dois anos, há espaço para estratégias de hedge e investimento no exterior. O artigo detalha como usar o câmbio a favor da carteira.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "hedge",
-      "proteção-patrimonial"
-    ],
-    "date": "2026-06-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-23-criptomoedas-em-2026-bitcoin-estabiliza-mas-altcoins-ganham-forca",
-    "slug": "2026-06-23-criptomoedas-em-2026-bitcoin-estabiliza-mas-altcoins-ganham-forca",
-    "title": "Criptomoedas em 2026: Bitcoin estabiliza, mas altcoins ganham força",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin acompanha a volatilidade global, mas moedas como Solana e Avalanche apresentam crescimento de uso. O leitor entenderá onde alocar parte da carteira com risco controlado.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "altcoins",
-      "cripto-2026"
-    ],
-    "date": "2026-06-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-23-como-o-ipca15-pode-mudar-a-estrategia-de-investimentos-em-2026",
-    "slug": "2026-06-23-como-o-ipca15-pode-mudar-a-estrategia-de-investimentos-em-2026",
-    "title": "Como o IPCA‑15 pode mudar a estratégia de investimentos em 2026",
-    "category": "Investimentos",
-    "summary": "A inflação medida pelo IPCA‑15 está no centro das decisões de política monetária. O texto explica como ajustar a carteira diante de possíveis surpresas nos números.",
-    "readTime": "5",
-    "tags": [
-      "ipca-15",
-      "inflação",
-      "ajuste-de-carteira"
     ],
     "date": "2026-06-23",
     "breaking": false
