@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-30-ibovespa-em-176-mil-o-que-esperar-com-dolar-baixo-e-selic-em-queda",
+    "slug": "2026-06-30-ibovespa-em-176-mil-o-que-esperar-com-dolar-baixo-e-selic-em-queda",
+    "title": "Ibovespa em 176 mil: o que esperar com dólar baixo e Selic em queda",
+    "category": "Investimentos",
+    "summary": "O Ibovespa está rondando os 176.000 pontos enquanto o dólar cai para R$ 4,91 e a Selic inicia seu ciclo de corte. Entenda como esses movimentos afetam suas escolhas de ações e quais setores podem se beneficiar.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "dólar",
+      "Selic"
+    ],
+    "date": "2026-06-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-30-tesouro-selic-e-prefixado-onde-alocar-renda-fixa-com-selic-em-1425",
+    "slug": "2026-06-30-tesouro-selic-e-prefixado-onde-alocar-renda-fixa-com-selic-em-1425",
+    "title": "Tesouro Selic e prefixado: onde alocar renda fixa com Selic em 14,25%",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic ainda em dois dígitos, os títulos do Tesouro Direto oferecem retornos atraentes, mas a escolha entre Selic e prefixado depende do seu horizonte e da expectativa de juros. Descubra como montar uma carteira de renda fixa equilibrada nesse ambiente.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "Selic",
+      "prefixado"
+    ],
+    "date": "2026-06-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-30-setores-defensivos-para-navegar-o-ano-eleitoral-com-volatilidade-no-ib",
+    "slug": "2026-06-30-setores-defensivos-para-navegar-o-ano-eleitoral-com-volatilidade-no-ib",
+    "title": "Setores defensivos para navegar o ano eleitoral com volatilidade no Ibovespa",
+    "category": "Renda Variável",
+    "summary": "Em anos eleitorais, a tendência é de maior cautela nos mercados de ações, elevando a volatilidade. Setores como utilidades, consumo básico e saúde tendem a ser mais resilientes. Veja como posicionar sua carteira para reduzir riscos e capturar oportunidades.",
+    "readTime": "5",
+    "tags": [
+      "eleições",
+      "setores defensivos",
+      "Ibovespa"
+    ],
+    "date": "2026-06-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-30-reserva-de-emergencia-quanto-guardar-e-onde-aplicar-com-selic-em-1425",
+    "slug": "2026-06-30-reserva-de-emergencia-quanto-guardar-e-onde-aplicar-com-selic-em-1425",
+    "title": "Reserva de emergência: quanto guardar e onde aplicar com Selic em 14,25%",
+    "category": "Saúde Financeira",
+    "summary": "Ter uma reserva de emergência é essencial para evitar dívidas em imprevistos. Com a Selic ainda elevada, aplicações de baixa risco e alta liquidez rendem bem. Saiba calcular o valor ideal e escolher os melhores produtos.",
+    "readTime": "5",
+    "tags": [
+      "reserva de emergência",
+      "Selic",
+      "liquidez"
+    ],
+    "date": "2026-06-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-30-bitcoin-e-correlacao-com-o-risco-global-o-que-esperar-em-meio-a-volati",
+    "slug": "2026-06-30-bitcoin-e-correlacao-com-o-risco-global-o-que-esperar-em-meio-a-volati",
+    "title": "Bitcoin e correlação com o risco global: o que esperar em meio à volatilidade do dólar",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin tem acompanhado a aversão ao risco dos mercados tradicionais, especialmente quando o dólar oscila fortemente. Entender essa relação ajuda a decidir se a cripto deve ser parte de uma estratégia de diversificação ou de hedge. Veja os principais fatores que influenciam seu preço agora.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "dólar",
+      "volatilidade"
+    ],
+    "date": "2026-06-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-06-30-etfs-de-dividendos-como-obter-renda-passiva-com-baixo-custo-em-juros-a",
+    "slug": "2026-06-30-etfs-de-dividendos-como-obter-renda-passiva-com-baixo-custo-em-juros-a",
+    "title": "ETFs de dividendos: como obter renda passiva com baixo custo em juros altos",
+    "category": "Investimentos",
+    "summary": "Com a Selic ainda em dois dígitos, ETFs que focam em dividendos oferecem uma forma acessível de gerar renda passiva sem precisar escolher ações individuais. Eles combinam diversificação, baixa taxa de administração e pagamento regular de proventos. Aprenda a selecionar os melhores fundos para o seu perfil.",
+    "readTime": "5",
+    "tags": [
+      "ETF",
+      "dividendos",
+      "renda passiva"
+    ],
+    "date": "2026-06-30",
+    "breaking": false
+  },
+  {
     "id": "2026-06-29-ibovespa-a-beira-da-ruptura-o-que-o-investidor-deve-fazer-hoje",
     "slug": "2026-06-29-ibovespa-a-beira-da-ruptura-o-que-o-investidor-deve-fazer-hoje",
     "title": "Ibovespa à beira da ruptura: o que o investidor deve fazer hoje",
@@ -811,96 +901,6 @@
       "inflação",
       "IPCA-15",
       "câmbio"
-    ],
-    "date": "2026-06-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-24-corte-da-selic-acelera-como-montar-a-carteira-para-o-proximo-ciclo-de-",
-    "slug": "2026-06-24-corte-da-selic-acelera-como-montar-a-carteira-para-o-proximo-ciclo-de-",
-    "title": "Corte da Selic acelera: como montar a carteira para o próximo ciclo de juros",
-    "category": "Investimentos",
-    "summary": "Entenda o impacto do corte da taxa Selic na alocação de ativos. Aprenda a posicionar renda fixa, ações e cripto para proteger ganhos e buscar retorno.",
-    "readTime": "5",
-    "tags": [
-      "selic",
-      "corte-de-juros",
-      "alocação-de-ativos"
-    ],
-    "date": "2026-06-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-24-tesouro-selic-x-cdb-onde-esta-a-melhor-rentabilidade-em-2026",
-    "slug": "2026-06-24-tesouro-selic-x-cdb-onde-esta-a-melhor-rentabilidade-em-2026",
-    "title": "Tesouro Selic x CDB: onde está a melhor rentabilidade em 2026?",
-    "category": "Renda Fixa",
-    "summary": "Compare a rentabilidade líquida entre Tesouro Selic e CDBs de bancos médios. Descubra qual opção protege melhor seu capital diante da queda do dólar e da inflação.",
-    "readTime": "5",
-    "tags": [
-      "tesouro-selic",
-      "cdb",
-      "renda-fixa"
-    ],
-    "date": "2026-06-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-24-setores-em-alta-no-ibovespa-onde-colocar-seu-aporte-neste-mes",
-    "slug": "2026-06-24-setores-em-alta-no-ibovespa-onde-colocar-seu-aporte-neste-mes",
-    "title": "Setores em alta no Ibovespa: onde colocar seu aporte neste mês",
-    "category": "Renda Variável",
-    "summary": "Identifique os setores que devem se beneficiar da queda da taxa Selic e da expectativa de corte. Veja quais ações têm maior potencial de valorização no curto prazo.",
-    "readTime": "5",
-    "tags": [
-      "ibovespa",
-      "setores",
-      "ações"
-    ],
-    "date": "2026-06-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-24-dolar-a-r-491-o-que-isso-significa-para-suas-financas-pessoais",
-    "slug": "2026-06-24-dolar-a-r-491-o-que-isso-significa-para-suas-financas-pessoais",
-    "title": "Dólar a R$ 4,91: o que isso significa para suas finanças pessoais?",
-    "category": "Saúde Financeira",
-    "summary": "A desvalorização do real reduz custos de importação e viagens ao exterior. Aprenda a ajustar seu orçamento e aproveitar oportunidades de investimento em dólares.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "câmbio",
-      "finanças-pessoais"
-    ],
-    "date": "2026-06-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-24-bitcoin-em-linha-com-o-mercado-global-licoes-para-investidores-brasile",
-    "slug": "2026-06-24-bitcoin-em-linha-com-o-mercado-global-licoes-para-investidores-brasile",
-    "title": "Bitcoin em linha com o mercado global: lições para investidores brasileiros",
-    "category": "Criptomoedas",
-    "summary": "Analise o comportamento do Bitcoin frente ao Ibovespa e ao dólar. Descubra estratégias de entrada e saída que minimizam risco em tempos de alta volatilidade.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "cripto",
-      "investimento"
-    ],
-    "date": "2026-06-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-24-como-o-ipca15-pode-mudar-a-estrategia-de-renda-fixa-em-2026",
-    "slug": "2026-06-24-como-o-ipca15-pode-mudar-a-estrategia-de-renda-fixa-em-2026",
-    "title": "Como o IPCA‑15 pode mudar a estratégia de renda fixa em 2026",
-    "category": "Renda Fixa",
-    "summary": "O IPCA‑15 está influenciando as expectativas de inflação. Saiba ajustar sua carteira de títulos públicos e privados para proteger o poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "ipca-15",
-      "inflação",
-      "títulos-públicos"
     ],
     "date": "2026-06-24",
     "breaking": false
