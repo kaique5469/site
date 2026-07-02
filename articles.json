@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-07-02-ibovespa-a-beira-de-queda-o-que-o-investidor-deve-fazer-agora",
+    "slug": "2026-07-02-ibovespa-a-beira-de-queda-o-que-o-investidor-deve-fazer-agora",
+    "title": "Ibovespa à beira de queda: o que o investidor deve fazer agora",
+    "category": "Investimentos",
+    "summary": "Com o Ibovespa rondando 176 mil pontos e alta volatilidade, o investidor precisa ajustar a carteira. Este artigo mostra as estratégias mais seguras para proteger o patrimônio neste cenário incerto.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "volatilidade",
+      "cautela eleitoral"
+    ],
+    "date": "2026-07-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-02-selic-em-1425-como-montar-uma-carteira-de-renda-fixa-rentavel",
+    "slug": "2026-07-02-selic-em-1425-como-montar-uma-carteira-de-renda-fixa-rentavel",
+    "title": "Selic em 14,25%: como montar uma carteira de renda fixa rentável",
+    "category": "Renda Fixa",
+    "summary": "A taxa Selic alta abre espaço para títulos de renda fixa com retorno atrativo. Aprenda a combinar CDBs, LCIs/LCAs e Tesouro Direto para maximizar ganhos e controlar risco.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "CDB",
+      "TesouroDireto"
+    ],
+    "date": "2026-07-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-02-acoes-de-dividendos-em-foco-oportunidades-com-dolar-em-baixa",
+    "slug": "2026-07-02-acoes-de-dividendos-em-foco-oportunidades-com-dolar-em-baixa",
+    "title": "Ações de dividendos em foco: oportunidades com dólar em baixa",
+    "category": "Renda Variável",
+    "summary": "A queda do dólar a R$ 4,91 abre margem para empresas exportadoras e pagadoras de dividendos. Veja quais setores e tickers oferecem melhor rendimento neste ciclo.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "ações",
+      "dólar"
+    ],
+    "date": "2026-07-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-02-saude-financeira-em-tempos-de-eleicao-5-habitos-para-manter-a-calma",
+    "slug": "2026-07-02-saude-financeira-em-tempos-de-eleicao-5-habitos-para-manter-a-calma",
+    "title": "Saúde financeira em tempos de eleição: 5 hábitos para manter a calma",
+    "category": "Saúde Financeira",
+    "summary": "O clima político incerto pode mexer com o comportamento dos investidores. Descubra cinco práticas simples para proteger seu orçamento e manter a tranquilidade.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "fundo de emergência",
+      "eleições"
+    ],
+    "date": "2026-07-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-02-criptomoedas-em-2026-bitcoin-e-altcoins-seguem-o-ritmo-da-geopolitica",
+    "slug": "2026-07-02-criptomoedas-em-2026-bitcoin-e-altcoins-seguem-o-ritmo-da-geopolitica",
+    "title": "Criptomoedas em 2026: Bitcoin e altcoins seguem o ritmo da geopolítica",
+    "category": "Criptomoedas",
+    "summary": "Com a volatilidade global ainda presente, o Bitcoin se mantém próximo ao seu nível de suporte, enquanto altcoins reagem a notícias de regulação. Saiba como posicionar sua carteira cripto agora.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "Ethereum",
+      "regulação"
+    ],
+    "date": "2026-07-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-02-cenario-de-inflacao-como-o-ipca15-pode-mudar-sua-estrategia-de-juros",
+    "slug": "2026-07-02-cenario-de-inflacao-como-o-ipca15-pode-mudar-sua-estrategia-de-juros",
+    "title": "Cenário de inflação: como o IPCA‑15 pode mudar sua estratégia de juros",
+    "category": "Investimentos",
+    "summary": "O IPCA‑15 vem sendo o termômetro mais observado pelos agentes de política monetária. Entenda o que os últimos números indicam para a trajetória da Selic e como ajustar sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "IPCA‑15",
+      "inflação",
+      "Selic"
+    ],
+    "date": "2026-07-02",
+    "breaking": false
+  },
+  {
     "id": "2026-07-01-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "slug": "2026-07-01-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
@@ -801,102 +891,6 @@
       "selic"
     ],
     "date": "2026-06-26",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-25-corte-da-selic-acelera-o-que-muda-para-seus-investimentos-hoje",
-    "slug": "2026-06-25-corte-da-selic-acelera-o-que-muda-para-seus-investimentos-hoje",
-    "title": "Corte da Selic acelera: o que muda para seus investimentos hoje",
-    "category": "Investimentos",
-    "summary": "Entenda como a redução da taxa Selic impacta renda fixa, ações e o bolso do investidor. Descubra os setores mais beneficiados e os riscos de acelerar a exposição ao risco.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "corte de juros",
-      "renda fixa",
-      "ações"
-    ],
-    "date": "2026-06-25",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-25-tesouro-selic-x-cdb-onde-colocar-seu-dinheiro-em-2026",
-    "slug": "2026-06-25-tesouro-selic-x-cdb-onde-colocar-seu-dinheiro-em-2026",
-    "title": "Tesouro Selic x CDB: onde colocar seu dinheiro em 2026",
-    "category": "Renda Fixa",
-    "summary": "Compare Tesouro Selic e CDBs de médio porte para decidir o melhor destino do seu capital. Analise rentabilidade, liquidez e risco de crédito neste ambiente de juros em queda.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Selic",
-      "CDB",
-      "liquidez",
-      "risco de crédito"
-    ],
-    "date": "2026-06-25",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-25-ibovespa-176-mil-setores-que-podem-liderar-a-recuperacao-poseleicao",
-    "slug": "2026-06-25-ibovespa-176-mil-setores-que-podem-liderar-a-recuperacao-poseleicao",
-    "title": "Ibovespa 176 mil: setores que podem liderar a recuperação pós‑eleição",
-    "category": "Renda Variável",
-    "summary": "Identifique os segmentos que têm mais chance de subir quando a volatilidade eleitoral diminuir. Veja quais empresas oferecem bom preço‑lucro e dividendos atrativos.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "setores",
-      "dividendos",
-      "eleição"
-    ],
-    "date": "2026-06-25",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-25-orcamento-domestico-em-2026-como-driblar-a-alta-dos-juros-e-o-dolar-fo",
-    "slug": "2026-06-25-orcamento-domestico-em-2026-como-driblar-a-alta-dos-juros-e-o-dolar-fo",
-    "title": "Orçamento doméstico em 2026: como driblar a alta dos juros e o dólar forte",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda a reorganizar seu orçamento diante da Selic alta e da moeda em queda. Dicas práticas para reduzir despesas, otimizar investimentos e proteger o poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "corte de juros",
-      "dólar",
-      "poder de compra"
-    ],
-    "date": "2026-06-25",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-25-bitcoin-em-2026-ainda-vale-a-pena-na-carteira-de-longo-prazo",
-    "slug": "2026-06-25-bitcoin-em-2026-ainda-vale-a-pena-na-carteira-de-longo-prazo",
-    "title": "Bitcoin em 2026: ainda vale a pena na carteira de longo prazo?",
-    "category": "Criptomoedas",
-    "summary": "Analise o desempenho do Bitcoin frente ao mercado tradicional e decida se deve permanecer, aumentar ou reduzir a exposição. Avalie fatores regulatórios e a correlação com a volatilidade global.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "cripto",
-      "hedge",
-      "volatilidade"
-    ],
-    "date": "2026-06-25",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-25-fundos-de-infraestrutura-oportunidade-de-ganho-real-em-2026",
-    "slug": "2026-06-25-fundos-de-infraestrutura-oportunidade-de-ganho-real-em-2026",
-    "title": "Fundos de Infraestrutura: oportunidade de ganho real em 2026",
-    "category": "Investimentos",
-    "summary": "Descubra por que os fundos de infraestrutura podem ser a aposta certa neste ano de juros em queda. Avalie retornos esperados, riscos políticos e o papel da demanda energética.",
-    "readTime": "5",
-    "tags": [
-      "infraestrutura",
-      "fundos",
-      "energia renovável",
-      "rendimento"
-    ],
-    "date": "2026-06-25",
     "breaking": false
   }
 ]
