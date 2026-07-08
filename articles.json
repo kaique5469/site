@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-07-08-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "slug": "2026-07-08-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "title": "Dólar a R$ 4,91: Oportunidade de Compra ou Sinal de Alerta?",
+    "category": "Investimentos",
+    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de dolarizar a carteira ou se a queda deve continuar.",
+    "readTime": "4",
+    "tags": [
+      "Câmbio",
+      "Dolarização"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-selic-em-queda-onde-posicionar-sua-renda-fixa-agora",
+    "slug": "2026-07-08-selic-em-queda-onde-posicionar-sua-renda-fixa-agora",
+    "title": "Selic em Queda: Onde Posicionar sua Renda Fixa Agora?",
+    "category": "Renda Fixa",
+    "summary": "Com o ciclo de cortes iniciado, o pós-fixado perde brilho. Entenda por que travar taxas agora pode ser a jogada mestre do ano.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Tesouro Direto"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-ibovespa-nos-176k-como-navegar-no-ano-eleitoral",
+    "slug": "2026-07-08-ibovespa-nos-176k-como-navegar-no-ano-eleitoral",
+    "title": "Ibovespa nos 176k: Como Navegar no Ano Eleitoral",
+    "category": "Renda Variável",
+    "summary": "O mercado oscila enquanto olha para as urnas. Descubra quais setores resistem melhor à volatilidade política e onde estão as joias escondidas.",
+    "readTime": "6",
+    "tags": [
+      "Bolsa de Valores",
+      "Ações"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-inflacao-invisivel-como-proteger-seu-poder-de-compra",
+    "slug": "2026-07-08-inflacao-invisivel-como-proteger-seu-poder-de-compra",
+    "title": "Inflação Invisível: Como Proteger seu Poder de Compra",
+    "category": "Saúde Financeira",
+    "summary": "O IPCA-15 alerta para pressões inflacionárias. Aprenda a ajustar seu orçamento para que seu dinheiro não evapore.",
+    "readTime": "4",
+    "tags": [
+      "Inflação",
+      "Planejamento Financeiro"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-bitcoin-e-cripto-refugio-ou-especulacao-em-2026",
+    "slug": "2026-07-08-bitcoin-e-cripto-refugio-ou-especulacao-em-2026",
+    "title": "Bitcoin e Cripto: Refúgio ou Especulação em 2026?",
+    "category": "Criptomoedas",
+    "summary": "As criptomoedas seguem a volatilidade global. Entenda o papel do Bitcoin no portfólio moderno e como gerenciar o risco.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "Criptoativos"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-a-psicologia-do-investidor-em-anos-eleitorais",
+    "slug": "2026-07-08-a-psicologia-do-investidor-em-anos-eleitorais",
+    "title": "A Psicologia do Investidor em Anos Eleitorais",
+    "category": "Investimentos",
+    "summary": "O medo e a euforia movem o mercado mais do que os fundamentos. Aprenda a blindar seu emocional para não cometer erros fatais.",
+    "readTime": "5",
+    "tags": [
+      "Psicologia Financeira",
+      "Gestão de Risco"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
     "id": "2026-07-08-dolar-abaixo-de-r490-o-que-significa-para-seus-investimentos",
     "slug": "2026-07-08-dolar-abaixo-de-r490-o-que-significa-para-seus-investimentos",
     "title": "Dólar abaixo de R$4,90: o que significa para seus investimentos",
@@ -800,96 +884,6 @@
       "renda passiva"
     ],
     "date": "2026-06-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-ibovespa-a-beira-da-ruptura-o-que-o-investidor-deve-fazer-hoje",
-    "slug": "2026-06-29-ibovespa-a-beira-da-ruptura-o-que-o-investidor-deve-fazer-hoje",
-    "title": "Ibovespa à beira da ruptura: o que o investidor deve fazer hoje",
-    "category": "Investimentos",
-    "summary": "Com o índice rondando 176 mil pontos e volatilidade alta, veja as estratégias de curto prazo que protegem a carteira e aproveitam oportunidades.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "volatilidade",
-      "corte da Selic"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-renda-fixa-em-2026-como-lucrar-com-a-queda-da-selic",
-    "slug": "2026-06-29-renda-fixa-em-2026-como-lucrar-com-a-queda-da-selic",
-    "title": "Renda fixa em 2026: como lucrar com a queda da Selic",
-    "category": "Renda Fixa",
-    "summary": "A Selic em 14,25% abre oportunidades em títulos pós-fixados e híbridos. Entenda quais papéis entregam melhor risco‑retorno neste ciclo de corte.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto",
-      "debêntures"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-acoes-de-dividendos-refugio-seguro-no-ano-eleitoral",
-    "slug": "2026-06-29-acoes-de-dividendos-refugio-seguro-no-ano-eleitoral",
-    "title": "Ações de dividendos: refúgio seguro no ano eleitoral",
-    "category": "Renda Variável",
-    "summary": "Em períodos de incerteza política, as empresas que pagam dividendos consistentes se destacam. Saiba como montar uma carteira defensiva.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "ações defensivas",
-      "ano eleitoral"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-saude-financeira-5-passos-para-blindar-seu-orcamento-em-2026",
-    "slug": "2026-06-29-saude-financeira-5-passos-para-blindar-seu-orcamento-em-2026",
-    "title": "Saúde financeira: 5 passos para blindar seu orçamento em 2026",
-    "category": "Saúde Financeira",
-    "summary": "Com a inflação ainda pressionando e a taxa de juros em queda, descubra como organizar finanças pessoais para enfrentar a volatilidade do mercado.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "fundo de emergência",
-      "aposentadoria"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-criptomoedas-em-2026-bitcoin-segue-a-mare-do-mercado-global",
-    "slug": "2026-06-29-criptomoedas-em-2026-bitcoin-segue-a-mare-do-mercado-global",
-    "title": "Criptomoedas em 2026: Bitcoin segue a maré do mercado global",
-    "category": "Criptomoedas",
-    "summary": "Com a volatilidade global ainda presente, o Bitcoin reage a juros americanos e ao dólar. Veja como posicionar-se sem expor demais a carteira.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "DCA",
-      "volatilidade"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-dolar-em-r-491-oportunidades-de-investimento-para-brasileiros",
-    "slug": "2026-06-29-dolar-em-r-491-oportunidades-de-investimento-para-brasileiros",
-    "title": "Dólar em R$ 4,91: oportunidades de investimento para brasileiros",
-    "category": "Investimentos",
-    "summary": "O real mais forte abre portas para ativos no exterior e para estratégias de hedge. Aprenda a aproveitar a cotação histórica do dólar.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "investimento externo",
-      "hedge cambial"
-    ],
-    "date": "2026-06-29",
     "breaking": false
   }
 ]
