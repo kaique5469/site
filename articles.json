@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-07-08-dolar-abaixo-de-r490-o-que-significa-para-seus-investimentos",
+    "slug": "2026-07-08-dolar-abaixo-de-r490-o-que-significa-para-seus-investimentos",
+    "title": "Dólar abaixo de R$4,90: o que significa para seus investimentos",
+    "category": "Investimentos",
+    "summary": "O dólar chegou a R$4,91, seu menor nível em mais de dois anos, refletindo expectativas de cortes na Selic e menor pressão inflacionária. Analisamos como esse movimento afeta ações, renda fixa e a alocação de carteira. Saiba como ajustar sua exposição cambial agora.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "Selic",
+      "hedge cambial"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-selic-em-trajetoria-de-queda-como-capturar-rendimento-em-titulos-publi",
+    "slug": "2026-07-08-selic-em-trajetoria-de-queda-como-capturar-rendimento-em-titulos-publi",
+    "title": "Selic em trajetória de queda: como capturar rendimento em títulos públicos",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25% e corte iminente, os rendimentos do Tesouro Direto começam a ceder. Mostramos quais índices e prazos ainda oferecem atrativo para investidores conservadores. Estratégias para lock-in de taxas antes da próxima redução.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Tesouro Direto",
+      "renda fixa"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-ibovespa-volatil-e-ano-eleitoral-onde-encontrar-oportunidades-em-acoes",
+    "slug": "2026-07-08-ibovespa-volatil-e-ano-eleitoral-onde-encontrar-oportunidades-em-acoes",
+    "title": "Ibovespa volátil e ano eleitoral: onde encontrar oportunidades em ações",
+    "category": "Renda Variável",
+    "summary": "O Ibovespa oscila perto de 176.000 pontos, refletindo incerteza fiscal e o calendário eleitoral de 2026. Analisamos setores menos sensíveis ao ciclo político e com fundamentals sólidos. Dicas de seleção de papéis para carteiras de médio prazo.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições 2026",
+      "setores defensivos"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-como-proteger-seu-orcamento-com-selic-alta-e-inflacao-ainda-pressionan",
+    "slug": "2026-07-08-como-proteger-seu-orcamento-com-selic-alta-e-inflacao-ainda-pressionan",
+    "title": "Como proteger seu orçamento com Selic alta e inflação ainda pressionando",
+    "category": "Saúde Financeira",
+    "summary": "Com juros em 14,25% e o IPCA-15 em alta, o poder de compra das famílias está sob teste. Apresentamos hábitos de consumo, renegociação de dívidas e reserva de emergência que fazem diferença. Pequenos ajustes podem evitar o endividamento rotativo.",
+    "readTime": "5",
+    "tags": [
+      "orçamento familiar",
+      "renegociação dívida",
+      "reserva de emergência"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-bitcoin-acompanha-volatilidade-global-o-que-esperar-nos-proximos-meses",
+    "slug": "2026-07-08-bitcoin-acompanha-volatilidade-global-o-que-esperar-nos-proximos-meses",
+    "title": "Bitcoin acompanha volatilidade global: o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin tem seguido a mesma oscilação dos mercados de ações e commodities, refletindo aversão ao risco e expectativas de política monetária nos EUA. Discutimos os principais catalisadores e níveis de suporte para a maior criptomoeda. Uma visão prática para investidores que desejam exposição controlada.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade",
+      "ETF spot"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-08-exportadores-enfrentam-real-forte-como-se-proteger-da-volatilidade-cam",
+    "slug": "2026-07-08-exportadores-enfrentam-real-forte-como-se-proteger-da-volatilidade-cam",
+    "title": "Exportadores enfrentam real forte: como se proteger da volatilidade cambial",
+    "category": "Investimentos",
+    "summary": "Com o dólar em queda e o real valorizado, empresas que recebem em moeda estrangeira veem suas receitas pressionadas. Mostramos instrumentos de hedge disponíveis no mercado brasileiro e como aplicá‑los de forma simples. Um guia prático para CFOs e tesoureiros.",
+    "readTime": "5",
+    "tags": [
+      "hedge cambial",
+      "exportação",
+      "NDF"
+    ],
+    "date": "2026-07-08",
+    "breaking": false
+  },
+  {
     "id": "2026-07-06-ibovespa-em-queda-estrategias-para-proteger-sua-carteira-hoje",
     "slug": "2026-07-06-ibovespa-em-queda-estrategias-para-proteger-sua-carteira-hoje",
     "title": "Ibovespa em queda: estratégias para proteger sua carteira hoje",
@@ -798,96 +888,6 @@
       "dólar",
       "investimento externo",
       "hedge cambial"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
-    "slug": "2026-06-29-ibovespa-a-beira-de-ruptura-o-que-o-investidor-deve-fazer-agora",
-    "title": "Ibovespa à beira de ruptura: o que o investidor deve fazer agora",
-    "category": "Investimentos",
-    "summary": "Com o índice próximo de 176 mil pontos e a volatilidade de maio, o momento exige postura agressiva ou defensiva. Aprenda a alinhar estratégia ao ciclo de corte da Selic e ao clima eleitoral.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "corte-selic",
-      "eleições"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-renda-fixa-no-ciclo-de-queda-da-selic-oportunidades-de-2026",
-    "slug": "2026-06-29-renda-fixa-no-ciclo-de-queda-da-selic-oportunidades-de-2026",
-    "title": "Renda fixa no ciclo de queda da Selic: oportunidades de 2026",
-    "category": "Renda Fixa",
-    "summary": "A taxa Selic em 14,25% cria janelas de rendimento atraente para títulos prefixados e DI. Descubra quais papéis oferecem melhor relação risco‑retorno neste cenário de cortes sucessivos.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "TesouroDireto",
-      "CDB"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-acoes-que-podem-brilhar-na-crise-eleitoral-brasileira",
-    "slug": "2026-06-29-acoes-que-podem-brilhar-na-crise-eleitoral-brasileira",
-    "title": "Ações que podem brilhar na crise eleitoral brasileira",
-    "category": "Renda Variável",
-    "summary": "Mesmo com a cautela do mercado, alguns setores têm fundamentos sólidos para superar a turbulência política. Veja quais empresas podem liderar a recuperação do Ibovespa.",
-    "readTime": "5",
-    "tags": [
-      "ações",
-      "dividendos",
-      "commodities"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-saude-financeira-como-usar-a-queda-do-dolar-a-seu-favor",
-    "slug": "2026-06-29-saude-financeira-como-usar-a-queda-do-dolar-a-seu-favor",
-    "title": "Saúde financeira: como usar a queda do dólar a seu favor",
-    "category": "Saúde Financeira",
-    "summary": "O dólar a R$ 4,91 abre oportunidades de poupança e investimento internacional. Aprenda a proteger seu patrimônio e a potencializar ganhos com a moeda em baixa.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "hedge",
-      "reservadeemergência"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-criptomoedas-em-2026-bitcoin-segue-a-mare-da-volatilidade-global",
-    "slug": "2026-06-29-criptomoedas-em-2026-bitcoin-segue-a-mare-da-volatilidade-global",
-    "title": "Criptomoedas em 2026: Bitcoin segue a maré da volatilidade global",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin acompanha a oscilação dos mercados internacionais, mas ainda oferece oportunidades de diversificação. Conheça os fatores que movem o preço e como se posicionar com segurança.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "ETF",
-      "volatilidade"
-    ],
-    "date": "2026-06-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-29-como-a-inflacao-medida-pelo-ipca15-pode-mudar-sua-carteira-em-2026",
-    "slug": "2026-06-29-como-a-inflacao-medida-pelo-ipca15-pode-mudar-sua-carteira-em-2026",
-    "title": "Como a inflação medida pelo IPCA‑15 pode mudar sua carteira em 2026",
-    "category": "Investimentos",
-    "summary": "O IPCA‑15 está no centro das decisões de política monetária. Entenda seu impacto nos ativos de renda fixa e variável e ajuste sua alocação para proteger o poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "IPCA-15",
-      "inflação",
-      "rebalanceamento"
     ],
     "date": "2026-06-29",
     "breaking": false
