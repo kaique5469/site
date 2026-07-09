@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-07-09-dolar-em-baixa-historica-impacto-na-inflacao-e-na-carteira",
+    "slug": "2026-07-09-dolar-em-baixa-historica-impacto-na-inflacao-e-na-carteira",
+    "title": "Dólar em baixa histórica: impacto na inflação e na carteira",
+    "category": "Investimentos",
+    "summary": "O dólar caiu para R$ 4,91, seu menor nível em mais de dois anos, refletindo a expectativa de cortes na Selic e um cenário externo mais favorável. Essa movimentação reduz a pressão sobre os preços importados e pode influenciar diretamente a inflação oficial. Investidores precisam avaliar como ajustar exposição a ativos indexados ao câmbio e proteger o poder de compra.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "inflação"
+    ],
+    "date": "2026-07-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-09-selic-em-queda-como-capturar-rendimento-com-titulos-publicos",
+    "slug": "2026-07-09-selic-em-queda-como-capturar-rendimento-com-titulos-publicos",
+    "title": "Selic em queda: como capturar rendimento com títulos públicos",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25% e o ciclo de corte iniciado, os títulos de renda fixa oferecem oportunidades interessantes. Investidores podem buscar lucro com prefixados e vinculados à inflação, ajustando duration conforme as expectativas de juros. É hora de rever a alocação entre Tesouro Direto, CDBs e debêntures.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Tesouro Direto"
+    ],
+    "date": "2026-07-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-09-ibovespa-pressionado-eleicoes-e-cautela-no-setor-de-varejo",
+    "slug": "2026-07-09-ibovespa-pressionado-eleicoes-e-cautela-no-setor-de-varejo",
+    "title": "Ibovespa pressionado: eleições e cautela no setor de varejo",
+    "category": "Renda Variável",
+    "summary": "O Ibovespa ronda os 176.000 pontos, refletindo incertezas fiscais e o ano eleitoral. Setores sensíveis ao consumo, como varejo e construção, enfrentam pressão sobre margens. Investidores devem focar em empresas com balanços sólidos e dividendos consistentes.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições"
+    ],
+    "date": "2026-07-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-09-orcamento-familiar-protegendo-se-da-alta-do-dolar-e-da-inflacao",
+    "slug": "2026-07-09-orcamento-familiar-protegendo-se-da-alta-do-dolar-e-da-inflacao",
+    "title": "Orçamento familiar: protegendo-se da alta do dólar e da inflação",
+    "category": "Saúde Financeira",
+    "summary": "Com o dólar em baixa e a inflação sob vigilância, ajustar o orçamento pessoal ajuda a manter o poder de compra. Pequenas mudanças, como revisar gastos com importados e renegociar dívidas, podem fazer grande diferença. O objetivo é equilibrar consumo, reservas e investimentos de longo prazo.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "dólar"
+    ],
+    "date": "2026-07-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-09-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-agora",
+    "slug": "2026-07-09-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-agora",
+    "title": "Bitcoin em meio à volatilidade global: o que esperar agora",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin segue acompanhando a oscilação dos mercados tradicionais, refletindo aversão ao risco e expectativas de política monetária. Apesar das oscilações, a criptomoeda mantém interesse institucional como reserva de valor. Investidores devem definir exposição compatível com seu perfil e evitar alavancagem excessiva.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-07-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-09-fundos-imobiliarios-aproveitando-a-queda-de-juros-para-melhor-yield",
+    "slug": "2026-07-09-fundos-imobiliarios-aproveitando-a-queda-de-juros-para-melhor-yield",
+    "title": "Fundos imobiliários: aproveitando a queda de juros para melhor yield",
+    "category": "Investimentos",
+    "summary": "Com a trajetória de baixa da Selic, os FIIs tendem a oferecer dividendos mais atrativos em relação a renda fixa. Setores como logística e lajes corporativas podem se beneficiar da recuperação econômica pós‑eleitoral. Selecionar cotas com bom histórico de ocupação e gestão eficiente é essencial.",
+    "readTime": "5",
+    "tags": [
+      "FII",
+      "Selic"
+    ],
+    "date": "2026-07-09",
+    "breaking": false
+  },
+  {
     "id": "2026-07-09-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "slug": "2026-07-09-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "title": "Dólar a R$ 4,91: Oportunidade de Compra ou Sinal de Alerta?",
@@ -794,96 +878,6 @@
       "carteira-de-investimentos"
     ],
     "date": "2026-07-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-30-ibovespa-em-176-mil-por-que-a-volatilidade-de-maio-ainda-pesa-nos-inve",
-    "slug": "2026-06-30-ibovespa-em-176-mil-por-que-a-volatilidade-de-maio-ainda-pesa-nos-inve",
-    "title": "Ibovespa em 176 mil: por que a volatilidade de maio ainda pesa nos investidores",
-    "category": "Investimentos",
-    "summary": "Entenda o que a queda de 10,5% do dólar e a expectativa de corte da Selic significam para o índice. Aprenda a ajustar a carteira diante da incerteza eleitoral e da volatilidade recente.",
-    "readTime": "5",
-    "tags": [
-      "ibovespa",
-      "volatilidade",
-      "corte-selic"
-    ],
-    "date": "2026-06-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-30-renda-fixa-em-2026-como-tirar-proveito-dos-cortes-da-selic-sem-perder-",
-    "slug": "2026-06-30-renda-fixa-em-2026-como-tirar-proveito-dos-cortes-da-selic-sem-perder-",
-    "title": "Renda fixa em 2026: como tirar proveito dos cortes da Selic sem perder rendimento",
-    "category": "Renda Fixa",
-    "summary": "Saiba quais títulos ainda entregam retorno acima da inflação após a queda da taxa Selic. Descubra a combinação ideal entre Tesouro Direto, CDBs e LCIs para proteger seu capital.",
-    "readTime": "5",
-    "tags": [
-      "selic",
-      "tesouro-direto",
-      "cdb"
-    ],
-    "date": "2026-06-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-30-acoes-de-dividendos-refugio-seguro-no-ano-eleitoral",
-    "slug": "2026-06-30-acoes-de-dividendos-refugio-seguro-no-ano-eleitoral",
-    "title": "Ações de dividendos: refúgio seguro no ano eleitoral",
-    "category": "Renda Variável",
-    "summary": "Identifique as empresas que mantêm pagamento de dividendos consistentes mesmo em clima político incerto. Veja como montar um portfólio focado em renda e resiliência.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "ações",
-      "ano-eleitoral"
-    ],
-    "date": "2026-06-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-30-saude-financeira-5-passos-para-proteger-seu-orcamento-da-alta-inflacao",
-    "slug": "2026-06-30-saude-financeira-5-passos-para-proteger-seu-orcamento-da-alta-inflacao",
-    "title": "Saúde financeira: 5 passos para proteger seu orçamento da alta inflação",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda táticas rápidas para blindar sua renda diante do IPCA-15 ainda incerto. Descubra como ajustar gastos, renegociar dívidas e melhorar o poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "inflação",
-      "orçamento",
-      "emergência"
-    ],
-    "date": "2026-06-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-30-criptomoedas-em-2026-onde-o-bitcoin-se-posiciona-frente-ao-cenario-glo",
-    "slug": "2026-06-30-criptomoedas-em-2026-onde-o-bitcoin-se-posiciona-frente-ao-cenario-glo",
-    "title": "Criptomoedas em 2026: onde o Bitcoin se posiciona frente ao cenário global",
-    "category": "Criptomoedas",
-    "summary": "Analise a correlação entre o Bitcoin e os mercados tradicionais neste ano de volatilidade. Veja quais criptoativos podem complementar sua estratégia de diversificação.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "altcoins",
-      "diversificação"
-    ],
-    "date": "2026-06-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-06-30-corte-da-selic-o-momento-certo-para-investir-em-fundos-multimercado",
-    "slug": "2026-06-30-corte-da-selic-o-momento-certo-para-investir-em-fundos-multimercado",
-    "title": "Corte da Selic: o momento certo para investir em fundos multimercado?",
-    "category": "Investimentos",
-    "summary": "Descubra como os fundos multimercado podem se beneficiar da trajetória de queda da taxa Selic. Avalie risco, performance e timing ideal para entrada.",
-    "readTime": "5",
-    "tags": [
-      "fundos-multimercado",
-      "corte-selic",
-      "crédito-privado"
-    ],
-    "date": "2026-06-30",
     "breaking": false
   }
 ]
