@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-07-19-ibovespa-sob-pressao-eleicoes-e-juros-alto-mantem-volatilidade",
+    "slug": "2026-07-19-ibovespa-sob-pressao-eleicoes-e-juros-alto-mantem-volatilidade",
+    "title": "Ibovespa sob pressão: eleições e juros alto mantêm volatilidade",
+    "category": "Investimentos",
+    "summary": "Entenda como o cenário eleitoral e a Selic em 14,25% afetam o Ibovespa e quais setores podem sofrer mais.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições"
+    ],
+    "date": "2026-07-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-19-corte-da-selic-abre-oportunidade-em-titulos-publicos-posfixados",
+    "slug": "2026-07-19-corte-da-selic-abre-oportunidade-em-titulos-publicos-posfixados",
+    "title": "Corte da Selic abre oportunidade em títulos públicos pós‑fixados",
+    "category": "Renda Fixa",
+    "summary": "Com o início do ciclo de cortes, os rendimentos do Tesouro Selic e das LCAs começam a cair; veja onde alocar agora.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Tesouro"
+    ],
+    "date": "2026-07-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-19-setor-de-commodities-ganha-forca-com-dolar-fraco-e-demanda-externa",
+    "slug": "2026-07-19-setor-de-commodities-ganha-forca-com-dolar-fraco-e-demanda-externa",
+    "title": "Setor de commodities ganha força com dólar fraco e demanda externa",
+    "category": "Renda Variável",
+    "summary": "A desvalorização do real impulsiona exportadoras de minério e soja, criando oportunidades em ações de baixo múltiplo.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "commodities"
+    ],
+    "date": "2026-07-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-19-como-proteger-seu-orcamento-diante-da-inflacao-e-das-eleicoes",
+    "slug": "2026-07-19-como-proteger-seu-orcamento-diante-da-inflacao-e-das-eleicoes",
+    "title": "Como proteger seu orçamento diante da inflação e das eleições",
+    "category": "Saúde Financeira",
+    "summary": "Dicas práticas de controle de gastos, reserva de emergência e investimentos de baixo risco para manter a saúde financeira em tempos incertos.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "inflação"
+    ],
+    "date": "2026-07-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-19-bitcoin-segue-o-ritmo-do-risco-global-e-permanece-volatil",
+    "slug": "2026-07-19-bitcoin-segue-o-ritmo-do-risco-global-e-permanece-volatil",
+    "title": "Bitcoin segue o ritmo do risco global e permanece volátil",
+    "category": "Criptomoedas",
+    "summary": "A correlação entre BTC e ativos de risco explica as oscilações recentes; veja o que esperar nos próximos meses.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-07-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-19-dividendos-atraem-recursos-em-meio-a-queda-do-dolar-e-juros-altos",
+    "slug": "2026-07-19-dividendos-atraem-recursos-em-meio-a-queda-do-dolar-e-juros-altos",
+    "title": "Dividendos atraem recursos em meio à queda do dólar e juros altos",
+    "category": "Investimentos",
+    "summary": "Com juros elevados e câmbio favorável, ações pagadoras de bons proventos estão recebendo maior atenção dos investidores.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "yield"
+    ],
+    "date": "2026-07-19",
+    "breaking": false
+  },
+  {
     "id": "2026-07-18-ibovespa-em-176-mil-o-que-esperar-com-selic-em-queda-e-eleicoes",
     "slug": "2026-07-18-ibovespa-em-176-mil-o-que-esperar-com-selic-em-queda-e-eleicoes",
     "title": "Ibovespa em 176 mil: O que esperar com Selic em queda e eleições",
@@ -795,90 +879,6 @@
       "estratégia"
     ],
     "date": "2026-07-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-09-dolar-em-baixa-historica-impacto-na-inflacao-e-na-carteira",
-    "slug": "2026-07-09-dolar-em-baixa-historica-impacto-na-inflacao-e-na-carteira",
-    "title": "Dólar em baixa histórica: impacto na inflação e na carteira",
-    "category": "Investimentos",
-    "summary": "O dólar caiu para R$ 4,91, seu menor nível em mais de dois anos, refletindo a expectativa de cortes na Selic e um cenário externo mais favorável. Essa movimentação reduz a pressão sobre os preços importados e pode influenciar diretamente a inflação oficial. Investidores precisam avaliar como ajustar exposição a ativos indexados ao câmbio e proteger o poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "inflação"
-    ],
-    "date": "2026-07-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-09-selic-em-queda-como-capturar-rendimento-com-titulos-publicos",
-    "slug": "2026-07-09-selic-em-queda-como-capturar-rendimento-com-titulos-publicos",
-    "title": "Selic em queda: como capturar rendimento com títulos públicos",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25% e o ciclo de corte iniciado, os títulos de renda fixa oferecem oportunidades interessantes. Investidores podem buscar lucro com prefixados e vinculados à inflação, ajustando duration conforme as expectativas de juros. É hora de rever a alocação entre Tesouro Direto, CDBs e debêntures.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto"
-    ],
-    "date": "2026-07-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-09-ibovespa-pressionado-eleicoes-e-cautela-no-setor-de-varejo",
-    "slug": "2026-07-09-ibovespa-pressionado-eleicoes-e-cautela-no-setor-de-varejo",
-    "title": "Ibovespa pressionado: eleições e cautela no setor de varejo",
-    "category": "Renda Variável",
-    "summary": "O Ibovespa ronda os 176.000 pontos, refletindo incertezas fiscais e o ano eleitoral. Setores sensíveis ao consumo, como varejo e construção, enfrentam pressão sobre margens. Investidores devem focar em empresas com balanços sólidos e dividendos consistentes.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições"
-    ],
-    "date": "2026-07-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-09-orcamento-familiar-protegendo-se-da-alta-do-dolar-e-da-inflacao",
-    "slug": "2026-07-09-orcamento-familiar-protegendo-se-da-alta-do-dolar-e-da-inflacao",
-    "title": "Orçamento familiar: protegendo-se da alta do dólar e da inflação",
-    "category": "Saúde Financeira",
-    "summary": "Com o dólar em baixa e a inflação sob vigilância, ajustar o orçamento pessoal ajuda a manter o poder de compra. Pequenas mudanças, como revisar gastos com importados e renegociar dívidas, podem fazer grande diferença. O objetivo é equilibrar consumo, reservas e investimentos de longo prazo.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "dólar"
-    ],
-    "date": "2026-07-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-09-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-agora",
-    "slug": "2026-07-09-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-agora",
-    "title": "Bitcoin em meio à volatilidade global: o que esperar agora",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin segue acompanhando a oscilação dos mercados tradicionais, refletindo aversão ao risco e expectativas de política monetária. Apesar das oscilações, a criptomoeda mantém interesse institucional como reserva de valor. Investidores devem definir exposição compatível com seu perfil e evitar alavancagem excessiva.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-07-09",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-09-fundos-imobiliarios-aproveitando-a-queda-de-juros-para-melhor-yield",
-    "slug": "2026-07-09-fundos-imobiliarios-aproveitando-a-queda-de-juros-para-melhor-yield",
-    "title": "Fundos imobiliários: aproveitando a queda de juros para melhor yield",
-    "category": "Investimentos",
-    "summary": "Com a trajetória de baixa da Selic, os FIIs tendem a oferecer dividendos mais atrativos em relação a renda fixa. Setores como logística e lajes corporativas podem se beneficiar da recuperação econômica pós‑eleitoral. Selecionar cotas com bom histórico de ocupação e gestão eficiente é essencial.",
-    "readTime": "5",
-    "tags": [
-      "FII",
-      "Selic"
-    ],
-    "date": "2026-07-09",
     "breaking": false
   }
 ]
