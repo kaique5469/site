@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-07-24-ibovespa-perto-de-176-mil-pontos-o-que-esperar-com-selic-em-queda",
+    "slug": "2026-07-24-ibovespa-perto-de-176-mil-pontos-o-que-esperar-com-selic-em-queda",
+    "title": "Ibovespa perto de 176 mil pontos: o que esperar com Selic em queda",
+    "category": "Investimentos",
+    "summary": "O Ibovespa ronda os 176.000 pontos enquanto a Selic inicia cortes, criando oportunidades e riscos para o mercado de ações. Este artigo explica como a queda dos juros afeta a avaliação das empresas e quais setores podem se beneficiar.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-07-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-24-renda-fixa-como-aproveitar-a-curva-de-juros-com-selic-em-1425",
+    "slug": "2026-07-24-renda-fixa-como-aproveitar-a-curva-de-juros-com-selic-em-1425",
+    "title": "Renda Fixa: como aproveitar a curva de juros com Selic em 14,25%",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25% e sinalizando cortes, os rendimentos dos títulos públicos começam a cair, abrindo espaço para novas alocações em renda fixa. Aprenda como posicionar sua carteira diante da curva achatada e quais instrumentos oferecem melhor proteção contra inflação.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "LCI"
+    ],
+    "date": "2026-07-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-24-renda-variavel-em-ano-eleitoral-setores-que-podem-surpreender",
+    "slug": "2026-07-24-renda-variavel-em-ano-eleitoral-setores-que-podem-surpreender",
+    "title": "Renda Variável em ano eleitoral: setores que podem surpreender",
+    "category": "Renda Variável",
+    "summary": "Em ano eleitoral, a cautela costuma dominar o mercado de ações, mas alguns setores mostram resiliência histórica. Descubra quais indústrias tendem a se sair melhor apesar das incertezas fiscais e como montar uma carteira equilibrada.",
+    "readTime": "5",
+    "tags": [
+      "eleições",
+      "dividendos"
+    ],
+    "date": "2026-07-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-24-saude-financeira-protegendo-seu-bolso-diante-da-inflacao-persistente",
+    "slug": "2026-07-24-saude-financeira-protegendo-seu-bolso-diante-da-inflacao-persistente",
+    "title": "Saúde Financeira: protegendo seu bolso diante da inflação persistente",
+    "category": "Saúde Financeira",
+    "summary": "Com o IPCA-15 em alta, manter o poder de compra exige estratégias de defesa financeira. Este guia mostra como construir reserva de emergência, cortar gastos fixos e investir de forma inteligente mesmo com juros elevados.",
+    "readTime": "5",
+    "tags": [
+      "inflação",
+      "reserva de emergência"
+    ],
+    "date": "2026-07-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-24-bitcoin-e-criptos-volatilidade-global-e-oportunidades-de-curto-prazo",
+    "slug": "2026-07-24-bitcoin-e-criptos-volatilidade-global-e-oportunidades-de-curto-prazo",
+    "title": "Bitcoin e criptos: volatilidade global e oportunidades de curto prazo",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin segue a volatilidade dos mercados globais, oferecendo tanto riscos quanto possibilidades de ganhos rápidos. Entenda a correlação com ativos de risco, a importância da alocação limitada e o que observar nos marcos regulatórios.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "regulação"
+    ],
+    "date": "2026-07-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-24-dividendos-atraentes-acoes-com-yield-alto-diante-da-queda-do-dolar",
+    "slug": "2026-07-24-dividendos-atraentes-acoes-com-yield-alto-diante-da-queda-do-dolar",
+    "title": "Dividendos atraentes: ações com yield alto diante da queda do dólar",
+    "category": "Investimentos",
+    "summary": "A desvalorização do dólar aumenta os lucros reais de muitas exportadoras, sustentando políticas de dividendos generosos. Aprenda a identificar ações com yield acima de 6%, avaliar a sustentabilidade dos proventos e usar o reinvestimento para potencializar o efeito composto.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "yield"
+    ],
+    "date": "2026-07-24",
+    "breaking": false
+  },
+  {
     "id": "2026-07-23-dolar-a-r-491-a-hora-de-reavaliar-a-protecao-em-moeda-forte",
     "slug": "2026-07-23-dolar-a-r-491-a-hora-de-reavaliar-a-protecao-em-moeda-forte",
     "title": "Dólar a R$ 4,91: A Hora de Reavaliar a Proteção em Moeda Forte",
@@ -781,96 +865,6 @@
       "Selic",
       "cortes",
       "renda fixa"
-    ],
-    "date": "2026-07-13",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-13-ibovespa-em-176-mil-por-que-a-queda-da-selic-e-a-maior-aliada-dos-inve",
-    "slug": "2026-07-13-ibovespa-em-176-mil-por-que-a-queda-da-selic-e-a-maior-aliada-dos-inve",
-    "title": "Ibovespa em 176 mil: por que a queda da Selic é a maior aliada dos investidores",
-    "category": "Investimentos",
-    "summary": "Entenda como o início dos cortes da Selic pode reverter a volatilidade do Ibovespa e quais setores se beneficiarão. Descubra estratégias para aproveitar a mudança de ciclo.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic",
-      "cortes de juros"
-    ],
-    "date": "2026-07-13",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-13-tesouro-selic-2027-a-escolha-segura-para-proteger-seu-capital-agora",
-    "slug": "2026-07-13-tesouro-selic-2027-a-escolha-segura-para-proteger-seu-capital-agora",
-    "title": "Tesouro Selic 2027: a escolha segura para proteger seu capital agora",
-    "category": "Renda Fixa",
-    "summary": "Saiba por que o Tesouro Selic 2027 continua sendo a melhor reserva de valor em meio à queda do dólar e à expectativa de cortes na taxa básica.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Selic",
-      "renda fixa",
-      "corte de juros"
-    ],
-    "date": "2026-07-13",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-13-acoes-de-dividendos-blindagem-contra-a-incerteza-eleitoral",
-    "slug": "2026-07-13-acoes-de-dividendos-blindagem-contra-a-incerteza-eleitoral",
-    "title": "Ações de dividendos: blindagem contra a incerteza eleitoral",
-    "category": "Renda Variável",
-    "summary": "Descubra quais papéis de dividendos são menos sensíveis ao clima político e como montar um portfólio resiliente neste ano de eleição.",
-    "readTime": "5",
-    "tags": [
-      "ações",
-      "dividendos",
-      "eleição"
-    ],
-    "date": "2026-07-13",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-13-orcamento-domestico-2026-como-aproveitar-a-queda-do-dolar-para-economi",
-    "slug": "2026-07-13-orcamento-domestico-2026-como-aproveitar-a-queda-do-dolar-para-economi",
-    "title": "Orçamento doméstico 2026: como aproveitar a queda do dólar para economizar",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda a ajustar seu orçamento familiar aproveitando o dólar em R$ 4,91, reduzindo custos com importados e otimizando gastos essenciais.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "câmbio",
-      "economia doméstica"
-    ],
-    "date": "2026-07-13",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-13-criptomoedas-em-2026-bitcoin-segue-a-mare-de-volatilidade-global-mas-h",
-    "slug": "2026-07-13-criptomoedas-em-2026-bitcoin-segue-a-mare-de-volatilidade-global-mas-h",
-    "title": "Criptomoedas em 2026: Bitcoin segue a maré de volatilidade global, mas há oportunidades",
-    "category": "Criptomoedas",
-    "summary": "Analise o desempenho do Bitcoin frente ao cenário macro e identifique nichos de crescimento nas altcoins de infraestrutura.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "altcoins",
-      "volatilidade"
-    ],
-    "date": "2026-07-13",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-13-fundos-multimercado-a-ponte-entre-renda-fixa-e-variavel-no-cenario-de-",
-    "slug": "2026-07-13-fundos-multimercado-a-ponte-entre-renda-fixa-e-variavel-no-cenario-de-",
-    "title": "Fundos multimercado: a ponte entre renda fixa e variável no cenário de corte da Selic",
-    "category": "Investimentos",
-    "summary": "Veja como fundos multimercado podem equilibrar risco e retorno enquanto a Selic cai, oferecendo exposição controlada ao mercado de ações.",
-    "readTime": "5",
-    "tags": [
-      "fundos multimercado",
-      "corte de juros",
-      "estratégia"
     ],
     "date": "2026-07-13",
     "breaking": false
