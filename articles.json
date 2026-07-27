@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-07-27-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
+    "slug": "2026-07-27-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
+    "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$ 4,91",
+    "category": "Investimentos",
+    "summary": "O Ibovespa oscila perto de 176.000 pontos com o dólar em baixa e juros ainda altos. Entenda como a combinação de Selic em corte e ano eleitoral afeta o mercado e o que investidores devem fazer agora.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "dólar",
+      "Selic"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-selic-em-1425-oportunidades-em-titulos-publicos-pos-corte",
+    "slug": "2026-07-27-selic-em-1425-oportunidades-em-titulos-publicos-pos-corte",
+    "title": "Selic em 14,25%: oportunidades em títulos públicos pós-corte",
+    "category": "Renda Fixa",
+    "summary": "Com o início do ciclo de queda da Selic, os títulos públicos apresentam novos atrativos. Saiba como combinar prefixados e indexados à inflação para proteger seu patrimônio nesse cenário.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Tesouro Direto",
+      "renda fixa"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-volatilidade-eleitoral-aperta-o-ibovespa-setores-a-vigiar",
+    "slug": "2026-07-27-volatilidade-eleitoral-aperta-o-ibovespa-setores-a-vigiar",
+    "title": "Volatilidade eleitoral aperta o Ibovespa; setores a vigiar",
+    "category": "Renda Variável",
+    "summary": "O ano eleitoral de 2026 traz cautela ao mercado de ações. Descubra quais setores tendem a se sobressair e como posicionar sua carteira para reduzir riscos políticos.",
+    "readTime": "5",
+    "tags": [
+      "eleições 2026",
+      "setores",
+      "Ibovespa"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-como-proteger-seu-orcamento-com-dolar-em-baixa-e-juros-altos",
+    "slug": "2026-07-27-como-proteger-seu-orcamento-com-dolar-em-baixa-e-juros-altos",
+    "title": "Como proteger seu orçamento com dólar em baixa e juros altos",
+    "category": "Saúde Financeira",
+    "summary": "Dólar baixo e Selic ainda elevada criam um ambiente favorável para reorganizar as finanças pessoais. Aprenda a reduzir dívidas, aumentar reservas e aproveitar os juros atuais sem tomar riscos excessivos.",
+    "readTime": "5",
+    "tags": [
+      "finanças pessoais",
+      "orçamento",
+      "dólar"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-bitcoin-segue-o-ritmo-global-o-que-esperar-nas-proximas-semanas",
+    "slug": "2026-07-27-bitcoin-segue-o-ritmo-global-o-que-esperar-nas-proximas-semanas",
+    "title": "Bitcoin segue o ritmo global: o que esperar nas próximas semanas",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin continua acompanhando a volatilidade dos mercados globais, reagindo a sinais de política monetária e fluxos de ETFs. Entenda os fatores que devem influenciar seu preço nas próximas semanas e como abordar a exposição a cripto.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "cripto",
+      "volatilidade"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-fundos-imobiliarios-reagiram-a-queda-do-dolar-analise-de-setores",
+    "slug": "2026-07-27-fundos-imobiliarios-reagiram-a-queda-do-dolar-analise-de-setores",
+    "title": "Fundos imobiliários reagiram à queda do dólar: análise de setores",
+    "category": "Investimentos",
+    "summary": "A desvalorização do dólar afeta de forma distinta os diversos setores de FIIs. Descubra quais fundos podem se beneficiar da cotação mais baixa do real e como analisar a exposição cambial antes de investir.",
+    "readTime": "5",
+    "tags": [
+      "FII",
+      "dólar",
+      "immobiliário"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
     "id": "2026-07-26-dolar-em-r-491-o-que-significa-para-seus-investimentos-agora",
     "slug": "2026-07-26-dolar-em-r-491-o-que-significa-para-seus-investimentos-agora",
     "title": "Dólar em R$ 4,91: O que significa para seus investimentos agora",
@@ -777,96 +867,6 @@
       "Yield"
     ],
     "date": "2026-07-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-14-dolar-em-r-491-o-que-isso-significa-para-suas-acoes-hoje",
-    "slug": "2026-07-14-dolar-em-r-491-o-que-isso-significa-para-suas-acoes-hoje",
-    "title": "Dólar em R$ 4,91: o que isso significa para suas ações hoje",
-    "category": "Investimentos",
-    "summary": "Entenda como a queda do dólar para R$ 4,91 afeta setores exportadores e importadores e quais ajustes fazer na carteira de ações agora.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "Ibovespa",
-      "hedge cambial"
-    ],
-    "date": "2026-07-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-14-selic-em-1425-como-aproveitar-o-ciclo-de-cortes-em-renda-fixa",
-    "slug": "2026-07-14-selic-em-1425-como-aproveitar-o-ciclo-de-cortes-em-renda-fixa",
-    "title": "Selic em 14,25%: como aproveitar o ciclo de cortes em renda fixa",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25% e início de cortes, descubra quais títulos e estratégias podem proteger sua rentabilidade nesse cenário.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa",
-      "Tesouro Selic"
-    ],
-    "date": "2026-07-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-14-ibovespa-perto-de-176-mil-pontos-volatilidade-e-cautela-eleitoral",
-    "slug": "2026-07-14-ibovespa-perto-de-176-mil-pontos-volatilidade-e-cautela-eleitoral",
-    "title": "Ibovespa perto de 176 mil pontos: volatilidade e cautela eleitoral",
-    "category": "Renda Variável",
-    "summary": "O Ibovespa oscila perto de 176.000 pontos enquanto o ano eleitoral aquece; veja como posicionar sua carteira para lidar com a volatilidade.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições",
-      "volatilidade"
-    ],
-    "date": "2026-07-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-14-saude-financeira-em-tempos-de-juros-altos-reserva-de-emergencia-e-divi",
-    "slug": "2026-07-14-saude-financeira-em-tempos-de-juros-altos-reserva-de-emergencia-e-divi",
-    "title": "Saúde financeira em tempos de juros altos: reserva de emergência e dívidas",
-    "category": "Saúde Financeira",
-    "summary": "Com juros elevados, aprenda a controlar dívidas caras e construir uma reserva de emergência que proteja seu orçamento contra imprevistos.",
-    "readTime": "5",
-    "tags": [
-      "dívidas",
-      "reserva de emergência",
-      "planejamento financeiro"
-    ],
-    "date": "2026-07-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-14-bitcoin-e-criptos-seguem-a-volatilidade-global-o-que-esperar-agora",
-    "slug": "2026-07-14-bitcoin-e-criptos-seguem-a-volatilidade-global-o-que-esperar-agora",
-    "title": "Bitcoin e criptos seguem a volatilidade global: o que esperar agora",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin acompanha a aversão ao risco dos mercados tradicionais; descubra como alocar esse ativo de forma equilibrada diante da alta volatilidade.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "criptomoedas",
-      "volatilidade"
-    ],
-    "date": "2026-07-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-14-dolar-baixo-oportunidades-em-acoes-exportadoras-e-hedge-cambial",
-    "slug": "2026-07-14-dolar-baixo-oportunidades-em-acoes-exportadoras-e-hedge-cambial",
-    "title": "Dólar baixo: oportunidades em ações exportadoras e hedge cambial",
-    "category": "Investimentos",
-    "summary": "Mesmo com o dólar em baixa, há setores que podem se beneficiar; veja como usar hedge cambial e escolher ações com proteção cambial.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "hedge cambial",
-      "ações exportadoras"
-    ],
-    "date": "2026-07-14",
     "breaking": false
   }
 ]
