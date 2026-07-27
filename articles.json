@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-07-27-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-agora",
+    "slug": "2026-07-27-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-agora",
+    "title": "Selic em queda: o que esperar do Ibovespa e do dólar agora?",
+    "category": "Investimentos",
+    "summary": "A redução da Selic para 14,25% influencia diretamente ações e câmbio. Entenda como o Ibovespa pode reagir e por que o dólar está em baixa histórica.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Ibovespa",
+      "dólar"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-tesouro-direto-rende-mais-com-selic-em-queda-onde-aplicar",
+    "slug": "2026-07-27-tesouro-direto-rende-mais-com-selic-em-queda-onde-aplicar",
+    "title": "Tesouro Direto rende mais com Selic em queda: onde aplicar?",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em trajetória de baixa, os títulos públicos apresentam oportunidades de renda real. Descubra quais papéis estão mais atrativos agora.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-bolsa-sob-pressao-eleitoral-setores-que-podem-surpreender-no-segundo-s",
+    "slug": "2026-07-27-bolsa-sob-pressao-eleitoral-setores-que-podem-surpreender-no-segundo-s",
+    "title": "Bolsa sob pressão eleitoral: setores que podem surpreender no segundo semestre",
+    "category": "Renda Variável",
+    "summary": "O ano eleitoral gera volatilidade, mas também abre espaço para setores menos dependentes de gastos públicos. Veja onde focar a atenção nos próximos meses.",
+    "readTime": "5",
+    "tags": [
+      "eleições",
+      "Ibovespa",
+      "setores"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-orcamento-familiar-em-tempos-de-inflacao-alta-dicas-praticas-para-nao-",
+    "slug": "2026-07-27-orcamento-familiar-em-tempos-de-inflacao-alta-dicas-praticas-para-nao-",
+    "title": "Orçamento familiar em tempos de inflação alta: dicas práticas para não estourar",
+    "category": "Saúde Financeira",
+    "summary": "Com o IPCA-15 pressionando o custo de vida, famílias precisam adaptar seus gastos. Aprenda estratégias simples para equilibrar as contas.",
+    "readTime": "5",
+    "tags": [
+      "inflação",
+      "orçamento",
+      "finanças pessoais"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-bitcoin-respira-alivio-com-queda-do-dolar-mas-risco-regulatorio-persis",
+    "slug": "2026-07-27-bitcoin-respira-alivio-com-queda-do-dolar-mas-risco-regulatorio-persis",
+    "title": "Bitcoin respira alívio com queda do dólar, mas risco regulatório persiste",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin acompanhou a desvalorização do dólar, porém enfrenta incertezas devido a novos marcos regulatórios nos EUA e na Europa. Entenda os pontos críticos.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "dólar",
+      "regulamentação"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-27-etfs-de-dividendos-ganham-espaco-diante-da-baixa-de-juros",
+    "slug": "2026-07-27-etfs-de-dividendos-ganham-espaco-diante-da-baixa-de-juros",
+    "title": "ETFs de dividendos ganham espaço diante da baixa de juros",
+    "category": "Investimentos",
+    "summary": "Com juros em baixa, ETFs focados em dividendos se tornam alternativa atraente para renda passiva. Saiba quais critérios observar antes de investir.",
+    "readTime": "5",
+    "tags": [
+      "ETFs",
+      "dividendos",
+      "juros baixos"
+    ],
+    "date": "2026-07-27",
+    "breaking": false
+  },
+  {
     "id": "2026-07-27-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
     "slug": "2026-07-27-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
     "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$ 4,91",
@@ -783,90 +873,6 @@
       "BDR"
     ],
     "date": "2026-07-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-16-corte-de-selic-pode-impulsionar-o-ibovespa-alem-dos-180-mil-pontos",
-    "slug": "2026-07-16-corte-de-selic-pode-impulsionar-o-ibovespa-alem-dos-180-mil-pontos",
-    "title": "Corte de Selic pode impulsionar o Ibovespa além dos 180 mil pontos",
-    "category": "Investimentos",
-    "summary": "Entenda como a redução da Selic para 14,25% afeta ações, setores sensíveis a juros e o que investidores devem ajustar nas carteiras agora.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Ibovespa"
-    ],
-    "date": "2026-07-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-16-tesouro-direto-rende-acima-da-inflacao-mesmo-com-selic-em-queda",
-    "slug": "2026-07-16-tesouro-direto-rende-acima-da-inflacao-mesmo-com-selic-em-queda",
-    "title": "Tesouro Direto rende acima da inflação mesmo com Selic em queda",
-    "category": "Renda Fixa",
-    "summary": "Descubra por que os títulos públicos continuam atraentes e como escolher entre prefixados e indexados no cenário atual.",
-    "readTime": "4",
-    "tags": [
-      "Tesouro Direto",
-      "Renda Fixa"
-    ],
-    "date": "2026-07-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-16-setor-de-tecnologia-lidera-recuperacao-do-ibovespa-apos-queda-do-dolar",
-    "slug": "2026-07-16-setor-de-tecnologia-lidera-recuperacao-do-ibovespa-apos-queda-do-dolar",
-    "title": "Setor de tecnologia lidera recuperação do Ibovespa após queda do dólar",
-    "category": "Renda Variável",
-    "summary": "Analisamos como a valorização do real favorece empresas de exportação e quais ações de tech estão em alta.",
-    "readTime": "5",
-    "tags": [
-      "Tecnologia",
-      "Ações"
-    ],
-    "date": "2026-07-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-16-como-proteger-seu-orcamento-diante-da-eleicao-e-da-volatilidade-do-mer",
-    "slug": "2026-07-16-como-proteger-seu-orcamento-diante-da-eleicao-e-da-volatilidade-do-mer",
-    "title": "Como proteger seu orçamento diante da eleição e da volatilidade do mercado",
-    "category": "Saúde Financeira",
-    "summary": "Dicas práticas para manter controle de gastos, evitar dívidas e investir com segurança em ano eleitoral.",
-    "readTime": "4",
-    "tags": [
-      "Orçamento",
-      "Planejamento"
-    ],
-    "date": "2026-07-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-16-bitcoin-estabiliza-em-us-62-mil-enquanto-mercado-global-respira",
-    "slug": "2026-07-16-bitcoin-estabiliza-em-us-62-mil-enquanto-mercado-global-respira",
-    "title": "Bitcoin estabiliza em US$ 62 mil enquanto mercado global respira",
-    "category": "Criptomoedas",
-    "summary": "Entenda a correlação entre ativos digitais e movimentos de juros nos EUA e o que esperar nos próximos meses.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "Criptomoedas"
-    ],
-    "date": "2026-07-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-16-dividendos-altos-acoes-que-pagam-acima-de-6-ao-ano-mesmo-com-juros-em-",
-    "slug": "2026-07-16-dividendos-altos-acoes-que-pagam-acima-de-6-ao-ano-mesmo-com-juros-em-",
-    "title": "Dividendos altos: ações que pagam acima de 6% ao ano mesmo com juros em queda",
-    "category": "Investimentos",
-    "summary": "Selecionamos papéis com yield atraente e fundamentais sólidos para complementar renda passiva na carteira.",
-    "readTime": "5",
-    "tags": [
-      "Dividendos",
-      "Yield"
-    ],
-    "date": "2026-07-16",
     "breaking": false
   }
 ]
