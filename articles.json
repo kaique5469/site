@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-07-29-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
+    "slug": "2026-07-29-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
+    "title": "Ibovespa sob pressão eleitoral: o que esperar nos próximos dias",
+    "category": "Investimentos",
+    "summary": "O Ibovespa ronda os 176.000 pontos enquanto a volatilidade aumenta diante das incertezas eleitorais e do ciclo de corte da Selic. Neste artigo você vai aprender quais setores estão mais sensíveis, como usar proteções e onde alocar parte da carteira para navegar esse cenário.",
+    "readTime": "6",
+    "tags": [
+      "Ibovespa",
+      "eleição"
+    ],
+    "date": "2026-07-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-29-selic-em-queda-como-aproveitar-a-renda-fixa-antes-do-proximo-corte",
+    "slug": "2026-07-29-selic-em-queda-como-aproveitar-a-renda-fixa-antes-do-proximo-corte",
+    "title": "Selic em queda: como aproveitar a renda fixa antes do próximo corte",
+    "category": "Renda Fixa",
+    "summary": "A Selic está em 14,25% aa e o Banco Central sinaliza novos cortes nos próximos meses. Você vai descobrir como escolher títulos públicos, debêntures e CDBs que capturam a curva de juros antes que os rendimentos caiam ainda mais.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-07-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-29-setores-defensivos-brilham-em-ano-eleitoral-onde-colocar-acoes-agora",
+    "slug": "2026-07-29-setores-defensivos-brilham-em-ano-eleitoral-onde-colocar-acoes-agora",
+    "title": "Setores defensivos brilham em ano eleitoral: onde colocar ações agora",
+    "category": "Renda Variável",
+    "summary": "Em anos de eleição, investidores costumam buscar setores menos sensíveis ao ciclo político. Este artigo mostra quais ações de utilities, consumo básico e saúde têm oferecido estabilidade e bons dividendos.",
+    "readTime": "5",
+    "tags": [
+      "defensivos",
+      "eleição"
+    ],
+    "date": "2026-07-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-29-proteja-seu-orcamento-contra-a-inflacao-alta-com-esses-3-habitos",
+    "slug": "2026-07-29-proteja-seu-orcamento-contra-a-inflacao-alta-com-esses-3-habitos",
+    "title": "Proteja seu orçamento contra a inflação alta com esses 3 hábitos",
+    "category": "Saúde Financeira",
+    "summary": "Com o IPCA-15 ainda pressionado, manter o poder de compra exige disciplina no dia a dia. Aprenda três práticas simples que ajudam a equilibrar contas, economizar e investir mesmo com preços subindo.",
+    "readTime": "4",
+    "tags": [
+      "inflação",
+      "orçamento"
+    ],
+    "date": "2026-07-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-29-bitcoin-segue-o-mercado-global-riscos-e-oportunidades-em-julho-de-2026",
+    "slug": "2026-07-29-bitcoin-segue-o-mercado-global-riscos-e-oportunidades-em-julho-de-2026",
+    "title": "Bitcoin segue o mercado global: riscos e oportunidades em julho de 2026",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin tem acompanhado a volatilidade das ações globais e do dólar, refletindo o apetite de risco dos investidores. Neste artigo você vai ver como a correlação com o Ibovespa e os eventos regulatórios podem moldar os próximos movimentos.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "cripto"
+    ],
+    "date": "2026-07-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-07-29-dividendos-atrativos-acoes-com-yield-acima-de-6-apesar-da-selic-alta",
+    "slug": "2026-07-29-dividendos-atrativos-acoes-com-yield-acima-de-6-apesar-da-selic-alta",
+    "title": "Dividendos atrativos: ações com yield acima de 6% apesar da Selic alta",
+    "category": "Investimentos",
+    "summary": "Mesmo com juros elevados, algumas empresas continuam pagando dividendos generosos. Descubra como selecionar ações com yield sustentável, payout seguro e potencial de valorização.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "ações"
+    ],
+    "date": "2026-07-29",
+    "breaking": false
+  },
+  {
     "id": "2026-07-28-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-dolar-bai",
     "slug": "2026-07-28-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-dolar-bai",
     "title": "Ibovespa perto de 176 mil: o que esperar com Selic em queda e dólar baixo",
@@ -789,90 +873,6 @@
       "dólar"
     ],
     "date": "2026-07-22",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-19-ibovespa-sob-pressao-eleicoes-e-juros-alto-mantem-volatilidade",
-    "slug": "2026-07-19-ibovespa-sob-pressao-eleicoes-e-juros-alto-mantem-volatilidade",
-    "title": "Ibovespa sob pressão: eleições e juros alto mantêm volatilidade",
-    "category": "Investimentos",
-    "summary": "Entenda como o cenário eleitoral e a Selic em 14,25% afetam o Ibovespa e quais setores podem sofrer mais.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições"
-    ],
-    "date": "2026-07-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-19-corte-da-selic-abre-oportunidade-em-titulos-publicos-posfixados",
-    "slug": "2026-07-19-corte-da-selic-abre-oportunidade-em-titulos-publicos-posfixados",
-    "title": "Corte da Selic abre oportunidade em títulos públicos pós‑fixados",
-    "category": "Renda Fixa",
-    "summary": "Com o início do ciclo de cortes, os rendimentos do Tesouro Selic e das LCAs começam a cair; veja onde alocar agora.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro"
-    ],
-    "date": "2026-07-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-19-setor-de-commodities-ganha-forca-com-dolar-fraco-e-demanda-externa",
-    "slug": "2026-07-19-setor-de-commodities-ganha-forca-com-dolar-fraco-e-demanda-externa",
-    "title": "Setor de commodities ganha força com dólar fraco e demanda externa",
-    "category": "Renda Variável",
-    "summary": "A desvalorização do real impulsiona exportadoras de minério e soja, criando oportunidades em ações de baixo múltiplo.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "commodities"
-    ],
-    "date": "2026-07-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-19-como-proteger-seu-orcamento-diante-da-inflacao-e-das-eleicoes",
-    "slug": "2026-07-19-como-proteger-seu-orcamento-diante-da-inflacao-e-das-eleicoes",
-    "title": "Como proteger seu orçamento diante da inflação e das eleições",
-    "category": "Saúde Financeira",
-    "summary": "Dicas práticas de controle de gastos, reserva de emergência e investimentos de baixo risco para manter a saúde financeira em tempos incertos.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "inflação"
-    ],
-    "date": "2026-07-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-19-bitcoin-segue-o-ritmo-do-risco-global-e-permanece-volatil",
-    "slug": "2026-07-19-bitcoin-segue-o-ritmo-do-risco-global-e-permanece-volatil",
-    "title": "Bitcoin segue o ritmo do risco global e permanece volátil",
-    "category": "Criptomoedas",
-    "summary": "A correlação entre BTC e ativos de risco explica as oscilações recentes; veja o que esperar nos próximos meses.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-07-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-19-dividendos-atraem-recursos-em-meio-a-queda-do-dolar-e-juros-altos",
-    "slug": "2026-07-19-dividendos-atraem-recursos-em-meio-a-queda-do-dolar-e-juros-altos",
-    "title": "Dividendos atraem recursos em meio à queda do dólar e juros altos",
-    "category": "Investimentos",
-    "summary": "Com juros elevados e câmbio favorável, ações pagadoras de bons proventos estão recebendo maior atenção dos investidores.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "yield"
-    ],
-    "date": "2026-07-19",
     "breaking": false
   }
 ]
