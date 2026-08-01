@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-08-01-ibovespa-sob-pressao-o-que-esperar-da-selic-em-queda-e-do-dolar-fraco",
+    "slug": "2026-08-01-ibovespa-sob-pressao-o-que-esperar-da-selic-em-queda-e-do-dolar-fraco",
+    "title": "Ibovespa sob pressão: o que esperar da Selic em queda e do dólar fraco",
+    "category": "Investimentos",
+    "summary": "O Ibovespa ronda os 176.000 pontos enquanto a Selic cai e o dólar chega a R$ 4,91. Entenda como esses movimentos afetam as ações e quais estratégias adotar.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic",
+      "Dólar"
+    ],
+    "date": "2026-08-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-01-tesouro-direto-rendimento-real-ainda-atrativo-apesar-da-queda-da-selic",
+    "slug": "2026-08-01-tesouro-direto-rendimento-real-ainda-atrativo-apesar-da-queda-da-selic",
+    "title": "Tesouro Direto: rendimento real ainda atrativo apesar da queda da Selic",
+    "category": "Renda Fixa",
+    "summary": "Mesmo com a Selic em trajetória de descenso, os títulos públicos oferecem retornos reais acima da inflação. Veja como escolher entre prefixados e indexados e proteger seu patrimônio.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "Selic",
+      "IPCA"
+    ],
+    "date": "2026-08-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-01-setor-de-consumo-como-as-eleicoes-influenciam-acoes-de-varejo",
+    "slug": "2026-08-01-setor-de-consumo-como-as-eleicoes-influenciam-acoes-de-varejo",
+    "title": "Setor de consumo: como as eleições influenciam ações de varejo",
+    "category": "Renda Variável",
+    "summary": "Em ano eleitoral, políticas de renda e crédito afetam diretamente o varejo. Entenda quais subsetores são mais sensíveis e como posicionar sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "Varejo",
+      "Eleições",
+      "Crédito"
+    ],
+    "date": "2026-08-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-01-planejamento-financeiro-para-familias-em-ano-eleitoral-dicas-praticas",
+    "slug": "2026-08-01-planejamento-financeiro-para-familias-em-ano-eleitoral-dicas-praticas",
+    "title": "Planejamento financeiro para famílias em ano eleitoral: dicas práticas",
+    "category": "Saúde Financeira",
+    "summary": "Com a volatilidade política aumentando, proteger o orçamento familiar exige reservas, controle de dívidas e investimentos conservadores. Aprenda a ajustar seu plano.",
+    "readTime": "5",
+    "tags": [
+      "Planejamento financeiro",
+      "Reserva de emergência",
+      "Dívidas"
+    ],
+    "date": "2026-08-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-01-bitcoin-em-baixa-correlacao-com-risco-global-e-oportunidades-de-acumul",
+    "slug": "2026-08-01-bitcoin-em-baixa-correlacao-com-risco-global-e-oportunidades-de-acumul",
+    "title": "Bitcoin em baixa: correlação com risco global e oportunidades de acumulação",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin acompanha a volatilidade dos mercados tradicionais, refletindo aversão ao risco. Entenda os níveis de suporte e como usar a correlação a seu favor.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "Volatilidade",
+      "DCA"
+    ],
+    "date": "2026-08-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-01-fundos-imobiliarios-dividendos-estaveis-mesmo-com-juros-em-baixa",
+    "slug": "2026-08-01-fundos-imobiliarios-dividendos-estaveis-mesmo-com-juros-em-baixa",
+    "title": "Fundos imobiliários: dividendos estáveis mesmo com juros em baixa",
+    "category": "Investimentos",
+    "summary": "Com a Selic em trajetória de queda, os FIIs continuam pagando yields atrativos, especialmente aqueles com contratos de longo prazo. Saiba onde encontrar as melhores oportunidades.",
+    "readTime": "5",
+    "tags": [
+      "FIIs",
+      "Dividendos",
+      "Logística"
+    ],
+    "date": "2026-08-01",
+    "breaking": false
+  },
+  {
     "id": "2026-07-30-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-em-julho",
     "slug": "2026-07-30-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-em-julho",
     "title": "Selic em queda: o que esperar do Ibovespa e do dólar em julho",
@@ -788,96 +878,6 @@
       "Estratégia",
       "Carteira",
       "Patrimônio"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
-    "slug": "2026-07-23-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
-    "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
-    "category": "Investimentos",
-    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de dolarizar a carteira ou se a queda deve persistir.",
-    "readTime": "4",
-    "tags": [
-      "Dólar",
-      "Diversificação",
-      "Câmbio"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-selic-a-1425-como-navegar-no-ciclo-de-cortes",
-    "slug": "2026-07-23-selic-a-1425-como-navegar-no-ciclo-de-cortes",
-    "title": "Selic a 14,25%: Como navegar no ciclo de cortes",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic iniciando sua trajetória de queda, o investidor precisa migrar do pós-fixado para travar taxas altas.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto",
-      "Renda Fixa"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-ibovespa-aos-176k-vale-a-pena-arriscar-em-ano-eleitoral",
-    "slug": "2026-07-23-ibovespa-aos-176k-vale-a-pena-arriscar-em-ano-eleitoral",
-    "title": "Ibovespa aos 176k: Vale a pena arriscar em ano eleitoral?",
-    "category": "Renda Variável",
-    "summary": "O mercado oscila entre a euforia dos pontos e o medo das urnas. Saiba onde buscar valor agora.",
-    "readTime": "6",
-    "tags": [
-      "Ibovespa",
-      "Ações",
-      "Dividendos"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-inflacao-invisivel-como-proteger-seu-poder-de-compra",
-    "slug": "2026-07-23-inflacao-invisivel-como-proteger-seu-poder-de-compra",
-    "title": "Inflação invisível: Como proteger seu poder de compra",
-    "category": "Saúde Financeira",
-    "summary": "Mais do que olhar a Selic, você precisa entender como a inflação real afeta seu custo de vida e seu planejamento.",
-    "readTime": "4",
-    "tags": [
-      "Planejamento",
-      "Inflação",
-      "Finanças Pessoais"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-criptoativos-em-2026-o-fim-da-era-da-especulacao-pura",
-    "slug": "2026-07-23-criptoativos-em-2026-o-fim-da-era-da-especulacao-pura",
-    "title": "Criptoativos em 2026: O fim da era da especulação pura?",
-    "category": "Criptomoedas",
-    "summary": "Com o mercado global mais maduro, o Bitcoin deixa de ser apenas aposta para se tornar ativo de diversificação.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "Blockchain",
-      "Cripto"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-a-armadilha-do-credito-barato-em-ciclos-de-queda",
-    "slug": "2026-07-23-a-armadilha-do-credito-barato-em-ciclos-de-queda",
-    "title": "A armadilha do crédito barato em ciclos de queda",
-    "category": "Saúde Financeira",
-    "summary": "A Selic em queda pode estimular o consumo, mas o endividamento estratégico exige cautela extrema.",
-    "readTime": "4",
-    "tags": [
-      "Crédito",
-      "Dívidas",
-      "Educação Financeira"
     ],
     "date": "2026-07-23",
     "breaking": false
