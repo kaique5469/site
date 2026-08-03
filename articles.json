@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-03-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "slug": "2026-08-03-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
+    "category": "Investimentos",
+    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de montar posição em ativos dolarizados ou se a queda deve continuar.",
+    "readTime": "4",
+    "tags": [
+      "Dólar",
+      "Diversificação"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-selic-a-1425-como-navegar-no-ciclo-de-corte-de-juros",
+    "slug": "2026-08-03-selic-a-1425-como-navegar-no-ciclo-de-corte-de-juros",
+    "title": "Selic a 14,25%: Como navegar no ciclo de corte de juros",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic iniciando sua trajetória de queda, a estratégia de 'deixar no CDI' pode custar caro. Saiba onde travar taxas altas agora.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Renda Fixa"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-ibovespa-nos-176k-o-peso-da-incerteza-eleitoral",
+    "slug": "2026-08-03-ibovespa-nos-176k-o-peso-da-incerteza-eleitoral",
+    "title": "Ibovespa nos 176k: O peso da incerteza eleitoral",
+    "category": "Renda Variável",
+    "summary": "A bolsa brasileira mostra força, mas a volatilidade de maio acende o alerta. Entenda quais setores devem resistir melhor ao ano de eleições.",
+    "readTime": "6",
+    "tags": [
+      "Ibovespa",
+      "Ações"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-inflacao-invisivel-protegendo-seu-bolso-contra-o-ipca-15",
+    "slug": "2026-08-03-inflacao-invisivel-protegendo-seu-bolso-contra-o-ipca-15",
+    "title": "Inflação invisível: Protegendo seu bolso contra o IPCA-15",
+    "category": "Saúde Financeira",
+    "summary": "A inflação não afeta apenas a carteira de investimentos, mas o custo de vida real. Aprenda a ajustar seu orçamento para não perder poder de compra.",
+    "readTime": "4",
+    "tags": [
+      "Inflação",
+      "Finanças Pessoais"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-bitcoin-e-a-volatilidade-global-o-ouro-digital-ainda-protege",
+    "slug": "2026-08-03-bitcoin-e-a-volatilidade-global-o-ouro-digital-ainda-protege",
+    "title": "Bitcoin e a volatilidade global: O ouro digital ainda protege?",
+    "category": "Criptomoedas",
+    "summary": "Com o mercado global instável, as criptomoedas testam sua tese de reserva de valor. Analisamos a correlação atual do Bitcoin com ativos de risco.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "Cripto"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-check-up-financeiro-o-que-revisar-antes-do-fechamento-do-semestre",
+    "slug": "2026-08-03-check-up-financeiro-o-que-revisar-antes-do-fechamento-do-semestre",
+    "title": "Check-up Financeiro: O que revisar antes do fechamento do semestre",
+    "category": "Investimentos",
+    "summary": "Um guia prático para rebalancear sua carteira e garantir que seus objetivos de 2026 continuem no trilho.",
+    "readTime": "4",
+    "tags": [
+      "Gestão de Carteira",
+      "Planejamento"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
     "id": "2026-08-03-ibovespa-perto-de-176-mil-e-dolar-a-r-491-cenario-imediato",
     "slug": "2026-08-03-ibovespa-perto-de-176-mil-e-dolar-a-r-491-cenario-imediato",
     "title": "Ibovespa perto de 176 mil e dólar a R$ 4,91: cenário imediato",
@@ -790,90 +874,6 @@
       "renda passiva"
     ],
     "date": "2026-07-26",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-24-ibovespa-perto-de-176-mil-pontos-o-que-esperar-com-selic-em-queda",
-    "slug": "2026-07-24-ibovespa-perto-de-176-mil-pontos-o-que-esperar-com-selic-em-queda",
-    "title": "Ibovespa perto de 176 mil pontos: o que esperar com Selic em queda",
-    "category": "Investimentos",
-    "summary": "O Ibovespa ronda os 176.000 pontos enquanto a Selic inicia cortes, criando oportunidades e riscos para o mercado de ações. Este artigo explica como a queda dos juros afeta a avaliação das empresas e quais setores podem se beneficiar.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic"
-    ],
-    "date": "2026-07-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-24-renda-fixa-como-aproveitar-a-curva-de-juros-com-selic-em-1425",
-    "slug": "2026-07-24-renda-fixa-como-aproveitar-a-curva-de-juros-com-selic-em-1425",
-    "title": "Renda Fixa: como aproveitar a curva de juros com Selic em 14,25%",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25% e sinalizando cortes, os rendimentos dos títulos públicos começam a cair, abrindo espaço para novas alocações em renda fixa. Aprenda como posicionar sua carteira diante da curva achatada e quais instrumentos oferecem melhor proteção contra inflação.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "LCI"
-    ],
-    "date": "2026-07-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-24-renda-variavel-em-ano-eleitoral-setores-que-podem-surpreender",
-    "slug": "2026-07-24-renda-variavel-em-ano-eleitoral-setores-que-podem-surpreender",
-    "title": "Renda Variável em ano eleitoral: setores que podem surpreender",
-    "category": "Renda Variável",
-    "summary": "Em ano eleitoral, a cautela costuma dominar o mercado de ações, mas alguns setores mostram resiliência histórica. Descubra quais indústrias tendem a se sair melhor apesar das incertezas fiscais e como montar uma carteira equilibrada.",
-    "readTime": "5",
-    "tags": [
-      "eleições",
-      "dividendos"
-    ],
-    "date": "2026-07-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-24-saude-financeira-protegendo-seu-bolso-diante-da-inflacao-persistente",
-    "slug": "2026-07-24-saude-financeira-protegendo-seu-bolso-diante-da-inflacao-persistente",
-    "title": "Saúde Financeira: protegendo seu bolso diante da inflação persistente",
-    "category": "Saúde Financeira",
-    "summary": "Com o IPCA-15 em alta, manter o poder de compra exige estratégias de defesa financeira. Este guia mostra como construir reserva de emergência, cortar gastos fixos e investir de forma inteligente mesmo com juros elevados.",
-    "readTime": "5",
-    "tags": [
-      "inflação",
-      "reserva de emergência"
-    ],
-    "date": "2026-07-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-24-bitcoin-e-criptos-volatilidade-global-e-oportunidades-de-curto-prazo",
-    "slug": "2026-07-24-bitcoin-e-criptos-volatilidade-global-e-oportunidades-de-curto-prazo",
-    "title": "Bitcoin e criptos: volatilidade global e oportunidades de curto prazo",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin segue a volatilidade dos mercados globais, oferecendo tanto riscos quanto possibilidades de ganhos rápidos. Entenda a correlação com ativos de risco, a importância da alocação limitada e o que observar nos marcos regulatórios.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "regulação"
-    ],
-    "date": "2026-07-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-24-dividendos-atraentes-acoes-com-yield-alto-diante-da-queda-do-dolar",
-    "slug": "2026-07-24-dividendos-atraentes-acoes-com-yield-alto-diante-da-queda-do-dolar",
-    "title": "Dividendos atraentes: ações com yield alto diante da queda do dólar",
-    "category": "Investimentos",
-    "summary": "A desvalorização do dólar aumenta os lucros reais de muitas exportadoras, sustentando políticas de dividendos generosos. Aprenda a identificar ações com yield acima de 6%, avaliar a sustentabilidade dos proventos e usar o reinvestimento para potencializar o efeito composto.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "yield"
-    ],
-    "date": "2026-07-24",
     "breaking": false
   }
 ]
