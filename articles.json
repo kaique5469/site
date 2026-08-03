@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-03-ibovespa-perto-de-176-mil-e-dolar-a-r-491-cenario-imediato",
+    "slug": "2026-08-03-ibovespa-perto-de-176-mil-e-dolar-a-r-491-cenario-imediato",
+    "title": "Ibovespa perto de 176 mil e dólar a R$ 4,91: cenário imediato",
+    "category": "Investimentos",
+    "summary": "A queda do dólar a R$ 4,91 e a Selic em 14,25% criam um ambiente de juros altos com moeda forte, pressionando exportadoras e aquecendo o debate sobre cortes futuros. Entenda como o Ibovespa reage a esses fatores e quais setores podem se beneficiar ou sofrer com o cenário atual.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "dólar"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-tesouro-direto-rende-mais-com-selic-alta-mas-corte-se-aproxima",
+    "slug": "2026-08-03-tesouro-direto-rende-mais-com-selic-alta-mas-corte-se-aproxima",
+    "title": "Tesouro Direto rende mais com Selic alta, mas corte se aproxima",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic elevada, os títulos públicos pós‑fixados oferecem atratividade, mas o esperado ciclo de corte pode mudar a atratividade dos prefixados. Saiba como alocar entre Tesouro Selic, títulos indexados à inflação e prefixados para proteger seu poder de compra.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "Selic"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-setores-que-podem-se-beneficiar-do-dolar-baixo-e-da-selic-em-queda",
+    "slug": "2026-08-03-setores-que-podem-se-beneficiar-do-dolar-baixo-e-da-selic-em-queda",
+    "title": "Setores que podem se beneficiar do dólar baixo e da Selic em queda",
+    "category": "Renda Variável",
+    "summary": "O real forte reduz custos de importação e pode melhorar margens de empresas exportadoras, enquanto a expectativa de juros menores beneficia o varejo e o crédito. Descubra quais setores estão posicionados para ganhar e quais precisam de cautela diante do risco eleitoral.",
+    "readTime": "5",
+    "tags": [
+      "exportadoras",
+      "varejo"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-como-proteger-seu-orcamento-diante-da-inflacao-e-do-cambio-volatil",
+    "slug": "2026-08-03-como-proteger-seu-orcamento-diante-da-inflacao-e-do-cambio-volatil",
+    "title": "Como proteger seu orçamento diante da inflação e do câmbio volátil",
+    "category": "Saúde Financeira",
+    "summary": "Inflação monitorada e câmbio volátil exigem atenção ao orçamento familiar, com foco em controle de gastos e reserva de emergência. Aprenda a revisar contratos, construir um colchão de liquidez e gerenciar dívidas em um cenário de juros ainda altos.",
+    "readTime": "5",
+    "tags": [
+      "orçamento familiar",
+      "reserva de emergência"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-bitcoin-segue-a-volatilidade-global-mas-oportunidades-surgem-em-ativos",
+    "slug": "2026-08-03-bitcoin-segue-a-volatilidade-global-mas-oportunidades-surgem-em-ativos",
+    "title": "Bitcoin segue a volatilidade global, mas oportunidades surgem em ativos de baixa correlação",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin segue a volatilidade dos mercados globais, mas sua baixa correlação com ativos tradicionais pode oferecer oportunidades de diversificação quando bem dosado. Veja como alocar uma parcela modesta da carteira e monitorar fatores regulatórios e macroeconômicos.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "diversificação"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-03-elections-2026-como-o-cenario-politico-afeta-os-mercados-e-o-que-inves",
+    "slug": "2026-08-03-elections-2026-como-o-cenario-politico-afeta-os-mercados-e-o-que-inves",
+    "title": "Elections 2026: como o cenário político afeta os mercados e o que investidores devem observar",
+    "category": "Investimentos",
+    "summary": "O ano eleitoral gera incerteza que afeta prêmios de risco e setores regulados, exigindo uma carteira mais defensiva. Conheça quais indicadores políticos observar e como ajustar a exposição para reduzir sensibilidade a swings de mercado.",
+    "readTime": "5",
+    "tags": [
+      "eleições 2026",
+      "setores defensivos"
+    ],
+    "date": "2026-08-03",
+    "breaking": false
+  },
+  {
     "id": "2026-08-01-ibovespa-sob-pressao-o-que-esperar-da-selic-em-queda-e-do-dolar-fraco",
     "slug": "2026-08-01-ibovespa-sob-pressao-o-que-esperar-da-selic-em-queda-e-do-dolar-fraco",
     "title": "Ibovespa sob pressão: o que esperar da Selic em queda e do dólar fraco",
@@ -790,96 +874,6 @@
       "yield"
     ],
     "date": "2026-07-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-dolar-a-r-491-a-hora-de-reavaliar-a-protecao-em-moeda-forte",
-    "slug": "2026-07-23-dolar-a-r-491-a-hora-de-reavaliar-a-protecao-em-moeda-forte",
-    "title": "Dólar a R$ 4,91: A Hora de Reavaliar a Proteção em Moeda Forte",
-    "category": "Investimentos",
-    "summary": "Com a moeda americana no menor nível em dois anos, investidores enfrentam o dilema entre comprar mais ou realizar lucros. Entenda como equilibrar a carteira neste cenário.",
-    "readTime": "4",
-    "tags": [
-      "Dólar",
-      "Diversificação",
-      "Câmbio"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-selic-a-1425-onde-alocar-para-vencer-a-inflacao",
-    "slug": "2026-07-23-selic-a-1425-onde-alocar-para-vencer-a-inflacao",
-    "title": "Selic a 14,25%: Onde Alocar para Vencer a Inflação",
-    "category": "Renda Fixa",
-    "summary": "O ciclo de cortes começou, mas as taxas ainda são historicamente altas. Saiba como travar rentabilidades antes que os juros caiam mais.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto",
-      "Inflação"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-ibovespa-aos-176k-oportunidade-ou-armadilha-eleitoral",
-    "slug": "2026-07-23-ibovespa-aos-176k-oportunidade-ou-armadilha-eleitoral",
-    "title": "Ibovespa aos 176k: Oportunidade ou Armadilha Eleitoral?",
-    "category": "Renda Variável",
-    "summary": "O índice mostra força, mas a volatilidade de maio e o calendário político trazem incertezas. Analisamos os setores que devem resistir melhor.",
-    "readTime": "6",
-    "tags": [
-      "Ibovespa",
-      "Ações",
-      "Dividendos"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-saude-financeira-como-blindar-seu-patrimonio-na-volatilidade",
-    "slug": "2026-07-23-saude-financeira-como-blindar-seu-patrimonio-na-volatilidade",
-    "title": "Saúde Financeira: Como Blindar seu Patrimônio na Volatilidade",
-    "category": "Saúde Financeira",
-    "summary": "Instabilidade política e econômica exigem mais do que bons investimentos; exigem gestão de risco. Aprenda a organizar sua reserva de emergência.",
-    "readTime": "4",
-    "tags": [
-      "Planejamento",
-      "Reserva de Emergência",
-      "Finanças Pessoais"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-criptoativos-em-2026-alem-do-hype-do-bitcoin",
-    "slug": "2026-07-23-criptoativos-em-2026-alem-do-hype-do-bitcoin",
-    "title": "Criptoativos em 2026: Além do Hype do Bitcoin",
-    "category": "Criptomoedas",
-    "summary": "As criptomoedas seguem a volatilidade global, mas a maturidade do mercado trouxe novas dinâmicas. Saiba onde focar agora.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "Blockchain",
-      "Web3"
-    ],
-    "date": "2026-07-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-23-a-nova-dinamica-do-poupador-renda-fixa-vs-renda-variavel",
-    "slug": "2026-07-23-a-nova-dinamica-do-poupador-renda-fixa-vs-renda-variavel",
-    "title": "A Nova Dinâmica do Poupador: Renda Fixa vs. Renda Variável",
-    "category": "Investimentos",
-    "summary": "Com juros altos e bolsa em patamares recordes, a linha entre a segurança e o risco ficou tênue. Veja como equilibrar a balança.",
-    "readTime": "5",
-    "tags": [
-      "Estratégia",
-      "Carteira",
-      "Patrimônio"
-    ],
-    "date": "2026-07-23",
     "breaking": false
   }
 ]
