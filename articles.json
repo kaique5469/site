@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-10-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
+    "slug": "2026-08-10-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
+    "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$ 4,91",
+    "category": "Investimentos",
+    "summary": "Entenda como a combinação de Ibovespa elevado e dólar fraco afeta suas alocações, quais setores se beneficiam e como ajustar a carteira diante do ciclo de cortes da Selic.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "dólar"
+    ],
+    "date": "2026-08-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-10-selic-em-1425-oportunidades-em-titulos-publicos-posprefixados",
+    "slug": "2026-08-10-selic-em-1425-oportunidades-em-titulos-publicos-posprefixados",
+    "title": "Selic em 14,25%: oportunidades em títulos públicos pós‑prefixados",
+    "category": "Renda Fixa",
+    "summary": "Aprenda como o ciclo de corte da Selic afeta a rentabilidade do Tesouro Direto, quais indexadores são mais atrativos e como montar uma ladder de vencimentos para proteger seu poder de compra.",
+    "readTime": "6",
+    "tags": [
+      "Selic",
+      "Tesouro Direto"
+    ],
+    "date": "2026-08-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-10-eleicoes-2026-setores-que-podem-ganhar-ou-perder-com-a-incerteza-polit",
+    "slug": "2026-08-10-eleicoes-2026-setores-que-podem-ganhar-ou-perder-com-a-incerteza-polit",
+    "title": "Eleições 2026: setores que podem ganhar ou perder com a incerteza política",
+    "category": "Renda Variável",
+    "summary": "Descubra quais indústrias tendem a se beneficiar de um ambiente político estável e quais podem sofrer com volatilidade eleitoral, além de como ajustar sua exposição em ações.",
+    "readTime": "5",
+    "tags": [
+      "eleições",
+      "setores"
+    ],
+    "date": "2026-08-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-10-como-proteger-seu-patrimonio-em-epoca-de-alta-volatilidade-e-juros-ele",
+    "slug": "2026-08-10-como-proteger-seu-patrimonio-em-epoca-de-alta-volatilidade-e-juros-ele",
+    "title": "Como proteger seu patrimônio em época de alta volatilidade e juros elevados",
+    "category": "Saúde Financeira",
+    "summary": "Aprenda práticas simples de gestão de risco, reserva de emergência e alocação de ativos que ajudam a manter o equilíbrio financeiro mesmo quando os mercados estão agitados.",
+    "readTime": "5",
+    "tags": [
+      "planejamento financeiro",
+      "volatilidade"
+    ],
+    "date": "2026-08-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-10-bitcoin-segue-o-tom-do-mercado-global-o-que-esperar-nos-proximos-meses",
+    "slug": "2026-08-10-bitcoin-segue-o-tom-do-mercado-global-o-que-esperar-nos-proximos-meses",
+    "title": "Bitcoin segue o tom do mercado global: o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "Entenda a correlação entre o Bitcoin e ativos de risco globais, como a política de juros dos EUA e o sentimento dos investidores, e como isso pode afetar sua alocação em cripto.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "cripto"
+    ],
+    "date": "2026-08-10",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-10-etfs-de-dividendos-alternativa-estavel-enquanto-o-ibovespa-oscila",
+    "slug": "2026-08-10-etfs-de-dividendos-alternativa-estavel-enquanto-o-ibovespa-oscila",
+    "title": "ETFs de dividendos: alternativa estável enquanto o Ibovespa oscila",
+    "category": "Investimentos",
+    "summary": "Saiba como os ETFs focados em dividendos podem oferecer renda passiva e menor volatilidade, e quais são as melhores opções disponíveis no Brasil hoje.",
+    "readTime": "5",
+    "tags": [
+      "ETFs",
+      "dividendos"
+    ],
+    "date": "2026-08-10",
+    "breaking": false
+  },
+  {
     "id": "2026-08-10-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-em-agosto",
     "slug": "2026-08-10-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-em-agosto",
     "title": "Selic em queda: o que esperar do Ibovespa e do dólar em agosto",
@@ -778,90 +862,6 @@
       "ações"
     ],
     "date": "2026-07-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-29-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
-    "slug": "2026-07-29-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
-    "title": "Ibovespa sob pressão eleitoral: o que esperar nos próximos dias",
-    "category": "Investimentos",
-    "summary": "O Ibovespa ronda os 176.000 pontos enquanto a volatilidade aumenta diante das incertezas eleitorais e do ciclo de corte da Selic. Neste artigo você vai aprender quais setores estão mais sensíveis, como usar proteções e onde alocar parte da carteira para navegar esse cenário.",
-    "readTime": "6",
-    "tags": [
-      "Ibovespa",
-      "eleição"
-    ],
-    "date": "2026-07-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-29-selic-em-queda-como-aproveitar-a-renda-fixa-antes-do-proximo-corte",
-    "slug": "2026-07-29-selic-em-queda-como-aproveitar-a-renda-fixa-antes-do-proximo-corte",
-    "title": "Selic em queda: como aproveitar a renda fixa antes do próximo corte",
-    "category": "Renda Fixa",
-    "summary": "A Selic está em 14,25% aa e o Banco Central sinaliza novos cortes nos próximos meses. Você vai descobrir como escolher títulos públicos, debêntures e CDBs que capturam a curva de juros antes que os rendimentos caiam ainda mais.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-07-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-29-setores-defensivos-brilham-em-ano-eleitoral-onde-colocar-acoes-agora",
-    "slug": "2026-07-29-setores-defensivos-brilham-em-ano-eleitoral-onde-colocar-acoes-agora",
-    "title": "Setores defensivos brilham em ano eleitoral: onde colocar ações agora",
-    "category": "Renda Variável",
-    "summary": "Em anos de eleição, investidores costumam buscar setores menos sensíveis ao ciclo político. Este artigo mostra quais ações de utilities, consumo básico e saúde têm oferecido estabilidade e bons dividendos.",
-    "readTime": "5",
-    "tags": [
-      "defensivos",
-      "eleição"
-    ],
-    "date": "2026-07-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-29-proteja-seu-orcamento-contra-a-inflacao-alta-com-esses-3-habitos",
-    "slug": "2026-07-29-proteja-seu-orcamento-contra-a-inflacao-alta-com-esses-3-habitos",
-    "title": "Proteja seu orçamento contra a inflação alta com esses 3 hábitos",
-    "category": "Saúde Financeira",
-    "summary": "Com o IPCA-15 ainda pressionado, manter o poder de compra exige disciplina no dia a dia. Aprenda três práticas simples que ajudam a equilibrar contas, economizar e investir mesmo com preços subindo.",
-    "readTime": "4",
-    "tags": [
-      "inflação",
-      "orçamento"
-    ],
-    "date": "2026-07-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-29-bitcoin-segue-o-mercado-global-riscos-e-oportunidades-em-julho-de-2026",
-    "slug": "2026-07-29-bitcoin-segue-o-mercado-global-riscos-e-oportunidades-em-julho-de-2026",
-    "title": "Bitcoin segue o mercado global: riscos e oportunidades em julho de 2026",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin tem acompanhado a volatilidade das ações globais e do dólar, refletindo o apetite de risco dos investidores. Neste artigo você vai ver como a correlação com o Ibovespa e os eventos regulatórios podem moldar os próximos movimentos.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "cripto"
-    ],
-    "date": "2026-07-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-29-dividendos-atrativos-acoes-com-yield-acima-de-6-apesar-da-selic-alta",
-    "slug": "2026-07-29-dividendos-atrativos-acoes-com-yield-acima-de-6-apesar-da-selic-alta",
-    "title": "Dividendos atrativos: ações com yield acima de 6% apesar da Selic alta",
-    "category": "Investimentos",
-    "summary": "Mesmo com juros elevados, algumas empresas continuam pagando dividendos generosos. Descubra como selecionar ações com yield sustentável, payout seguro e potencial de valorização.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "ações"
-    ],
-    "date": "2026-07-29",
     "breaking": false
   }
 ]
