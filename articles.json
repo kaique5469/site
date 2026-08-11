@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-11-selic-em-queda-e-dolar-fraco-o-que-esperar-do-ibovespa-nos-proximos-me",
+    "slug": "2026-08-11-selic-em-queda-e-dolar-fraco-o-que-esperar-do-ibovespa-nos-proximos-me",
+    "title": "Selic em queda e dólar fraco: o que esperar do Ibovespa nos próximos meses",
+    "category": "Investimentos",
+    "summary": "A Selic em 14,25% e o dólar em R$ 4,91 criam sinais mistos para o mercado de ações. Veja quais setores podem se beneficiar e como proteger sua carteira diante da volatilidade.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Ibovespa"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-tesouro-direto-ou-cdb-como-escolher-com-selic-em-trajetoria-de-queda",
+    "slug": "2026-08-11-tesouro-direto-ou-cdb-como-escolher-com-selic-em-trajetoria-de-queda",
+    "title": "Tesouro Direto ou CDB? Como escolher com Selic em trajetória de queda",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em baixa, os rendimentos de títulos públicos e privados estão sendo pressionados. Entenda as diferenças entre Tesouro Direto e CDB e descubra qual se encaixa melhor no seu perfil.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "CDB"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-setores-defensivos-para-navegar-o-ano-eleitoral-com-menor-volatilidade",
+    "slug": "2026-08-11-setores-defensivos-para-navegar-o-ano-eleitoral-com-menor-volatilidade",
+    "title": "Setores defensivos para navegar o ano eleitoral com menor volatilidade",
+    "category": "Renda Variável",
+    "summary": "Em anos eleitorais, o mercado tende a ficar mais cauteloso e volátil. Concentrar-se em setores com receitas previsíveis pode reduzir riscos e capturar retornos estáveis mesmo diante da incerteza política.",
+    "readTime": "5",
+    "tags": [
+      "Ano eleitoral",
+      "Setores defensivos"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-reserva-de-emergencia-quanto-guardar-quando-a-inflacao-ainda-aperta",
+    "slug": "2026-08-11-reserva-de-emergencia-quanto-guardar-quando-a-inflacao-ainda-aperta",
+    "title": "Reserva de emergência: quanto guardar quando a inflação ainda aperta",
+    "category": "Saúde Financeira",
+    "summary": "Mesmo com inflação em alta, ter uma reserva de emergência evita endividamento em momentos inesperados. Saiba como calcular o valor ideal e onde aplicá-lo para preservar o poder de compra.",
+    "readTime": "5",
+    "tags": [
+      "Reserva de emergência",
+      "Inflação"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-bitcoin-em-correlacao-com-risco-global-estrategias-para-2026",
+    "slug": "2026-08-11-bitcoin-em-correlacao-com-risco-global-estrategias-para-2026",
+    "title": "Bitcoin em correlação com risco global: estratégias para 2026",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin tem acompanhado a volatilidade dos mercados globais, reagindo a dados macroeconômicos e ao sentimento de risco. Entenda essa relação e veja como alocar a criptomoeda de forma equilibrada em sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "Volatilidade"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-fundos-imobiliarios-em-ambiente-de-juros-baixos-oportunidades-e-riscos",
+    "slug": "2026-08-11-fundos-imobiliarios-em-ambiente-de-juros-baixos-oportunidades-e-riscos",
+    "title": "Fundos imobiliários em ambiente de juros baixos: oportunidades e riscos",
+    "category": "Investimentos",
+    "summary": "Com a Selic em trajetória de queda, os FIIs podem oferecer rendimentos atraentes, mas também enfrentam desafios como vacância e valorização de imóveis. Saiba como selecionar fundos com fundamentos sólidos neste cenário.",
+    "readTime": "5",
+    "tags": [
+      "Fundos imobiliários",
+      "Juros baixos"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
     "id": "2026-08-11-ibovespa-sob-pressao-o-que-esperar-nas-proximas-semanas-com-eleicao-e-",
     "slug": "2026-08-11-ibovespa-sob-pressao-o-que-esperar-nas-proximas-semanas-com-eleicao-e-",
     "title": "Ibovespa sob pressão: o que esperar nas próximas semanas com eleição e juros em queda",
@@ -765,96 +849,6 @@
       "setores defensivos"
     ],
     "date": "2026-08-03",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-01-ibovespa-sob-pressao-o-que-esperar-da-selic-em-queda-e-do-dolar-fraco",
-    "slug": "2026-08-01-ibovespa-sob-pressao-o-que-esperar-da-selic-em-queda-e-do-dolar-fraco",
-    "title": "Ibovespa sob pressão: o que esperar da Selic em queda e do dólar fraco",
-    "category": "Investimentos",
-    "summary": "O Ibovespa ronda os 176.000 pontos enquanto a Selic cai e o dólar chega a R$ 4,91. Entenda como esses movimentos afetam as ações e quais estratégias adotar.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic",
-      "Dólar"
-    ],
-    "date": "2026-08-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-01-tesouro-direto-rendimento-real-ainda-atrativo-apesar-da-queda-da-selic",
-    "slug": "2026-08-01-tesouro-direto-rendimento-real-ainda-atrativo-apesar-da-queda-da-selic",
-    "title": "Tesouro Direto: rendimento real ainda atrativo apesar da queda da Selic",
-    "category": "Renda Fixa",
-    "summary": "Mesmo com a Selic em trajetória de descenso, os títulos públicos oferecem retornos reais acima da inflação. Veja como escolher entre prefixados e indexados e proteger seu patrimônio.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "Selic",
-      "IPCA"
-    ],
-    "date": "2026-08-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-01-setor-de-consumo-como-as-eleicoes-influenciam-acoes-de-varejo",
-    "slug": "2026-08-01-setor-de-consumo-como-as-eleicoes-influenciam-acoes-de-varejo",
-    "title": "Setor de consumo: como as eleições influenciam ações de varejo",
-    "category": "Renda Variável",
-    "summary": "Em ano eleitoral, políticas de renda e crédito afetam diretamente o varejo. Entenda quais subsetores são mais sensíveis e como posicionar sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "Varejo",
-      "Eleições",
-      "Crédito"
-    ],
-    "date": "2026-08-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-01-planejamento-financeiro-para-familias-em-ano-eleitoral-dicas-praticas",
-    "slug": "2026-08-01-planejamento-financeiro-para-familias-em-ano-eleitoral-dicas-praticas",
-    "title": "Planejamento financeiro para famílias em ano eleitoral: dicas práticas",
-    "category": "Saúde Financeira",
-    "summary": "Com a volatilidade política aumentando, proteger o orçamento familiar exige reservas, controle de dívidas e investimentos conservadores. Aprenda a ajustar seu plano.",
-    "readTime": "5",
-    "tags": [
-      "Planejamento financeiro",
-      "Reserva de emergência",
-      "Dívidas"
-    ],
-    "date": "2026-08-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-01-bitcoin-em-baixa-correlacao-com-risco-global-e-oportunidades-de-acumul",
-    "slug": "2026-08-01-bitcoin-em-baixa-correlacao-com-risco-global-e-oportunidades-de-acumul",
-    "title": "Bitcoin em baixa: correlação com risco global e oportunidades de acumulação",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin acompanha a volatilidade dos mercados tradicionais, refletindo aversão ao risco. Entenda os níveis de suporte e como usar a correlação a seu favor.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "Volatilidade",
-      "DCA"
-    ],
-    "date": "2026-08-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-01-fundos-imobiliarios-dividendos-estaveis-mesmo-com-juros-em-baixa",
-    "slug": "2026-08-01-fundos-imobiliarios-dividendos-estaveis-mesmo-com-juros-em-baixa",
-    "title": "Fundos imobiliários: dividendos estáveis mesmo com juros em baixa",
-    "category": "Investimentos",
-    "summary": "Com a Selic em trajetória de queda, os FIIs continuam pagando yields atrativos, especialmente aqueles com contratos de longo prazo. Saiba onde encontrar as melhores oportunidades.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "Dividendos",
-      "Logística"
-    ],
-    "date": "2026-08-01",
     "breaking": false
   }
 ]
