@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-11-ibovespa-sob-pressao-o-que-esperar-nas-proximas-semanas-com-eleicao-e-",
+    "slug": "2026-08-11-ibovespa-sob-pressao-o-que-esperar-nas-proximas-semanas-com-eleicao-e-",
+    "title": "Ibovespa sob pressão: o que esperar nas próximas semanas com eleição e juros em queda",
+    "category": "Investimentos",
+    "summary": "O Ibovespa está próximo de 176.000 pontos, com volatilidade elevada diante do ano eleitoral e dos primeiros sinais de corte na Selic. Neste artigo, entenda quais fatores podem mover o índice nos próximos dias e como ajustar sua exposição a ações.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-cdb-e-lcis-apos-corte-da-selic-onde-encontrar-rentabilidade-real-posit",
+    "slug": "2026-08-11-cdb-e-lcis-apos-corte-da-selic-onde-encontrar-rentabilidade-real-posit",
+    "title": "CDB e LCIs após corte da Selic: onde encontrar rentabilidade real positiva",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em trajetória de queda, os rendimentos dos títulos de renda fixa também são pressionados. Porém, alguns produtos ainda oferecem retorno acima da inflação, especialmente quando considerados os benefícios fiscais.",
+    "readTime": "5",
+    "tags": [
+      "CDB",
+      "LCI"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-setores-que-podem-surpreender-apesar-da-volatilidade-eleitoral",
+    "slug": "2026-08-11-setores-que-podem-surpreender-apesar-da-volatilidade-eleitoral",
+    "title": "Setores que podem surpreender apesar da volatilidade eleitoral",
+    "category": "Renda Variável",
+    "summary": "Em anos eleitorais, o mercado tende a ser mais nervoso, mas alguns setores apresentam características defensivas ou de crescimento que podem reduzir a volatilidade da carteira. Conheça quais são e como posicionar seu portfólio.",
+    "readTime": "5",
+    "tags": [
+      "setores",
+      "dividendos"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-como-proteger-seu-orcamento-diante-da-alta-do-dolar-e-da-inflacao",
+    "slug": "2026-08-11-como-proteger-seu-orcamento-diante-da-alta-do-dolar-e-da-inflacao",
+    "title": "Como proteger seu orçamento diante da alta do dólar e da inflação",
+    "category": "Saúde Financeira",
+    "summary": "Mesmo com o dólar em baixa histórica, a inflação ainda pressiona o poder de compra das famílias. Este guia traz ações práticas para manter o equilíbrio financeiro e evitar surpresas no fim do mês.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "dólar"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-bitcoin-em-meio-a-volatilidade-global-o-que-os-investidores-devem-obse",
+    "slug": "2026-08-11-bitcoin-em-meio-a-volatilidade-global-o-que-os-investidores-devem-obse",
+    "title": "Bitcoin em meio à volatilidade global: o que os investidores devem observar",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin segue acompanhando os movimentos de risco do mercado global, influenciado por dados macroeconômicos, política de juros e desenvolvimentos regulatórios. Saber interpretar esses sinais ajuda a evitar decisões impulsivas.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-11-fundos-imobiliarios-seguem-atraentes-apesar-da-queda-dos-juros",
+    "slug": "2026-08-11-fundos-imobiliarios-seguem-atraentes-apesar-da-queda-dos-juros",
+    "title": "Fundos imobiliários seguem atraentes apesar da queda dos juros",
+    "category": "Investimentos",
+    "summary": "Com a Selic em trajetória de downward, os rendimentos dos FIIs são pressionados, mas muitos ainda oferecem dividendos acima da média do mercado, especialmente aqueles com contratos de longo prazo e setores resilientes.",
+    "readTime": "5",
+    "tags": [
+      "FII",
+      "dividendos"
+    ],
+    "date": "2026-08-11",
+    "breaking": false
+  },
+  {
     "id": "2026-08-10-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
     "slug": "2026-08-10-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
     "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$ 4,91",
@@ -771,97 +855,6 @@
       "Logística"
     ],
     "date": "2026-08-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-30-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-em-julho",
-    "slug": "2026-07-30-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-em-julho",
-    "title": "Selic em queda: o que esperar do Ibovespa e do dólar em julho",
-    "category": "Investimentos",
-    "summary": "Com a Selic em 14,25% e ciclo de corte iniciado, o mercado reavalia ativos de risco e câmbio. Veja como isso afeta ações, renda fixa e suas aplicações.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Ibovespa",
-      "dólar"
-    ],
-    "date": "2026-07-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-30-renda-fixa-posfixada-como-aproveitar-a-curva-de-juros-em-queda",
-    "slug": "2026-07-30-renda-fixa-posfixada-como-aproveitar-a-curva-de-juros-em-queda",
-    "title": "Renda fixa pós‑fixada: como aproveitar a curva de juros em queda",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em trajetória de descida, os títulos pós‑fixados ganham atratividade. Entenda quais indices acompanhar e como montar uma ladder.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Selic",
-      "LCI",
-      "LCA",
-      "ladder"
-    ],
-    "date": "2026-07-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-30-eleicoes-2026-setores-que-podem-brilhar-apesar-da-cautela-no-mercado",
-    "slug": "2026-07-30-eleicoes-2026-setores-que-podem-brilhar-apesar-da-cautela-no-mercado",
-    "title": "Eleições 2026: setores que podem brilhar apesar da cautela no mercado",
-    "category": "Renda Variável",
-    "summary": "O ano eleitoral traz volatilidade, mas alguns setores tendem a se beneficiar de estímulos fiscais e de campanhas. Saiba onde olhar.",
-    "readTime": "5",
-    "tags": [
-      "eleições",
-      "setores",
-      "volatilidade"
-    ],
-    "date": "2026-07-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-30-saude-financeira-em-tempos-de-juros-altos-dicas-praticas-para-proteger",
-    "slug": "2026-07-30-saude-financeira-em-tempos-de-juros-altos-dicas-praticas-para-proteger",
-    "title": "Saúde financeira em tempos de juros altos: dicas práticas para proteger seu bolso",
-    "category": "Saúde Financeira",
-    "summary": "Com Selic ainda elevada, é crucial revisar dívidas, reserva de emergência e investimentos. Aprenda a ajustar seu orçamento sem sacrificar metas.",
-    "readTime": "5",
-    "tags": [
-      "juros altos",
-      "reserva de emergência",
-      "planejamento financeiro"
-    ],
-    "date": "2026-07-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-30-bitcoin-e-o-cenario-macro-por-que-a-cripto-segue-a-volatilidade-global",
-    "slug": "2026-07-30-bitcoin-e-o-cenario-macro-por-que-a-cripto-segue-a-volatilidade-global",
-    "title": "Bitcoin e o cenário macro: por que a cripto segue a volatilidade global",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin tem acompanhado oscilações de mercados tradicionais, refletindo aversão ao risco e liquidez global. Entenda os drivers e o que esperar.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade",
-      "macro"
-    ],
-    "date": "2026-07-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-07-30-dividendos-em-alta-acoes-que-pagam-bem-mesmo-com-juros-em-trajetoria-d",
-    "slug": "2026-07-30-dividendos-em-alta-acoes-que-pagam-bem-mesmo-com-juros-em-trajetoria-d",
-    "title": "Dividendos em alta: ações que pagam bem mesmo com juros em trajetória de queda",
-    "category": "Investimentos",
-    "summary": "Com a Selic em processo de corte, ações de dividendos podem oferecer yield atrativo frente a renda fixa. Veja como selecionar as melhores oportunidades.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "yield",
-      "ações"
-    ],
-    "date": "2026-07-30",
     "breaking": false
   }
 ]
