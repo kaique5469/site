@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-13-ibovespa-sob-pressao-eleicao-e-juros-altos-definem-rumo-do-mercado",
+    "slug": "2026-08-13-ibovespa-sob-pressao-eleicao-e-juros-altos-definem-rumo-do-mercado",
+    "title": "Ibovespa sob pressão: eleição e juros altos definem rumo do mercado",
+    "category": "Investimentos",
+    "summary": "Entenda como a combinação de incerteza eleitoral e Selic em 14,25% afeta o Ibovespa e quais setores podem sofrer mais. O artigo traz indicadores-chave para acompanhar nos próximos dias.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-tesouro-direto-atrativo-queda-do-dolar-e-expectativa-de-juros-menores-",
+    "slug": "2026-08-13-tesouro-direto-atrativo-queda-do-dolar-e-expectativa-de-juros-menores-",
+    "title": "Tesouro Direto atrativo: queda do dólar e expectativa de juros menores aumentam retorno real",
+    "category": "Renda Fixa",
+    "summary": "Aprenda como a desvalorização do dólar e a perspectiva de cortes na Selic tornam os títulos públicos mais atraentes, especialmente aqueles indexados à inflação. Veja quais tesouros escolher para proteger seu poder de compra.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro",
+      "IPCA"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-acoes-defensivas-onde-encontrar-seguranca-em-ano-eleitoral-e-juros-alt",
+    "slug": "2026-08-13-acoes-defensivas-onde-encontrar-seguranca-em-ano-eleitoral-e-juros-alt",
+    "title": "Ações defensivas: onde encontrar segurança em ano eleitoral e juros altos",
+    "category": "Renda Variável",
+    "summary": "Descubra quais setores e ações tendem a ser mais resilientes diante da incerteza política e dos juros ainda elevados. O guia destaca dividendos consistentes e balanços sólidos para proteger sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "ações defensivas",
+      "dividendos"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-financas-pessoais-em-epoca-de-eleicao-como-proteger-seu-orcamento-cont",
+    "slug": "2026-08-13-financas-pessoais-em-epoca-de-eleicao-como-proteger-seu-orcamento-cont",
+    "title": "Finanças pessoais em época de eleição: como proteger seu orçamento contra a volatilidade",
+    "category": "Saúde Financeira",
+    "summary": "Aprenda a ajustar seu orçamento familiar diante da volatilidade cambial e das incertezas eleitorais, mantendo reservas de emergência e priorizando dívidas de alto custo. Dicas práticas para manter a saúde financeira em 2026.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "reserva de emergência"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-bitcoin-e-o-mercado-global-por-que-a-criptomoeda-segue-a-volatilidade-",
+    "slug": "2026-08-13-bitcoin-e-o-mercado-global-por-que-a-criptomoeda-segue-a-volatilidade-",
+    "title": "Bitcoin e o mercado global: por que a criptomoeda segue a volatilidade dos ativos de risco",
+    "category": "Criptomoedas",
+    "summary": "Entenda a correlação entre Bitcoin e ativos de risco como ações e commodities, e como fatores macroeconômicos, como juros e dólar, influenciam seu preço. Saiba o que observar antes de alocar parte da carteira em cripto.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "correlação"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-diversificacao-inteligente-combinando-renda-fixa-variavel-e-ativos-alt",
+    "slug": "2026-08-13-diversificacao-inteligente-combinando-renda-fixa-variavel-e-ativos-alt",
+    "title": "Diversificação inteligente: combinando renda fixa, variável e ativos alternativos em 2026",
+    "category": "Investimentos",
+    "summary": "Saiba como montar uma carteira equilibrada que alie segurança da renda fixa, potencial de crescimento da renda variável e proteção oferecida por ativos alternativos como fundos imobiliários e ouro. Estratégias práticas para diferentes perfis de investidor.",
+    "readTime": "5",
+    "tags": [
+      "diversificação",
+      "alocação"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
     "id": "2026-08-13-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "slug": "2026-08-13-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
@@ -765,90 +849,6 @@
       "juros baixos"
     ],
     "date": "2026-08-08",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-06-ibovespa-sob-pressao-como-navegar-a-volatilidade-eleitoral-e-o-dolar-f",
-    "slug": "2026-08-06-ibovespa-sob-pressao-como-navegar-a-volatilidade-eleitoral-e-o-dolar-f",
-    "title": "Ibovespa sob pressão: como navegar a volatilidade eleitoral e o dólar fraco",
-    "category": "Investimentos",
-    "summary": "Aprenda por que o Ibovespa oscila autour de 176 mil pontos enquanto o dólar cai a R$ 4,91. Veja táticas práticas para proteger sua carteira diante da eleição e do ciclo de cortes de juros.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "dólar"
-    ],
-    "date": "2026-08-06",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-06-selic-em-queda-onde-alocar-sua-renda-fixa-com-seguranca-e-retorno-real",
-    "slug": "2026-08-06-selic-em-queda-onde-alocar-sua-renda-fixa-com-seguranca-e-retorno-real",
-    "title": "Selic em queda: onde alocar sua renda fixa com segurança e retorno real",
-    "category": "Renda Fixa",
-    "summary": "Entenda como o corte da Selic afeta títulos públicos e privados, e descubra quais instrumentos oferecem melhor proteção contra inflação e liquidez. Saiba como montar uma estratégia de renda fixa que equilibra segurança e retorno real.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-08-06",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-06-eleicao-2026-setores-que-podem-superar-o-ibovespa-mesmo-com-cautela-no",
-    "slug": "2026-08-06-eleicao-2026-setores-que-podem-superar-o-ibovespa-mesmo-com-cautela-no",
-    "title": "Eleição 2026: setores que podem superar o Ibovespa mesmo com cautela no mercado",
-    "category": "Renda Variável",
-    "summary": "Analise quais setores tendem a se beneficiar de gastos públicos e de políticas de estímulo, e como posicionar sua carteira de ações diante do cenário eleitoral. Identifique oportunidades em infraestrutura, consumo e varejo para potencializar retornos mesmo com cautela no mercado.",
-    "readTime": "5",
-    "tags": [
-      "eleição",
-      "ações"
-    ],
-    "date": "2026-08-06",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-06-financas-pessoais-em-tempos-de-juros-altos-como-manter-o-controle-sem-",
-    "slug": "2026-08-06-financas-pessoais-em-tempos-de-juros-altos-como-manter-o-controle-sem-",
-    "title": "Finanças pessoais em tempos de juros altos: como manter o controle sem sacrificar objetivos",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda técnicas práticas de orçamento, renegociação de dívidas e construção de reserva de emergência enquanto a Selic permanece elevada. Descubra como manter o controle das finanças pessoais sem sacrificar seus objetivos de longo prazo.",
-    "readTime": "5",
-    "tags": [
-      "finanças pessoais",
-      "orçamento"
-    ],
-    "date": "2026-08-06",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-06-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-para-o-segundo-sem",
-    "slug": "2026-08-06-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-para-o-segundo-sem",
-    "title": "Bitcoin em meio à volatilidade global: o que esperar para o segundo semestre de 2026",
-    "category": "Criptomoedas",
-    "summary": "Entenda a correlação entre o Bitcoin, o risco global e as políticas de juros, e veja pontos de entrada e saída para investidores de longo prazo. Saiba como usar níveis técnicos e alocação prudente para navegar a volatilidade do segundo semestre de 2026.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "criptomoedas"
-    ],
-    "date": "2026-08-06",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-06-etfs-de-dividendos-alternativa-estavel-para-renda-passiva-em-cenario-d",
-    "slug": "2026-08-06-etfs-de-dividendos-alternativa-estavel-para-renda-passiva-em-cenario-d",
-    "title": "ETFs de dividendos: alternativa estável para renda passiva em cenário de juros em declínio",
-    "category": "Investimentos",
-    "summary": "Descubra como ETFs focados em dividendos podem gerar fluxo de caixa estável enquanto os juros caem e como selecionar os melhores fundos para seu perfil. Aprenda a montar uma carteira que equilibra renda passiva e crescimento em cenário de juros em declínio.",
-    "readTime": "5",
-    "tags": [
-      "ETF",
-      "dividendos"
-    ],
-    "date": "2026-08-06",
     "breaking": false
   }
 ]
