@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-08-13-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "slug": "2026-08-13-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
+    "category": "Investimentos",
+    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de dolarizar a carteira ou se a queda deve continuar.",
+    "readTime": "4",
+    "tags": [
+      "dolar",
+      "diversificacao",
+      "cambio"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-selic-a-1425-onde-alocar-enquanto-os-cortes-comecam",
+    "slug": "2026-08-13-selic-a-1425-onde-alocar-enquanto-os-cortes-comecam",
+    "title": "Selic a 14,25%: Onde alocar enquanto os cortes começam?",
+    "category": "Renda Fixa",
+    "summary": "Com o ciclo de queda da Selic em andamento, a estratégia de 'deixar no CDI' pode não ser mais a mais rentável. Aprenda a travar taxas.",
+    "readTime": "5",
+    "tags": [
+      "selic",
+      "renda-fixa",
+      "tesouro-direto"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-ibovespa-aos-176k-como-navegar-na-volatilidade-eleitoral",
+    "slug": "2026-08-13-ibovespa-aos-176k-como-navegar-na-volatilidade-eleitoral",
+    "title": "Ibovespa aos 176k: Como navegar na volatilidade eleitoral",
+    "category": "Renda Variável",
+    "summary": "O mercado oscila entre a euforia dos pontos e o medo das urnas. Veja como montar uma carteira resiliente para este semestre.",
+    "readTime": "6",
+    "tags": [
+      "ibovespa",
+      "acoes",
+      "eleicoes"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-a-armadilha-do-credito-facil-em-tempos-de-selic-alta",
+    "slug": "2026-08-13-a-armadilha-do-credito-facil-em-tempos-de-selic-alta",
+    "title": "A armadilha do crédito fácil em tempos de Selic alta",
+    "category": "Saúde Financeira",
+    "summary": "Com juros a 14,25%, o custo do endividamento está proibitivo. Entenda como reorganizar suas contas para não entrar em espiral.",
+    "readTime": "4",
+    "tags": [
+      "financas-pessoais",
+      "dividas",
+      "educacao-financeira"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-bitcoin-e-a-volatilidade-global-ouro-digital-ou-aposta",
+    "slug": "2026-08-13-bitcoin-e-a-volatilidade-global-ouro-digital-ou-aposta",
+    "title": "Bitcoin e a volatilidade global: Ouro digital ou aposta?",
+    "category": "Criptomoedas",
+    "summary": "As criptomoedas seguem o ritmo do mercado global. Analisamos o papel do Bitcoin em uma carteira diversificada no cenário atual.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "criptomoedas",
+      "blockchain"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-13-checklist-financeiro-o-que-revisar-agora-em-agosto",
+    "slug": "2026-08-13-checklist-financeiro-o-que-revisar-agora-em-agosto",
+    "title": "Checklist Financeiro: O que revisar agora em agosto",
+    "category": "Investimentos",
+    "summary": "Um guia prático de 4 passos para ajustar sua carteira diante do dólar baixo, Selic alta e ano eleitoral.",
+    "readTime": "3",
+    "tags": [
+      "planejamento",
+      "carteira",
+      "estratégia"
+    ],
+    "date": "2026-08-13",
+    "breaking": false
+  },
+  {
     "id": "2026-08-12-selic-em-1425-como-o-corte-afeta-suas-aplicacoes-hoje",
     "slug": "2026-08-12-selic-em-1425-como-o-corte-afeta-suas-aplicacoes-hoje",
     "title": "Selic em 14,25%: como o corte afeta suas aplicações hoje",
@@ -759,96 +849,6 @@
       "dividendos"
     ],
     "date": "2026-08-06",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-05-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
-    "slug": "2026-08-05-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
-    "title": "Dólar a R$ 4,91: Oportunidade de Compra ou Sinal de Alerta?",
-    "category": "Investimentos",
-    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de dolarizar a carteira ou se há mais espaço para queda.",
-    "readTime": "4",
-    "tags": [
-      "dólar",
-      "diversificação",
-      "câmbio"
-    ],
-    "date": "2026-08-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-05-selic-a-1425-onde-alocar-com-o-ciclo-de-cortes-iniciado",
-    "slug": "2026-08-05-selic-a-1425-onde-alocar-com-o-ciclo-de-cortes-iniciado",
-    "title": "Selic a 14,25%: Onde Alocar com o Ciclo de Cortes Iniciado",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em patamares elevados, mas em tendência de queda, o investidor precisa migrar a estratégia para não perder rentabilidade futura.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto",
-      "Renda Fixa"
-    ],
-    "date": "2026-08-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-05-ibovespa-aos-176k-como-navegar-na-volatilidade-pre-eleitoral",
-    "slug": "2026-08-05-ibovespa-aos-176k-como-navegar-na-volatilidade-pre-eleitoral",
-    "title": "Ibovespa aos 176k: Como Navegar na Volatilidade Pré-Eleitoral",
-    "category": "Renda Variável",
-    "summary": "O mercado brasileiro testa novos patamares, mas a cautela com as eleições sugere uma seleção rigorosa de ativos.",
-    "readTime": "6",
-    "tags": [
-      "Ibovespa",
-      "Ações",
-      "Bolsa de Valores"
-    ],
-    "date": "2026-08-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-05-inflacao-e-poder-de-compra-blindando-seu-orcamento",
-    "slug": "2026-08-05-inflacao-e-poder-de-compra-blindando-seu-orcamento",
-    "title": "Inflação e Poder de Compra: Blindando seu Orçamento",
-    "category": "Saúde Financeira",
-    "summary": "Com a inflação sob vigilância, aprender a gerir o fluxo de caixa é a única forma de evitar a erosão do patrimônio.",
-    "readTime": "4",
-    "tags": [
-      "Finanças Pessoais",
-      "Inflação",
-      "Planejamento"
-    ],
-    "date": "2026-08-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-05-bitcoin-e-a-nova-ordem-o-ativo-digital-no-portfolio-moderno",
-    "slug": "2026-08-05-bitcoin-e-a-nova-ordem-o-ativo-digital-no-portfolio-moderno",
-    "title": "Bitcoin e a Nova Ordem: O Ativo Digital no Portfólio Moderno",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin segue a volatilidade global, mas consolida seu papel como 'ouro digital'. Entenda como alocar sem correr riscos excessivos.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "Cripto",
-      "Blockchain"
-    ],
-    "date": "2026-08-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-05-a-psicologia-do-investidor-em-anos-eleitorais",
-    "slug": "2026-08-05-a-psicologia-do-investidor-em-anos-eleitorais",
-    "title": "A Psicologia do Investidor em Anos Eleitorais",
-    "category": "Investimentos",
-    "summary": "O medo e a euforia são os piores conselheiros. Aprenda a separar a política dos números para investir com racionalidade.",
-    "readTime": "4",
-    "tags": [
-      "Psicologia Financeira",
-      "Mentalidade",
-      "Estratégia"
-    ],
-    "date": "2026-08-05",
     "breaking": false
   }
 ]
