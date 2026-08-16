@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-08-16-dolar-a-r-491-a-hora-de-dolarizar-ou-de-aproveitar-a-queda",
+    "slug": "2026-08-16-dolar-a-r-491-a-hora-de-dolarizar-ou-de-aproveitar-a-queda",
+    "title": "Dólar a R$ 4,91: A hora de dolarizar ou de aproveitar a queda?",
+    "category": "Investimentos",
+    "summary": "Com a moeda americana no menor nível em dois anos, investidores questionam se é o momento de comprar ou vender. Analisamos o impacto dessa queda no portfólio brasileiro.",
+    "readTime": "4",
+    "tags": [
+      "Dólar",
+      "Diversificação",
+      "Investimentos Internacionais"
+    ],
+    "date": "2026-08-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-16-selic-a-1425-como-navegar-no-ciclo-de-cortes",
+    "slug": "2026-08-16-selic-a-1425-como-navegar-no-ciclo-de-cortes",
+    "title": "Selic a 14,25%: Como navegar no ciclo de cortes",
+    "category": "Renda Fixa",
+    "summary": "O ciclo de queda da Selic começou, mas os juros ainda estão altos. Entenda por que prefixar agora pode ser a jogada mestre para o próximo ano.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Renda Fixa",
+      "Tesouro Direto"
+    ],
+    "date": "2026-08-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-16-ibovespa-aos-176-mil-oportunidade-ou-armadilha-eleitoral",
+    "slug": "2026-08-16-ibovespa-aos-176-mil-oportunidade-ou-armadilha-eleitoral",
+    "title": "Ibovespa aos 176 mil: Oportunidade ou Armadilha Eleitoral?",
+    "category": "Renda Variável",
+    "summary": "O mercado oscila enquanto olha para as urnas e para a inflação. Descubra quais setores podem resistir à volatilidade de maio e agosto.",
+    "readTime": "6",
+    "tags": [
+      "Ibovespa",
+      "Bolsa de Valores",
+      "Ações"
+    ],
+    "date": "2026-08-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-16-inflacao-persistente-como-proteger-seu-salario",
+    "slug": "2026-08-16-inflacao-persistente-como-proteger-seu-salario",
+    "title": "Inflação persistente: Como proteger seu salário",
+    "category": "Saúde Financeira",
+    "summary": "Com o IPCA-15 sob monitoramento, o poder de compra do brasileiro é testado. Aprenda a ajustar seu orçamento para não perder dinheiro para a inflação.",
+    "readTime": "4",
+    "tags": [
+      "Inflação",
+      "Planejamento Financeiro",
+      "Orçamento"
+    ],
+    "date": "2026-08-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-16-bitcoin-e-a-nova-era-da-volatilidade-global",
+    "slug": "2026-08-16-bitcoin-e-a-nova-era-da-volatilidade-global",
+    "title": "Bitcoin e a Nova Era da Volatilidade Global",
+    "category": "Criptomoedas",
+    "summary": "As criptomoedas seguem a tendência de risco global. Entenda como integrar o Bitcoin no seu portfólio sem comprometer seu sono.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "Criptomoedas",
+      "Blockchain"
+    ],
+    "date": "2026-08-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-16-mentalidade-financeira-o-perigo-do-imediatismo",
+    "slug": "2026-08-16-mentalidade-financeira-o-perigo-do-imediatismo",
+    "title": "Mentalidade Financeira: O perigo do imediatismo",
+    "category": "Investimentos",
+    "summary": "Em um mercado de notícias rápidas e oscilações diárias, a paciência é o ativo mais lucrativo. Saiba como blindar seu psicológico.",
+    "readTime": "4",
+    "tags": [
+      "Psicologia Financeira",
+      "Long Term",
+      "Mentalidade"
+    ],
+    "date": "2026-08-16",
+    "breaking": false
+  },
+  {
     "id": "2026-08-15-dolar-em-queda-livre-o-que-significa-para-suas-acoes-hoje",
     "slug": "2026-08-15-dolar-em-queda-livre-o-que-significa-para-suas-acoes-hoje",
     "title": "Dólar em queda livre: o que significa para suas ações hoje",
@@ -763,90 +853,6 @@
     "tags": [
       "ETFs",
       "dividendos"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-em-agosto",
-    "slug": "2026-08-10-selic-em-queda-o-que-esperar-do-ibovespa-e-do-dolar-em-agosto",
-    "title": "Selic em queda: o que esperar do Ibovespa e do dólar em agosto",
-    "category": "Investimentos",
-    "summary": "O Banco Central reduziu a Selic para 14,25% e sinalizou novos cortes. Veja como isso afeta ações, câmbio e suas aplicações.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Ibovespa"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-tesouro-direto-rende-mais-com-selic-em-queda-saiba-onde-alocar",
-    "slug": "2026-08-10-tesouro-direto-rende-mais-com-selic-em-queda-saiba-onde-alocar",
-    "title": "Tesouro Direto rende mais com Selic em queda? Saiba onde alocar",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em trajetória de descida, os títulos públicos pós-fixados ganham atratividade. Descubra quais são as melhores opções para proteger seu patrimônio.",
-    "readTime": "6",
-    "tags": [
-      "Tesouro Direto",
-      "Selic"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-setores-que-podem-surpreender-apesar-do-ano-eleitoral",
-    "slug": "2026-08-10-setores-que-podem-surpreender-apesar-do-ano-eleitoral",
-    "title": "Setores que podem surpreender apesar do ano eleitoral",
-    "category": "Renda Variável",
-    "summary": "Mesmo com cautela no mercado, alguns setores mostram fundamentos sólidos. Veja onde analistas estão apostando para o segundo semestre.",
-    "readTime": "5",
-    "tags": [
-      "setores",
-      "eleições"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-como-montar-uma-reserva-de-emergencia-em-tempos-de-juros-altos",
-    "slug": "2026-08-10-como-montar-uma-reserva-de-emergencia-em-tempos-de-juros-altos",
-    "title": "Como montar uma reserva de emergência em tempos de juros altos",
-    "category": "Saúde Financeira",
-    "summary": "Ter dinheiro reserva evita dívidas caras quando surge um imprevito. Aprenda o passo a passo para construir esse colchão financeiro.",
-    "readTime": "4",
-    "tags": [
-      "reserva de emergência",
-      "juros"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-bitcoin-volta-a-ganhar-espaco-diante-da-queda-do-dolar",
-    "slug": "2026-08-10-bitcoin-volta-a-ganhar-espaco-diante-da-queda-do-dolar",
-    "title": "Bitcoin volta a ganhar espaço diante da queda do dólar",
-    "category": "Criptomoedas",
-    "summary": "Com o real se fortalecendo, o BTC em dólares mostra sinais de recuperação. Entenda o que move o criptoativo neste cenário.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "dólar"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-dividendos-como-escolher-acoes-que-pagam-bem-mesmo-com-juros-altos",
-    "slug": "2026-08-10-dividendos-como-escolher-acoes-que-pagam-bem-mesmo-com-juros-altos",
-    "title": "Dividendos: como escolher ações que pagam bem mesmo com juros altos",
-    "category": "Investimentos",
-    "summary": "Selecionar empresas com histórico de pagamentos consistentes pode melhorar o retorno da carteira. Confira critérios práticos para filtrar os melhores pagadores.",
-    "readTime": "6",
-    "tags": [
-      "dividendos",
-      "ações"
     ],
     "date": "2026-08-10",
     "breaking": false
