@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-08-19-ibovespa-em-176-mil-pontos-como-navegar-a-volatilidade-eleitoral",
+    "slug": "2026-08-19-ibovespa-em-176-mil-pontos-como-navegar-a-volatilidade-eleitoral",
+    "title": "Ibovespa em 176 mil pontos: como navegar a volatilidade eleitoral",
+    "category": "Investimentos",
+    "summary": "Entenda o impacto das eleições e do corte de Selic no Ibovespa e descubra ajustes práticos para proteger sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições 2026",
+      "Selic"
+    ],
+    "date": "2026-08-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-19-tesouro-direto-oportunidades-com-a-selic-em-queda",
+    "slug": "2026-08-19-tesouro-direto-oportunidades-com-a-selic-em-queda",
+    "title": "Tesouro Direto: oportunidades com a Selic em queda",
+    "category": "Renda Fixa",
+    "summary": "Como aproveitar a queda da Selic para comprar títulos públicos com bom rendimento e menor risco.",
+    "readTime": "4",
+    "tags": [
+      "Tesouro Direto",
+      "Selic",
+      "IPCA"
+    ],
+    "date": "2026-08-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-19-setores-que-podem-ganhar-com-o-ciclo-de-cortes-e-a-eleicao",
+    "slug": "2026-08-19-setores-que-podem-ganhar-com-o-ciclo-de-cortes-e-a-eleicao",
+    "title": "Setores que podem ganhar com o ciclo de cortes e a eleição",
+    "category": "Renda Variável",
+    "summary": "Identifique quais áreas da bolsa tendem a se beneficiar do ambiente de juros menores e incerteza política.",
+    "readTime": "5",
+    "tags": [
+      "setores",
+      "consumo",
+      "eleição"
+    ],
+    "date": "2026-08-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-19-saude-financeira-como-proteger-seu-orcamento-com-o-dolar-baixo",
+    "slug": "2026-08-19-saude-financeira-como-proteger-seu-orcamento-com-o-dolar-baixo",
+    "title": "Saúde financeira: como proteger seu orçamento com o dólar baixo",
+    "category": "Saúde Financeira",
+    "summary": "Dicas práticas para usar a queda do dólar a seu favor, reduzindo custos e aumentando reservas.",
+    "readTime": "4",
+    "tags": [
+      "dólar",
+      "orçamento",
+      "reserva de emergência"
+    ],
+    "date": "2026-08-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-19-bitcoin-em-2026-entre-volatilidade-global-e-interesse-institucional",
+    "slug": "2026-08-19-bitcoin-em-2026-entre-volatilidade-global-e-interesse-institucional",
+    "title": "Bitcoin em 2026: entre volatilidade global e interesse institucional",
+    "category": "Criptomoedas",
+    "summary": "Análise do comportamento do Bitcoin diante da queda do dólar e dos cortes de juros, e o que esperar para o segundo semestre.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade",
+      "institucional"
+    ],
+    "date": "2026-08-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-19-etfs-internacionais-diversificacao-simples-em-tempos-de-juros-baixos",
+    "slug": "2026-08-19-etfs-internacionais-diversificacao-simples-em-tempos-de-juros-baixos",
+    "title": "ETFs internacionais: diversificação simples em tempos de juros baixos",
+    "category": "Investimentos",
+    "summary": "Como usar ETFs que replicam mercados externos para reduzir risco local e aproveitar oportunidades globais.",
+    "readTime": "5",
+    "tags": [
+      "ETF",
+      "diversificação",
+      "mercado externo"
+    ],
+    "date": "2026-08-19",
+    "breaking": false
+  },
+  {
     "id": "2026-08-16-dolar-a-r-491-a-hora-de-dolarizar-ou-de-aproveitar-a-queda",
     "slug": "2026-08-16-dolar-a-r-491-a-hora-de-dolarizar-ou-de-aproveitar-a-queda",
     "title": "Dólar a R$ 4,91: A hora de dolarizar ou de aproveitar a queda?",
@@ -771,90 +861,6 @@
       "dividendos"
     ],
     "date": "2026-08-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
-    "slug": "2026-08-10-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
-    "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$ 4,91",
-    "category": "Investimentos",
-    "summary": "Entenda como a combinação de Ibovespa elevado e dólar fraco afeta suas alocações, quais setores se beneficiam e como ajustar a carteira diante do ciclo de cortes da Selic.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "dólar"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-selic-em-1425-oportunidades-em-titulos-publicos-posprefixados",
-    "slug": "2026-08-10-selic-em-1425-oportunidades-em-titulos-publicos-posprefixados",
-    "title": "Selic em 14,25%: oportunidades em títulos públicos pós‑prefixados",
-    "category": "Renda Fixa",
-    "summary": "Aprenda como o ciclo de corte da Selic afeta a rentabilidade do Tesouro Direto, quais indexadores são mais atrativos e como montar uma ladder de vencimentos para proteger seu poder de compra.",
-    "readTime": "6",
-    "tags": [
-      "Selic",
-      "Tesouro Direto"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-eleicoes-2026-setores-que-podem-ganhar-ou-perder-com-a-incerteza-polit",
-    "slug": "2026-08-10-eleicoes-2026-setores-que-podem-ganhar-ou-perder-com-a-incerteza-polit",
-    "title": "Eleições 2026: setores que podem ganhar ou perder com a incerteza política",
-    "category": "Renda Variável",
-    "summary": "Descubra quais indústrias tendem a se beneficiar de um ambiente político estável e quais podem sofrer com volatilidade eleitoral, além de como ajustar sua exposição em ações.",
-    "readTime": "5",
-    "tags": [
-      "eleições",
-      "setores"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-como-proteger-seu-patrimonio-em-epoca-de-alta-volatilidade-e-juros-ele",
-    "slug": "2026-08-10-como-proteger-seu-patrimonio-em-epoca-de-alta-volatilidade-e-juros-ele",
-    "title": "Como proteger seu patrimônio em época de alta volatilidade e juros elevados",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda práticas simples de gestão de risco, reserva de emergência e alocação de ativos que ajudam a manter o equilíbrio financeiro mesmo quando os mercados estão agitados.",
-    "readTime": "5",
-    "tags": [
-      "planejamento financeiro",
-      "volatilidade"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-bitcoin-segue-o-tom-do-mercado-global-o-que-esperar-nos-proximos-meses",
-    "slug": "2026-08-10-bitcoin-segue-o-tom-do-mercado-global-o-que-esperar-nos-proximos-meses",
-    "title": "Bitcoin segue o tom do mercado global: o que esperar nos próximos meses",
-    "category": "Criptomoedas",
-    "summary": "Entenda a correlação entre o Bitcoin e ativos de risco globais, como a política de juros dos EUA e o sentimento dos investidores, e como isso pode afetar sua alocação em cripto.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "cripto"
-    ],
-    "date": "2026-08-10",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-10-etfs-de-dividendos-alternativa-estavel-enquanto-o-ibovespa-oscila",
-    "slug": "2026-08-10-etfs-de-dividendos-alternativa-estavel-enquanto-o-ibovespa-oscila",
-    "title": "ETFs de dividendos: alternativa estável enquanto o Ibovespa oscila",
-    "category": "Investimentos",
-    "summary": "Saiba como os ETFs focados em dividendos podem oferecer renda passiva e menor volatilidade, e quais são as melhores opções disponíveis no Brasil hoje.",
-    "readTime": "5",
-    "tags": [
-      "ETFs",
-      "dividendos"
-    ],
-    "date": "2026-08-10",
     "breaking": false
   }
 ]
