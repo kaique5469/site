@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-08-20-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "slug": "2026-08-20-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
+    "category": "Investimentos",
+    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de dolarizar a carteira ou se a queda deve continuar.",
+    "readTime": "4",
+    "tags": [
+      "dolar",
+      "diversificacao",
+      "cambio"
+    ],
+    "date": "2026-08-20",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-20-selic-a-1425-onde-alocar-agora-que-o-ciclo-de-corte-comecou",
+    "slug": "2026-08-20-selic-a-1425-onde-alocar-agora-que-o-ciclo-de-corte-comecou",
+    "title": "Selic a 14,25%: Onde alocar agora que o ciclo de corte começou?",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em patamares elevados, mas em trajetória de queda, o investidor precisa migrar do pós-fixado para travar taxas.",
+    "readTime": "5",
+    "tags": [
+      "selic",
+      "rendafixa",
+      "tesourodireto"
+    ],
+    "date": "2026-08-20",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-20-ibovespa-aos-176k-como-navegar-a-volatilidade-do-ano-eleitoral",
+    "slug": "2026-08-20-ibovespa-aos-176k-como-navegar-a-volatilidade-do-ano-eleitoral",
+    "title": "Ibovespa aos 176k: Como navegar a volatilidade do ano eleitoral",
+    "category": "Renda Variável",
+    "summary": "O mercado oscila enquanto digere as promessas e riscos das eleições. Saiba quais setores devem resistir melhor a esse turbulento período.",
+    "readTime": "6",
+    "tags": [
+      "ibovespa",
+      "acoes",
+      "eleicoes"
+    ],
+    "date": "2026-08-20",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-20-inflacao-invisivel-como-proteger-seu-orcamento-do-ipca-15",
+    "slug": "2026-08-20-inflacao-invisivel-como-proteger-seu-orcamento-do-ipca-15",
+    "title": "Inflação invisível: Como proteger seu orçamento do IPCA-15",
+    "category": "Saúde Financeira",
+    "summary": "A inflação não afeta todos os bolsos da mesma forma. Aprenda a ajustar seu planejamento financeiro para não perder poder de compra.",
+    "readTime": "4",
+    "tags": [
+      "inflacao",
+      "financaspessoais",
+      "orcamento"
+    ],
+    "date": "2026-08-20",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-20-bitcoin-e-a-volatilidade-global-ainda-faz-sentido-investir",
+    "slug": "2026-08-20-bitcoin-e-a-volatilidade-global-ainda-faz-sentido-investir",
+    "title": "Bitcoin e a volatilidade global: Ainda faz sentido investir?",
+    "category": "Criptomoedas",
+    "summary": "As criptomoedas seguem o ritmo dos mercados globais. Analisamos o papel do Bitcoin como reserva de valor em tempos de incerteza.",
+    "readTime": "5",
+    "tags": [
+      "bitcoin",
+      "criptomoedas",
+      "volatilidade"
+    ],
+    "date": "2026-08-20",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-20-o-guia-do-investidor-para-o-semestre-final-de-2026",
+    "slug": "2026-08-20-o-guia-do-investidor-para-o-semestre-final-de-2026",
+    "title": "O guia do investidor para o semestre final de 2026",
+    "category": "Investimentos",
+    "summary": "Resumo estratégico para equilibrar a carteira entre juros altos, dólar baixo e riscos políticos.",
+    "readTime": "6",
+    "tags": [
+      "estrategia",
+      "carteira",
+      "planejamento"
+    ],
+    "date": "2026-08-20",
+    "breaking": false
+  },
+  {
     "id": "2026-08-19-dolar-em-baixa-e-selic-em-corte-o-que-esperar-do-ibovespa-agora",
     "slug": "2026-08-19-dolar-em-baixa-e-selic-em-corte-o-que-esperar-do-ibovespa-agora",
     "title": "Dólar em baixa e Selic em corte: o que esperar do Ibovespa agora",
@@ -777,90 +867,6 @@
       "ETF"
     ],
     "date": "2026-08-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-11-selic-em-queda-e-dolar-fraco-o-que-esperar-do-ibovespa-nos-proximos-me",
-    "slug": "2026-08-11-selic-em-queda-e-dolar-fraco-o-que-esperar-do-ibovespa-nos-proximos-me",
-    "title": "Selic em queda e dólar fraco: o que esperar do Ibovespa nos próximos meses",
-    "category": "Investimentos",
-    "summary": "A Selic em 14,25% e o dólar em R$ 4,91 criam sinais mistos para o mercado de ações. Veja quais setores podem se beneficiar e como proteger sua carteira diante da volatilidade.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Ibovespa"
-    ],
-    "date": "2026-08-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-11-tesouro-direto-ou-cdb-como-escolher-com-selic-em-trajetoria-de-queda",
-    "slug": "2026-08-11-tesouro-direto-ou-cdb-como-escolher-com-selic-em-trajetoria-de-queda",
-    "title": "Tesouro Direto ou CDB? Como escolher com Selic em trajetória de queda",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em baixa, os rendimentos de títulos públicos e privados estão sendo pressionados. Entenda as diferenças entre Tesouro Direto e CDB e descubra qual se encaixa melhor no seu perfil.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "CDB"
-    ],
-    "date": "2026-08-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-11-setores-defensivos-para-navegar-o-ano-eleitoral-com-menor-volatilidade",
-    "slug": "2026-08-11-setores-defensivos-para-navegar-o-ano-eleitoral-com-menor-volatilidade",
-    "title": "Setores defensivos para navegar o ano eleitoral com menor volatilidade",
-    "category": "Renda Variável",
-    "summary": "Em anos eleitorais, o mercado tende a ficar mais cauteloso e volátil. Concentrar-se em setores com receitas previsíveis pode reduzir riscos e capturar retornos estáveis mesmo diante da incerteza política.",
-    "readTime": "5",
-    "tags": [
-      "Ano eleitoral",
-      "Setores defensivos"
-    ],
-    "date": "2026-08-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-11-reserva-de-emergencia-quanto-guardar-quando-a-inflacao-ainda-aperta",
-    "slug": "2026-08-11-reserva-de-emergencia-quanto-guardar-quando-a-inflacao-ainda-aperta",
-    "title": "Reserva de emergência: quanto guardar quando a inflação ainda aperta",
-    "category": "Saúde Financeira",
-    "summary": "Mesmo com inflação em alta, ter uma reserva de emergência evita endividamento em momentos inesperados. Saiba como calcular o valor ideal e onde aplicá-lo para preservar o poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "Reserva de emergência",
-      "Inflação"
-    ],
-    "date": "2026-08-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-11-bitcoin-em-correlacao-com-risco-global-estrategias-para-2026",
-    "slug": "2026-08-11-bitcoin-em-correlacao-com-risco-global-estrategias-para-2026",
-    "title": "Bitcoin em correlação com risco global: estratégias para 2026",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin tem acompanhado a volatilidade dos mercados globais, reagindo a dados macroeconômicos e ao sentimento de risco. Entenda essa relação e veja como alocar a criptomoeda de forma equilibrada em sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "Volatilidade"
-    ],
-    "date": "2026-08-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-11-fundos-imobiliarios-em-ambiente-de-juros-baixos-oportunidades-e-riscos",
-    "slug": "2026-08-11-fundos-imobiliarios-em-ambiente-de-juros-baixos-oportunidades-e-riscos",
-    "title": "Fundos imobiliários em ambiente de juros baixos: oportunidades e riscos",
-    "category": "Investimentos",
-    "summary": "Com a Selic em trajetória de queda, os FIIs podem oferecer rendimentos atraentes, mas também enfrentam desafios como vacância e valorização de imóveis. Saiba como selecionar fundos com fundamentos sólidos neste cenário.",
-    "readTime": "5",
-    "tags": [
-      "Fundos imobiliários",
-      "Juros baixos"
-    ],
-    "date": "2026-08-11",
     "breaking": false
   }
 ]
