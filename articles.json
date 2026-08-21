@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-08-21-selic-em-1425-e-dolar-em-baixa-o-que-esperar-do-ibovespa-agora",
+    "slug": "2026-08-21-selic-em-1425-e-dolar-em-baixa-o-que-esperar-do-ibovespa-agora",
+    "title": "Selic em 14,25% e dólar em baixa: o que esperar do Ibovespa agora",
+    "category": "Investimentos",
+    "summary": "A Selic mantém-se em 14,25% enquanto o dólar cai para R$ 4,91, impactando fluxos de capital e avaliações de ações. O artigo explica como juros altos e câmbio fraco afetam setores diferentes e quais indicadores observar.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "dólar",
+      "Ibovespa"
+    ],
+    "date": "2026-08-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-21-tesouro-direto-rende-mais-com-selic-estavel-como-escolher-o-titulo-cer",
+    "slug": "2026-08-21-tesouro-direto-rende-mais-com-selic-estavel-como-escolher-o-titulo-cer",
+    "title": "Tesouro Direto rende mais com Selic estável: como escolher o título certo",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25%, os títulos públicos oferecem retornos atraentes, mas a escolha depende do perfil de risco e do horizonte de investimento. O guia traz dicas práticas para montar uma carteira de renda fixa equilibrada.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "Selic",
+      "LCI"
+    ],
+    "date": "2026-08-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-21-bolsa-em-volatilidade-setores-que-podem-superar-o-ibovespa-em-agosto",
+    "slug": "2026-08-21-bolsa-em-volatilidade-setores-que-podem-superar-o-ibovespa-em-agosto",
+    "title": "Bolsa em volatilidade: setores que podem superar o Ibovespa em agosto",
+    "category": "Renda Variável",
+    "summary": "O Ibovespa oscila entre 174.000 e 178.000 pontos, mas alguns setores mostram força relativa diante da queda do dólar e da temporada de balanços. Descubra onde colocar o foco para potencializar retornos.",
+    "readTime": "5",
+    "tags": [
+      "Bolsa",
+      "setores",
+      "dividendos"
+    ],
+    "date": "2026-08-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-21-financas-pessoais-em-epoca-de-eleicao-como-proteger-seu-orcamento",
+    "slug": "2026-08-21-financas-pessoais-em-epoca-de-eleicao-como-proteger-seu-orcamento",
+    "title": "Finanças pessoais em época de eleição: como proteger seu orçamento",
+    "category": "Saúde Financeira",
+    "summary": "Ano eleitoral costuma trazer gastos públicos maiores e pressão inflacionária, afetando o bolso das famílias. O artigo apresenta ações concretas para manter o controle financeiro mesmo em cenário de incerteza.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "eleição",
+      "reserva de emergência"
+    ],
+    "date": "2026-08-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-21-bitcoin-sob-pressao-correlacao-com-risco-global-e-o-que-esperar-do-seg",
+    "slug": "2026-08-21-bitcoin-sob-pressao-correlacao-com-risco-global-e-o-que-esperar-do-seg",
+    "title": "Bitcoin sob pressão: correlação com risco global e o que esperar do segundo semestre",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin reflete a aversão ao risco global, com sua correlação ao VIX em alta. O texto analisa os fatores que podem influenciar a criptomoeda nos próximos meses e sugere uma abordagem de exposição controlada.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "VIX",
+      "regulamentação"
+    ],
+    "date": "2026-08-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-21-etfs-de-dividendos-ganham-espaco-diante-de-juros-altos-vale-a-pena",
+    "slug": "2026-08-21-etfs-de-dividendos-ganham-espaco-diante-de-juros-altos-vale-a-pena",
+    "title": "ETFs de dividendos ganham espaço diante de juros altos: vale a pena?",
+    "category": "Investimentos",
+    "summary": "Com a Selic elevada, investidores buscam renda passiva e encontram nos ETFs de dividendos uma alternativa interessante aos títulos de renda fixa. O artigo explica como escolher e potencializar esses fundos.",
+    "readTime": "5",
+    "tags": [
+      "ETF",
+      "dividendos",
+      "BOVA11"
+    ],
+    "date": "2026-08-21",
+    "breaking": false
+  },
+  {
     "id": "2026-08-20-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "slug": "2026-08-20-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
@@ -781,90 +871,6 @@
     "tags": [
       "FIIs",
       "dividendos"
-    ],
-    "date": "2026-08-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-12-selic-em-queda-e-dolar-fraco-o-que-esperar-dos-investimentos-agora",
-    "slug": "2026-08-12-selic-em-queda-e-dolar-fraco-o-que-esperar-dos-investimentos-agora",
-    "title": "Selic em queda e dólar fraco: o que esperar dos investimentos agora",
-    "category": "Investimentos",
-    "summary": "Aprenda como a redução da Selic e o dólar baixo afetam renda fixa, variável e suas alocações.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "dólar"
-    ],
-    "date": "2026-08-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-12-tesouro-direto-apos-corte-da-selic-quais-titulos-valem-a-pena-agora",
-    "slug": "2026-08-12-tesouro-direto-apos-corte-da-selic-quais-titulos-valem-a-pena-agora",
-    "title": "Tesouro Direto após corte da Selic: quais títulos valem a pena agora",
-    "category": "Renda Fixa",
-    "summary": "Entenda como a Selic em 14,25% influencia os rendimentos do Tesouro prefixado, IPCA+ e LTN e onde alocar seu dinheiro.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "renda fixa"
-    ],
-    "date": "2026-08-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-12-ibovespa-em-176-mil-pontos-como-navegar-a-volatilidade-eleitoral",
-    "slug": "2026-08-12-ibovespa-em-176-mil-pontos-como-navegar-a-volatilidade-eleitoral",
-    "title": "Ibovespa em 176 mil pontos: como navegar a volatilidade eleitoral",
-    "category": "Renda Variável",
-    "summary": "Descubra quais setores estão mais sensíveis à eleição e como ajustar sua exposição em ações diante da alta volatilidade do mercado.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleição"
-    ],
-    "date": "2026-08-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-12-financas-pessoais-em-epoca-de-juros-altos-dicas-para-proteger-seu-orca",
-    "slug": "2026-08-12-financas-pessoais-em-epoca-de-juros-altos-dicas-para-proteger-seu-orca",
-    "title": "Finanças pessoais em época de juros altos: dicas para proteger seu orçamento",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda a controlar dívidas, aumentar a reserva de emergência e investir com inteligência mesmo com a Selic em 14,25%.",
-    "readTime": "5",
-    "tags": [
-      "finanças pessoais",
-      "reserva de emergência"
-    ],
-    "date": "2026-08-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-12-bitcoin-e-altcoins-como-a-volatilidade-global-afeta-os-criptoativos-em",
-    "slug": "2026-08-12-bitcoin-e-altcoins-como-a-volatilidade-global-afeta-os-criptoativos-em",
-    "title": "Bitcoin e altcoins: como a volatilidade global afeta os criptoativos em 2026",
-    "category": "Criptomoedas",
-    "summary": "Entenda a correlação entre o movimento do dólar, juros dos EUA e o preço do Bitcoin, e o que isso significa para seu portfólio de criptos.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-08-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-12-fundos-imobiliarios-e-etfs-oportunidades-com-juros-em-queda-e-dolar-ba",
-    "slug": "2026-08-12-fundos-imobiliarios-e-etfs-oportunidades-com-juros-em-queda-e-dolar-ba",
-    "title": "Fundos imobiliários e ETFs: oportunidades com juros em queda e dólar baixo",
-    "category": "Investimentos",
-    "summary": "Descubra como FIIs e ETFs podem se beneficiar da queda da Selic e do câmbio favorável, e onde alocar para renda passiva.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "ETF"
     ],
     "date": "2026-08-12",
     "breaking": false
