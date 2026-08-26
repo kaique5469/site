@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-26-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa",
+    "slug": "2026-08-26-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa",
+    "title": "Selic em 14,25% e corte iminente: o que esperar do Ibovespa",
+    "category": "Investimentos",
+    "summary": "O Copom manteve a Selic em 14,25% ao ano, mas sinalizou que o ciclo de cortes deve iniciar em breve. Isso gera expectativa de melhora para ativos de risco, enquanto o Ibovespa permanece volátil diante do ano eleitoral e do dólar fraco.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Ibovespa"
+    ],
+    "date": "2026-08-26",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-26-tesouro-direto-rende-menos-com-selic-em-queda-onde-alocar-agora",
+    "slug": "2026-08-26-tesouro-direto-rende-menos-com-selic-em-queda-onde-alocar-agora",
+    "title": "Tesouro Direto rende menos com Selic em queda: onde alocar agora",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em trajetória de queda, os rendimentos do Tesouro Direto prefixado têm recuado, reduzindo sua atratividade para investidores de renda fixa. Alternativas como CDBs, LCIs e LCAs oferecem retornos competitivos e, em alguns casos, isenção de imposto de renda.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "CDB"
+    ],
+    "date": "2026-08-26",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-26-ano-eleitoral-e-volatilidade-setores-que-podem-proteger-sua-carteira",
+    "slug": "2026-08-26-ano-eleitoral-e-volatilidade-setores-que-podem-proteger-sua-carteira",
+    "title": "Ano eleitoral e volatilidade: setores que podem proteger sua carteira",
+    "category": "Renda Variável",
+    "summary": "Em anos eleitorais, a volatilidade costuma subir, levando investidores a buscar setores com receitas mais estáveis. Utilities, saneamento básico e consumo de bens não duráveis apresentam dividendos consistentes e menor sensibilidade ao ciclo econômico.",
+    "readTime": "5",
+    "tags": [
+      "Ano eleitoral",
+      "Setores defensivos"
+    ],
+    "date": "2026-08-26",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-26-reserva-de-emergencia-quanto-guardar-diante-da-inflacao-persistente",
+    "slug": "2026-08-26-reserva-de-emergencia-quanto-guardar-diante-da-inflacao-persistente",
+    "title": "Reserva de emergência: quanto guardar diante da inflação persistente",
+    "category": "Saúde Financeira",
+    "summary": "Ter uma reserva de emergência adequada protege contra imprevistos sem recorrer a dívidas caras. Diante da inflação persistente, recomenda‑se guardar entre seis e doze meses de despesas essenciais em aplicações de alta liquidez e baixo risco, como Tesouro Selic ou CDB de liquidez diária.",
+    "readTime": "5",
+    "tags": [
+      "Reserva de emergência",
+      "Inflação"
+    ],
+    "date": "2026-08-26",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-26-bitcoin-segue-o-ritmo-do-risco-global-o-que-esperar-nos-proximos-meses",
+    "slug": "2026-08-26-bitcoin-segue-o-ritmo-do-risco-global-o-que-esperar-nos-proximos-meses",
+    "title": "Bitcoin segue o ritmo do risco global: o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin tem acompanhado de perto o movimento dos ativos de risco, refletindo o apetite global por risco. Sua alta correlação com o S&P 500 indica que, em períodos de aversão, a criptomoeda tende a cair junto com as ações.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "Correlação"
+    ],
+    "date": "2026-08-26",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-26-fundos-imobiliarios-aproveitam-queda-do-dolar-e-juros-menores",
+    "slug": "2026-08-26-fundos-imobiliarios-aproveitam-queda-do-dolar-e-juros-menores",
+    "title": "Fundos imobiliários aproveitam queda do dólar e juros menores",
+    "category": "Investimentos",
+    "summary": "A queda do dólar e a expectativa de juros menores criam um ambiente favorável para fundos imobiliários, especialmente aqueles com ativos em logística e lajes corporativas. Esses setores costumam oferecer dividendos estáveis e potencial de valorização em cenário de menor pressão cambial e estímulo ao crédito.",
+    "readTime": "5",
+    "tags": [
+      "Fundos imobiliários",
+      "Logística"
+    ],
+    "date": "2026-08-26",
+    "breaking": false
+  },
+  {
     "id": "2026-08-25-selic-em-queda-como-posicionar-sua-carteira-antes-do-proximo-corte",
     "slug": "2026-08-25-selic-em-queda-como-posicionar-sua-carteira-antes-do-proximo-corte",
     "title": "Selic em queda: como posicionar sua carteira antes do próximo corte",
@@ -783,90 +867,6 @@
       "renda passiva"
     ],
     "date": "2026-08-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-14-ibovespa-perto-de-176000-pontos-o-que-esperar-com-selic-em-queda-e-dol",
-    "slug": "2026-08-14-ibovespa-perto-de-176000-pontos-o-que-esperar-com-selic-em-queda-e-dol",
-    "title": "Ibovespa perto de 176.000 pontos: o que esperar com Selic em queda e dólar fraco",
-    "category": "Investimentos",
-    "summary": "Entenda como juros, câmbio e eleições afetam o Ibovespa e quais setores podem se beneficiar.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic"
-    ],
-    "date": "2026-08-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-14-selic-em-trajetoria-de-queda-como-se-posicionar-em-titulos-publicos-e-",
-    "slug": "2026-08-14-selic-em-trajetoria-de-queda-como-se-posicionar-em-titulos-publicos-e-",
-    "title": "Selic em trajetória de queda: como se posicionar em títulos públicos e privados",
-    "category": "Renda Fixa",
-    "summary": "Aprenda quais são os melhores papéis de renda fixa diante do ciclo de corte de juros e da inflação controlada.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto"
-    ],
-    "date": "2026-08-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-14-ano-eleitoral-e-volatilidade-setores-que-podem-superar-o-ibovespa",
-    "slug": "2026-08-14-ano-eleitoral-e-volatilidade-setores-que-podem-superar-o-ibovespa",
-    "title": "Ano eleitoral e volatilidade: setores que podem superar o Ibovespa",
-    "category": "Renda Variável",
-    "summary": "Descubra quais indústrias tendem a se beneficiar de estímulos fiscais e quais evitar diante da incerteza política.",
-    "readTime": "5",
-    "tags": [
-      "eleições",
-      "setores"
-    ],
-    "date": "2026-08-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-14-como-proteger-seu-orcamento-com-selic-alta-e-inflacao-controlada",
-    "slug": "2026-08-14-como-proteger-seu-orcamento-com-selic-alta-e-inflacao-controlada",
-    "title": "Como proteger seu orçamento com Selic alta e inflação controlada",
-    "category": "Saúde Financeira",
-    "summary": "Dicas práticas para reduzir dívidas, aumentar reserva de emergência e investir com segurança.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "Selic"
-    ],
-    "date": "2026-08-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-14-bitcoin-segue-o-pulso-global-o-que-a-correlacao-com-acoes-indica-para-",
-    "slug": "2026-08-14-bitcoin-segue-o-pulso-global-o-que-a-correlacao-com-acoes-indica-para-",
-    "title": "Bitcoin segue o pulso global: o que a correlação com ações indica para 2026",
-    "category": "Criptomoedas",
-    "summary": "Analisamos a relação entre BTC e índices de ações, e como usar essa informação em sua alocação.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "correlação"
-    ],
-    "date": "2026-08-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-14-dividendos-em-alta-acoes-que-pagam-bem-mesmo-com-juros-em-queda",
-    "slug": "2026-08-14-dividendos-em-alta-acoes-que-pagam-bem-mesmo-com-juros-em-queda",
-    "title": "Dividendos em alta: ações que pagam bem mesmo com juros em queda",
-    "category": "Investimentos",
-    "summary": "Veja como selecionar papéis com yield atraente e sustentável em um cenário de Selic reduzindo.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "yield"
-    ],
-    "date": "2026-08-14",
     "breaking": false
   }
 ]
