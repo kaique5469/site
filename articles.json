@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-27-ibovespa-pressionado-o-que-esperar-com-selic-em-queda-e-dolar-fraco",
+    "slug": "2026-08-27-ibovespa-pressionado-o-que-esperar-com-selic-em-queda-e-dolar-fraco",
+    "title": "Ibovespa pressionado: o que esperar com Selic em queda e dólar fraco",
+    "category": "Investimentos",
+    "summary": "Entenda como a combinação de juros altos, dólar em baixa e ano eleitoral afeta o Ibovespa e quais setores podem oferecer oportunidades. Veja quais indicadores monitorar e como ajustar sua carteira diante da volatilidade.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-08-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-27-tesouro-direto-supera-inflacao-rendimentos-apos-a-queda-da-selic",
+    "slug": "2026-08-27-tesouro-direto-supera-inflacao-rendimentos-apos-a-queda-da-selic",
+    "title": "Tesouro Direto supera inflação? Rendimentos após a queda da Selic",
+    "category": "Renda Fixa",
+    "summary": "Analisamos se os títulos do Tesouro Direto ainda entregam retorno real positivo com a Selic em 14,25% e o IPCA-15 sob vigilância. Descubra quais maturidades oferecem melhor relação risco‑retorno e como proteger seu poder de compra.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "IPCA"
+    ],
+    "date": "2026-08-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-27-setores-que-podem-surpreender-no-segundo-semestre-apesar-do-ano-eleito",
+    "slug": "2026-08-27-setores-que-podem-surpreender-no-segundo-semestre-apesar-do-ano-eleito",
+    "title": "Setores que podem surpreender no segundo semestre apesar do ano eleitoral",
+    "category": "Renda Variável",
+    "summary": "Apesar da cautela típica de anos eleitorais, alguns setores mostram fundamentos sólidos e podem entregar desempenho acima da média. Identifique as oportunidades em consumo, tecnologia e infraestrutura e como posicionar sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "setores",
+      "eleitoral"
+    ],
+    "date": "2026-08-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-27-como-proteger-seu-orcamento-com-dolar-baixo-e-juros-altos",
+    "slug": "2026-08-27-como-proteger-seu-orcamento-com-dolar-baixo-e-juros-altos",
+    "title": "Como proteger seu orçamento com dólar baixo e juros altos",
+    "category": "Saúde Financeira",
+    "summary": "Com o dólar em R$ 4,91 e a Selic ainda elevada, há estratégias para reduzir o impacto da inflação no seu bolso. Aprenda a renegociar dívidas, aproveitar aplicações de curto prazo e ajustar gastos essenciais.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "dólar"
+    ],
+    "date": "2026-08-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-27-bitcoin-respira-alivio-enquanto-o-real-se-fortalece-o-que-vem-a-seguir",
+    "slug": "2026-08-27-bitcoin-respira-alivio-enquanto-o-real-se-fortalece-o-que-vem-a-seguir",
+    "title": "Bitcoin respira alívio enquanto o real se fortalece; o que vem a seguir?",
+    "category": "Criptomoedas",
+    "summary": "A valorização do real frente ao dólar trouxe alívio temporário ao Bitcoin, mas a volatilidade global ainda exige cautela. Entenda os fatores que podem impulsionar ou pressionar as criptomoedas nos próximos meses e como diversificar com segurança.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "real"
+    ],
+    "date": "2026-08-27",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-27-fundos-imobiliarios-diante-de-juros-altos-onde-buscar-rendimento-estav",
+    "slug": "2026-08-27-fundos-imobiliarios-diante-de-juros-altos-onde-buscar-rendimento-estav",
+    "title": "Fundos imobiliários diante de juros altos: onde buscar rendimento estável?",
+    "category": "Investimentos",
+    "summary": "Com a Selic em 14,25%, os FIIs enfrentam pressão nos aluguéis e nas vacâncias, mas há nichos que ainda oferecem atratividade. Veja quais tipos de fundo — logística, lajes corporativas e fundos de tijolo — estão melhor posicionados e como avaliar os riscos.",
+    "readTime": "5",
+    "tags": [
+      "FII",
+      "juros"
+    ],
+    "date": "2026-08-27",
+    "breaking": false
+  },
+  {
     "id": "2026-08-26-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa",
     "slug": "2026-08-26-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa",
     "title": "Selic em 14,25% e corte iminente: o que esperar do Ibovespa",
@@ -777,96 +861,6 @@
       "Mentalidade"
     ],
     "date": "2026-08-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-15-dolar-em-queda-livre-o-que-significa-para-suas-acoes-hoje",
-    "slug": "2026-08-15-dolar-em-queda-livre-o-que-significa-para-suas-acoes-hoje",
-    "title": "Dólar em queda livre: o que significa para suas ações hoje",
-    "category": "Investimentos",
-    "summary": "Entenda como a desvalorização do dólar a R$ 4,91 afeta o Ibovespa e quais setores podem ganhar ou perder.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "Ibovespa",
-      "exportadores"
-    ],
-    "date": "2026-08-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-15-selic-em-queda-como-posicionar-sua-renda-fixa-agora",
-    "slug": "2026-08-15-selic-em-queda-como-posicionar-sua-renda-fixa-agora",
-    "title": "Selic em queda: como posicionar sua renda fixa agora",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25% e cortes esperados, veja quais títulos oferecem melhor relação risco-retorno.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto",
-      "CDB"
-    ],
-    "date": "2026-08-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-15-volatilidade-do-ibovespa-oportunidades-em-meio-a-cautela-eleitoral",
-    "slug": "2026-08-15-volatilidade-do-ibovespa-oportunidades-em-meio-a-cautela-eleitoral",
-    "title": "Volatilidade do Ibovespa: oportunidades em meio à cautela eleitoral",
-    "category": "Renda Variável",
-    "summary": "Descubra como aproveitar as oscilações do Ibovespa em ano eleitoral, focando em setores defensivos e dividendos.",
-    "readTime": "6",
-    "tags": [
-      "Ibovespa",
-      "eleições",
-      "dividendos"
-    ],
-    "date": "2026-08-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-15-saude-financeira-como-se-proteger-da-inflacao-que-ainda-aperta-o-bolso",
-    "slug": "2026-08-15-saude-financeira-como-se-proteger-da-inflacao-que-ainda-aperta-o-bolso",
-    "title": "Saúde Financeira: como se proteger da inflação que ainda aperta o bolso",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda dicas práticas para preservar o poder de compra diante do IPCA-15 em alta e juros ainda elevados.",
-    "readTime": "5",
-    "tags": [
-      "inflação",
-      "orçamento",
-      "reserva de emergência"
-    ],
-    "date": "2026-08-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-15-bitcoin-em-alta-o-que-o-cenario-macro-diz-sobre-o-futuro-das-criptos",
-    "slug": "2026-08-15-bitcoin-em-alta-o-que-o-cenario-macro-diz-sobre-o-futuro-das-criptos",
-    "title": "Bitcoin em alta: o que o cenário macro diz sobre o futuro das criptos",
-    "category": "Criptomoedas",
-    "summary": "Analisamos como a queda do dólar e a expectativa de juros menores influenciam o preço do Bitcoin e demais ativos digitais.",
-    "readTime": "6",
-    "tags": [
-      "Bitcoin",
-      "dólar",
-      "juros"
-    ],
-    "date": "2026-08-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-15-etfs-de-dividendos-renda-passiva-em-tempos-de-juros-altos",
-    "slug": "2026-08-15-etfs-de-dividendos-renda-passiva-em-tempos-de-juros-altos",
-    "title": "ETFs de dividendos: renda passiva em tempos de juros altos",
-    "category": "Investimentos",
-    "summary": "Saiba como escolher ETFs que pagam dividendos mensais e podem complementar sua renda enquanto a Selic permanece elevada.",
-    "readTime": "5",
-    "tags": [
-      "ETF",
-      "dividendos",
-      "renda passiva"
-    ],
-    "date": "2026-08-15",
     "breaking": false
   }
 ]
