@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-28-mercado-sob-pressao-ibovespa-tenta-segurar-176k-enquanto-dolar-cai-a-r",
+    "slug": "2026-08-28-mercado-sob-pressao-ibovespa-tenta-segurar-176k-enquanto-dolar-cai-a-r",
+    "title": "Mercado sob pressão: Ibovespa tenta segurar 176k enquanto dólar cai a R$4,91",
+    "category": "Investimentos",
+    "summary": "O Ibovespa oscila perto de 176.000 pontos enquanto o dólar chega ao menor nível em mais de dois anos, refletindo expectativas de corte de Selic e cautela eleitoral. Investidores avaliam o impacto da queda cambial sobre exportações e o risco de volatilidade elevada. Veja o que isso significa para sua alocação hoje.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "dólar"
+    ],
+    "date": "2026-08-28",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-28-selic-em-corte-como-posicionar-sua-renda-fixa-diante-da-queda-esperada",
+    "slug": "2026-08-28-selic-em-corte-como-posicionar-sua-renda-fixa-diante-da-queda-esperada",
+    "title": "Selic em corte: como posicionar sua renda fixa diante da queda esperada",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25% e ciclo de cortes em andamento, os rendimentos dos títulos públicos começam a ceder. Aprenda quais prefixados e indexados ainda oferecem proteção contra inflação e como montar uma ladder eficaz.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-08-28",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-28-ano-eleitoral-e-volatilidade-o-que-esperar-das-acoes-brasileiras-em-20",
+    "slug": "2026-08-28-ano-eleitoral-e-volatilidade-o-que-esperar-das-acoes-brasileiras-em-20",
+    "title": "Ano eleitoral e volatilidade: o que esperar das ações brasileiras em 2026",
+    "category": "Renda Variável",
+    "summary": "O período eleitoral costuma trazer maior aversão a risco e oscilações no Ibovespa. Entenda quais setores tendem a sofrer menos e como usar fundos de índice para navegar a incerteza.",
+    "readTime": "5",
+    "tags": [
+      "eleitoral",
+      "volatilidade"
+    ],
+    "date": "2026-08-28",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-28-saude-financeira-em-tempos-de-juros-altos-como-proteger-seu-orcamento",
+    "slug": "2026-08-28-saude-financeira-em-tempos-de-juros-altos-como-proteger-seu-orcamento",
+    "title": "Saúde financeira em tempos de juros altos: como proteger seu orçamento",
+    "category": "Saúde Financeira",
+    "summary": "Com Selic ainda elevada, dívidas caras pesam no bolso. Aprenda estratégias práticas para reduzir juros, renegociar empréstimos e construir reserva de emergência mesmo com renda variável.",
+    "readTime": "5",
+    "tags": [
+      "finanças pessoais",
+      "reserva de emergência"
+    ],
+    "date": "2026-08-28",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-28-bitcoin-segue-o-tom-global-volatilidade-e-oportunidades-em-agosto-de-2",
+    "slug": "2026-08-28-bitcoin-segue-o-tom-global-volatilidade-e-oportunidades-em-agosto-de-2",
+    "title": "Bitcoin segue o tom global: volatilidade e oportunidades em agosto de 2026",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin acompanha a oscilação dos mercados de risco, reagindo a dados de inflação americana e expectativas de juros. Veja como alocar uma pequena parcela da carteira em cripto sem comprometer a segurança.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "criptomoedas"
+    ],
+    "date": "2026-08-28",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-28-fundos-imobiliarios-e-etfs-onde-encontrar-rendimento-estavel-com-juros",
+    "slug": "2026-08-28-fundos-imobiliarios-e-etfs-onde-encontrar-rendimento-estavel-com-juros",
+    "title": "Fundos imobiliários e ETFs: onde encontrar rendimento estável com juros em queda",
+    "category": "Investimentos",
+    "summary": "Com a tendência de queda da Selic, os FIIs e ETFs de dividendos ganham atratividade. Descubra como selecionar ativos com bons fundamentos e distribuição consistente.",
+    "readTime": "5",
+    "tags": [
+      "FIIs",
+      "ETFs"
+    ],
+    "date": "2026-08-28",
+    "breaking": false
+  },
+  {
     "id": "2026-08-28-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
     "slug": "2026-08-28-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
     "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$ 4,91",
@@ -763,96 +847,6 @@
     "tags": [
       "FIIs",
       "juros"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-ibovespa-em-176-mil-pontos-como-navegar-a-volatilidade-eleitoral",
-    "slug": "2026-08-19-ibovespa-em-176-mil-pontos-como-navegar-a-volatilidade-eleitoral",
-    "title": "Ibovespa em 176 mil pontos: como navegar a volatilidade eleitoral",
-    "category": "Investimentos",
-    "summary": "Entenda o impacto das eleições e do corte de Selic no Ibovespa e descubra ajustes práticos para proteger sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições 2026",
-      "Selic"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-tesouro-direto-oportunidades-com-a-selic-em-queda",
-    "slug": "2026-08-19-tesouro-direto-oportunidades-com-a-selic-em-queda",
-    "title": "Tesouro Direto: oportunidades com a Selic em queda",
-    "category": "Renda Fixa",
-    "summary": "Como aproveitar a queda da Selic para comprar títulos públicos com bom rendimento e menor risco.",
-    "readTime": "4",
-    "tags": [
-      "Tesouro Direto",
-      "Selic",
-      "IPCA"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-setores-que-podem-ganhar-com-o-ciclo-de-cortes-e-a-eleicao",
-    "slug": "2026-08-19-setores-que-podem-ganhar-com-o-ciclo-de-cortes-e-a-eleicao",
-    "title": "Setores que podem ganhar com o ciclo de cortes e a eleição",
-    "category": "Renda Variável",
-    "summary": "Identifique quais áreas da bolsa tendem a se beneficiar do ambiente de juros menores e incerteza política.",
-    "readTime": "5",
-    "tags": [
-      "setores",
-      "consumo",
-      "eleição"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-saude-financeira-como-proteger-seu-orcamento-com-o-dolar-baixo",
-    "slug": "2026-08-19-saude-financeira-como-proteger-seu-orcamento-com-o-dolar-baixo",
-    "title": "Saúde financeira: como proteger seu orçamento com o dólar baixo",
-    "category": "Saúde Financeira",
-    "summary": "Dicas práticas para usar a queda do dólar a seu favor, reduzindo custos e aumentando reservas.",
-    "readTime": "4",
-    "tags": [
-      "dólar",
-      "orçamento",
-      "reserva de emergência"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-bitcoin-em-2026-entre-volatilidade-global-e-interesse-institucional",
-    "slug": "2026-08-19-bitcoin-em-2026-entre-volatilidade-global-e-interesse-institucional",
-    "title": "Bitcoin em 2026: entre volatilidade global e interesse institucional",
-    "category": "Criptomoedas",
-    "summary": "Análise do comportamento do Bitcoin diante da queda do dólar e dos cortes de juros, e o que esperar para o segundo semestre.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade",
-      "institucional"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-etfs-internacionais-diversificacao-simples-em-tempos-de-juros-baixos",
-    "slug": "2026-08-19-etfs-internacionais-diversificacao-simples-em-tempos-de-juros-baixos",
-    "title": "ETFs internacionais: diversificação simples em tempos de juros baixos",
-    "category": "Investimentos",
-    "summary": "Como usar ETFs que replicam mercados externos para reduzir risco local e aproveitar oportunidades globais.",
-    "readTime": "5",
-    "tags": [
-      "ETF",
-      "diversificação",
-      "mercado externo"
     ],
     "date": "2026-08-19",
     "breaking": false
