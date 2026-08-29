@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-08-29-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r491",
+    "slug": "2026-08-29-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r491",
+    "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$4,91",
+    "category": "Investimentos",
+    "summary": "O Ibovespa está perto de 176 mil pontos enquanto o dólar cai a R$4,91, refletindo expectativas de novos cortes na Selic. O artigo explica o cenário atual e indica como posicionar a carteira entre renda variável e fixa.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "dólar"
+    ],
+    "date": "2026-08-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-29-selic-em-1425-abre-oportunidades-em-titulos-pos-fixados",
+    "slug": "2026-08-29-selic-em-1425-abre-oportunidades-em-titulos-pos-fixados",
+    "title": "Selic em 14,25% abre oportunidades em títulos pós-fixados",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25%, os títulos pós-fixados voltam a ser atrativos para quem busca renda real. O texto mostra onde encontrar as melhores oportunidades e como montar uma estratégia de renda fixa.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-08-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-29-volatilidade-do-ibovespa-e-ano-eleitoral-o-que-esperar-das-acoes",
+    "slug": "2026-08-29-volatilidade-do-ibovespa-e-ano-eleitoral-o-que-esperar-das-acoes",
+    "title": "Volatilidade do Ibovespa e ano eleitoral: o que esperar das ações",
+    "category": "Renda Variável",
+    "summary": "A volatilidade do Ibovespa aumenta diante do ano eleitoral, afetando setores de forma diferenciada. O artigo aponta quais áreas são mais resilientes e como proteger a carteira de ações.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições"
+    ],
+    "date": "2026-08-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-29-como-proteger-seu-orcamento-com-ipca-15-em-alta-e-juros-elevados",
+    "slug": "2026-08-29-como-proteger-seu-orcamento-com-ipca-15-em-alta-e-juros-elevados",
+    "title": "Como proteger seu orçamento com IPCA-15 em alta e juros elevados",
+    "category": "Saúde Financeira",
+    "summary": "Com inflação ainda pressionando e juros altos, o orçamento familiar precisa de ajustes para preservar o poder de compra. O conteúdo traz dicas práticas de controle de gastos e de reserva de emergência.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "inflação"
+    ],
+    "date": "2026-08-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-29-bitcoin-acompanha-volatilidade-global-e-testa-suporte-de-us27k",
+    "slug": "2026-08-29-bitcoin-acompanha-volatilidade-global-e-testa-suporte-de-us27k",
+    "title": "Bitcoin acompanha volatilidade global e testa suporte de US$27k",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin acompanha a volatilidade global, reagindo a movimentos do dólar e às notícias regulatórias. O texto explica a correlação e sugere uma alocação prudente para investidores de longo prazo.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-08-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-08-29-etfs-de-dividendos-ganham-espaco-diante-de-juros-altos-e-dolar-baixo",
+    "slug": "2026-08-29-etfs-de-dividendos-ganham-espaco-diante-de-juros-altos-e-dolar-baixo",
+    "title": "ETFs de dividendos ganham espaço diante de juros altos e dólar baixo",
+    "category": "Investimentos",
+    "summary": "ETFs de dividendos se beneficiam do cenário de juros elevados e dólar fraco, oferecendo renda passiva com baixa volatilidade. O artigo detalha as vantagens desses fundos e indica quais podem ser incluidos na carteira.",
+    "readTime": "5",
+    "tags": [
+      "ETFs",
+      "dividendos"
+    ],
+    "date": "2026-08-29",
+    "breaking": false
+  },
+  {
     "id": "2026-08-28-mercado-sob-pressao-ibovespa-tenta-segurar-176k-enquanto-dolar-cai-a-r",
     "slug": "2026-08-28-mercado-sob-pressao-ibovespa-tenta-segurar-176k-enquanto-dolar-cai-a-r",
     "title": "Mercado sob pressão: Ibovespa tenta segurar 176k enquanto dólar cai a R$4,91",
@@ -765,90 +849,6 @@
       "planejamento"
     ],
     "date": "2026-08-20",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-dolar-em-baixa-e-selic-em-corte-o-que-esperar-do-ibovespa-agora",
-    "slug": "2026-08-19-dolar-em-baixa-e-selic-em-corte-o-que-esperar-do-ibovespa-agora",
-    "title": "Dólar em baixa e Selic em corte: o que esperar do Ibovespa agora",
-    "category": "Investimentos",
-    "summary": "Entenda como a queda do dólar e o ciclo de afrouxamento monetário influenciam as ações e quais setores podem se beneficiar.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "Ibovespa"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-tesouro-direto-rende-mais-com-selic-alta-vale-a-pena-fixar-agora",
-    "slug": "2026-08-19-tesouro-direto-rende-mais-com-selic-alta-vale-a-pena-fixar-agora",
-    "title": "Tesouro Direto rende mais com Selic alta: vale a pena fixar agora?",
-    "category": "Renda Fixa",
-    "summary": "Aprenda como a taxa Selic em 14,25% afeta os rendimentos dos títulos públicos e quais estratégias adotar.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "Selic"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-volatilidade-eleitoral-e-ibovespa-setores-que-podem-surpreender-no-seg",
-    "slug": "2026-08-19-volatilidade-eleitoral-e-ibovespa-setores-que-podem-surpreender-no-seg",
-    "title": "Volatilidade eleitoral e Ibovespa: setores que podem surpreender no segundo semestre",
-    "category": "Renda Variável",
-    "summary": "Descubra quais indústrias tendem a se beneficiar da incerteza política e como posicionar seu portfólio de ações.",
-    "readTime": "5",
-    "tags": [
-      "eleições",
-      "setores"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-controle-de-gastos-em-tempos-de-juros-altos-dicas-praticas-para-nao-ca",
-    "slug": "2026-08-19-controle-de-gastos-em-tempos-de-juros-altos-dicas-praticas-para-nao-ca",
-    "title": "Controle de gastos em tempos de juros altos: dicas práticas para não cair no rotativo",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda a reduzir dívidas caras, usar consignado e planejar reservas mesmo com Selic elevada.",
-    "readTime": "5",
-    "tags": [
-      "gastos",
-      "juros altos"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-bitcoin-em-meio-a-volatilidade-global-o-que-o-halving-futuro-pode-sina",
-    "slug": "2026-08-19-bitcoin-em-meio-a-volatilidade-global-o-que-o-halving-futuro-pode-sina",
-    "title": "Bitcoin em meio à volatilidade global: o que o halving futuro pode sinalizar",
-    "category": "Criptomoedas",
-    "summary": "Entenda como a redução da emissão e o cenário macro afetam o preço do BTC e quais riscos observar.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "halving"
-    ],
-    "date": "2026-08-19",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-19-fundos-imobiliarios-retomam-atratividade-com-queda-do-dolar-e-juros-em",
-    "slug": "2026-08-19-fundos-imobiliarios-retomam-atratividade-com-queda-do-dolar-e-juros-em",
-    "title": "Fundos imobiliários retomam atratividade com queda do dólar e juros em declínio",
-    "category": "Investimentos",
-    "summary": "Veja como FIIs de logística e lajes corporativas podem se beneficiar do ambiente de crédito mais brando.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "juros"
-    ],
-    "date": "2026-08-19",
     "breaking": false
   }
 ]
