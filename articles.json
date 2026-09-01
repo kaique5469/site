@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-09-01-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-dolar-fra",
+    "slug": "2026-09-01-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-dolar-fra",
+    "title": "Ibovespa perto de 176 mil: o que esperar com Selic em queda e dólar fraco",
+    "category": "Investimentos",
+    "summary": "O Ibovespa está próximo de 176.000 pontos enquanto a Selic inicia ciclo de corte e o dólar cai para R$ 4,91. Este artigo explica como essas variáveis afetam a bolsa e quais setores podem se beneficiar.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-09-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-01-tesouro-selic-rende-mais-que-a-poupanca-mesmo-com-selic-em-1425",
+    "slug": "2026-09-01-tesouro-selic-rende-mais-que-a-poupanca-mesmo-com-selic-em-1425",
+    "title": "Tesouro Selic rende mais que a poupança mesmo com Selic em 14,25%",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic elevada, o Tesouro Selic continua oferecendo retorno real acima da poupança. Veja como usar esse título como reserva de emergência e proteger seu poder de compra diante da inflação.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Selic",
+      "renda fixa"
+    ],
+    "date": "2026-09-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-01-volatilidade-eleitoral-aperta-o-ibovespa-mas-setores-de-exportacao-gan",
+    "slug": "2026-09-01-volatilidade-eleitoral-aperta-o-ibovespa-mas-setores-de-exportacao-gan",
+    "title": "Volatilidade eleitoral aperta o Ibovespa, mas setores de exportação ganham fôlego",
+    "category": "Renda Variável",
+    "summary": "O ano eleitoral deixa o mercado de ações cauteloso, mas empresas com receita dolarizada se beneficiam da queda do dólar. Descubra quais setores estão em alta e como montar uma carteira equilibrada nesse cenário.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "exportação"
+    ],
+    "date": "2026-09-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-01-como-construir-um-fundo-de-emergencia-que-sobreviva-a-juros-altos-e-in",
+    "slug": "2026-09-01-como-construir-um-fundo-de-emergencia-que-sobreviva-a-juros-altos-e-in",
+    "title": "Como construir um fundo de emergência que sobreviva a juros altos e inflação",
+    "category": "Saúde Financeira",
+    "summary": "Com Selic em 14,25% e inflação ainda em radar, manter poder de compra em reservas exige escolhas inteligentes. Aprenda onde alocar seu dinheiro para ter liquidez e retorno próximo à taxa básica.",
+    "readTime": "5",
+    "tags": [
+      "fundo de emergência",
+      "Selic"
+    ],
+    "date": "2026-09-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-01-bitcoin-segue-o-humor-global-mas-risco-regulatorio-domestico-ainda-e-i",
+    "slug": "2026-09-01-bitcoin-segue-o-humor-global-mas-risco-regulatorio-domestico-ainda-e-i",
+    "title": "Bitcoin segue o humor global, mas risco regulatório doméstico ainda é incógnita",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin acompanha a volatilidade dos mercados globais, enquanto no Brasil o real forte reduz seu apelo como hedge cambial. Fique atento ao debate regulatório do Banco Central e aprenda a alocar cripto com prudência.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "regulação"
+    ],
+    "date": "2026-09-01",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-01-dividend-yield-alto-acoes-que-pagam-mais-que-a-selic-em-2026",
+    "slug": "2026-09-01-dividend-yield-alto-acoes-que-pagam-mais-que-a-selic-em-2026",
+    "title": "Dividend yield alto: ações que pagam mais que a Selic em 2026",
+    "category": "Investimentos",
+    "summary": "Mesmo com Selic elevada, algumas ações brasileiras oferecem dividend yield acima de 12%, superando títulos pós‑fixados. Veja quais setores distribuem mais e como evitar armadilhas de endividamento excessivo.",
+    "readTime": "5",
+    "tags": [
+      "dividend yield",
+      "ações"
+    ],
+    "date": "2026-09-01",
+    "breaking": false
+  },
+  {
     "id": "2026-08-29-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r491",
     "slug": "2026-08-29-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r491",
     "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$4,91",
@@ -759,96 +843,6 @@
       "BOVA11"
     ],
     "date": "2026-08-21",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-20-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
-    "slug": "2026-08-20-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
-    "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
-    "category": "Investimentos",
-    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de dolarizar a carteira ou se a queda deve continuar.",
-    "readTime": "4",
-    "tags": [
-      "dolar",
-      "diversificacao",
-      "cambio"
-    ],
-    "date": "2026-08-20",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-20-selic-a-1425-onde-alocar-agora-que-o-ciclo-de-corte-comecou",
-    "slug": "2026-08-20-selic-a-1425-onde-alocar-agora-que-o-ciclo-de-corte-comecou",
-    "title": "Selic a 14,25%: Onde alocar agora que o ciclo de corte começou?",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em patamares elevados, mas em trajetória de queda, o investidor precisa migrar do pós-fixado para travar taxas.",
-    "readTime": "5",
-    "tags": [
-      "selic",
-      "rendafixa",
-      "tesourodireto"
-    ],
-    "date": "2026-08-20",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-20-ibovespa-aos-176k-como-navegar-a-volatilidade-do-ano-eleitoral",
-    "slug": "2026-08-20-ibovespa-aos-176k-como-navegar-a-volatilidade-do-ano-eleitoral",
-    "title": "Ibovespa aos 176k: Como navegar a volatilidade do ano eleitoral",
-    "category": "Renda Variável",
-    "summary": "O mercado oscila enquanto digere as promessas e riscos das eleições. Saiba quais setores devem resistir melhor a esse turbulento período.",
-    "readTime": "6",
-    "tags": [
-      "ibovespa",
-      "acoes",
-      "eleicoes"
-    ],
-    "date": "2026-08-20",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-20-inflacao-invisivel-como-proteger-seu-orcamento-do-ipca-15",
-    "slug": "2026-08-20-inflacao-invisivel-como-proteger-seu-orcamento-do-ipca-15",
-    "title": "Inflação invisível: Como proteger seu orçamento do IPCA-15",
-    "category": "Saúde Financeira",
-    "summary": "A inflação não afeta todos os bolsos da mesma forma. Aprenda a ajustar seu planejamento financeiro para não perder poder de compra.",
-    "readTime": "4",
-    "tags": [
-      "inflacao",
-      "financaspessoais",
-      "orcamento"
-    ],
-    "date": "2026-08-20",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-20-bitcoin-e-a-volatilidade-global-ainda-faz-sentido-investir",
-    "slug": "2026-08-20-bitcoin-e-a-volatilidade-global-ainda-faz-sentido-investir",
-    "title": "Bitcoin e a volatilidade global: Ainda faz sentido investir?",
-    "category": "Criptomoedas",
-    "summary": "As criptomoedas seguem o ritmo dos mercados globais. Analisamos o papel do Bitcoin como reserva de valor em tempos de incerteza.",
-    "readTime": "5",
-    "tags": [
-      "bitcoin",
-      "criptomoedas",
-      "volatilidade"
-    ],
-    "date": "2026-08-20",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-20-o-guia-do-investidor-para-o-semestre-final-de-2026",
-    "slug": "2026-08-20-o-guia-do-investidor-para-o-semestre-final-de-2026",
-    "title": "O guia do investidor para o semestre final de 2026",
-    "category": "Investimentos",
-    "summary": "Resumo estratégico para equilibrar a carteira entre juros altos, dólar baixo e riscos políticos.",
-    "readTime": "6",
-    "tags": [
-      "estrategia",
-      "carteira",
-      "planejamento"
-    ],
-    "date": "2026-08-20",
     "breaking": false
   }
 ]
