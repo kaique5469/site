@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-09-05-ibovespa-sob-pressao-volatilidade-eleitoral-e-juros-altos",
+    "slug": "2026-09-05-ibovespa-sob-pressao-volatilidade-eleitoral-e-juros-altos",
+    "title": "Ibovespa sob pressão: volatilidade eleitoral e juros altos",
+    "category": "Investimentos",
+    "summary": "Entenda como a combinação de juros elevados, dólar fraco e ano eleitoral afeta o Ibovespa e quais setores podem sofrer menos.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "juros",
+      "eleições"
+    ],
+    "date": "2026-09-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-05-selic-em-trajetoria-de-queda-o-que-esperar-dos-titulos-publicos-em-202",
+    "slug": "2026-09-05-selic-em-trajetoria-de-queda-o-que-esperar-dos-titulos-publicos-em-202",
+    "title": "Selic em trajetória de queda: o que esperar dos títulos públicos em 2026",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25% e cortes previstos, veja como os Tesouros diretos e fundos de renda fixa devem se comportar.",
+    "readTime": "6",
+    "tags": [
+      "Selic",
+      "Tesouro",
+      "renda fixa"
+    ],
+    "date": "2026-09-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-05-acoes-defensivas-onde-colocar-seu-dinheiro-diante-da-cautela-eleitoral",
+    "slug": "2026-09-05-acoes-defensivas-onde-colocar-seu-dinheiro-diante-da-cautela-eleitoral",
+    "title": "Ações defensivas: onde colocar seu dinheiro diante da cautela eleitoral",
+    "category": "Renda Variável",
+    "summary": "Descubra quais setores têm histórico de menor volatilidade em anos eleitorais e como montar uma carteira equilibrada.",
+    "readTime": "5",
+    "tags": [
+      "ações defensivas",
+      "eleitorais",
+      "volatilidade"
+    ],
+    "date": "2026-09-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-05-com-juros-altos-como-controlar-dividas-e-proteger-seu-orcamento-famili",
+    "slug": "2026-09-05-com-juros-altos-como-controlar-dividas-e-proteger-seu-orcamento-famili",
+    "title": "Com juros altos, como controlar dívidas e proteger seu orçamento familiar",
+    "category": "Saúde Financeira",
+    "summary": "Dicas práticas para renegociar empréstimos, usar o cartão com consciência e construir reserva de emergência mesmo com Selic elevada.",
+    "readTime": "7",
+    "tags": [
+      "dívidas",
+      "juros altos",
+      "orçamento"
+    ],
+    "date": "2026-09-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-05-bitcoin-em-2026-correlacao-com-mercados-tradicionais-e-o-que-esperar-n",
+    "slug": "2026-09-05-bitcoin-em-2026-correlacao-com-mercados-tradicionais-e-o-que-esperar-n",
+    "title": "Bitcoin em 2026: correlação com mercados tradicionais e o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "Analisamos a relação entre o BTC, o Ibovespa e o dólar, e apontamos cenários de alta e baixa para investidores de cripto.",
+    "readTime": "6",
+    "tags": [
+      "Bitcoin",
+      "correlação",
+      "cripto"
+    ],
+    "date": "2026-09-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-05-fundos-imobiliarios-sob-pressao-juros-altos-e-vacancia-comercial",
+    "slug": "2026-09-05-fundos-imobiliarios-sob-pressao-juros-altos-e-vacancia-comercial",
+    "title": "Fundos imobiliários sob pressão: juros altos e vacância comercial",
+    "category": "Investimentos",
+    "summary": "Veja como a elevação da Selic afeta os yields dos FIIs e quais subsetores podem oferecer maior resiliência.",
+    "readTime": "5",
+    "tags": [
+      "FIIs",
+      "Selic",
+      "imobiliário"
+    ],
+    "date": "2026-09-05",
+    "breaking": false
+  },
+  {
     "id": "2026-09-04-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "slug": "2026-09-04-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
@@ -769,90 +859,6 @@
     "tags": [
       "FIIs",
       "ETFs"
-    ],
-    "date": "2026-08-28",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-28-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
-    "slug": "2026-08-28-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r-491",
-    "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$ 4,91",
-    "category": "Investimentos",
-    "summary": "Entenda como a combinação de juros altos, câmbio fraco e ano eleitoral afeta as ações brasileiras e o que investidores devem observar.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "dólar"
-    ],
-    "date": "2026-08-28",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-28-selic-em-1425-abre-espaco-para-titulos-posfixados-com-retorno-real-atr",
-    "slug": "2026-08-28-selic-em-1425-abre-espaco-para-titulos-posfixados-com-retorno-real-atr",
-    "title": "Selic em 14,25% abre espaço para títulos pós‑fixados com retorno real atrativo",
-    "category": "Renda Fixa",
-    "summary": "Veja como o ciclo de corte de juros afeta LCIs, LCAs e tesouro direto, e quais estratégias adotar agora.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-08-28",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-28-setores-que-podem-outperforme-no-ibovespa-apesar-da-volatilidade-eleit",
-    "slug": "2026-08-28-setores-que-podem-outperforme-no-ibovespa-apesar-da-volatilidade-eleit",
-    "title": "Setores que podem outperforme no Ibovespa apesar da volatilidade eleitoral",
-    "category": "Renda Variável",
-    "summary": "Descubra quais setores tendem a se beneficiar de juros altos e dólar fraco, e como posicionar sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "setores",
-      "dividendos"
-    ],
-    "date": "2026-08-28",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-28-como-proteger-suas-financas-pessoais-em-ano-de-eleicao-e-juros-altos",
-    "slug": "2026-08-28-como-proteger-suas-financas-pessoais-em-ano-de-eleicao-e-juros-altos",
-    "title": "Como proteger suas finanças pessoais em ano de eleição e juros altos",
-    "category": "Saúde Financeira",
-    "summary": "Dicas práticas de reserva de emergência, controle de dívidas e investimentos conservadores para manter o equilíbrio.",
-    "readTime": "5",
-    "tags": [
-      "finanças pessoais",
-      "reserva de emergência"
-    ],
-    "date": "2026-08-28",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-28-bitcoin-segue-a-volatilidade-global-e-testa-suporte-em-us-27-mil",
-    "slug": "2026-08-28-bitcoin-segue-a-volatilidade-global-e-testa-suporte-em-us-27-mil",
-    "title": "Bitcoin segue a volatilidade global e testa suporte em US$ 27 mil",
-    "category": "Criptomoedas",
-    "summary": "Entenda os fatores que movem o BTC hoje e como investidores de longo prazo podem interpretar a queda recente.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "criptomoedas"
-    ],
-    "date": "2026-08-28",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-28-dividendos-ainda-atraem-apesar-do-ibovespa-volatil-yield-medio-acima-d",
-    "slug": "2026-08-28-dividendos-ainda-atraem-apesar-do-ibovespa-volatil-yield-medio-acima-d",
-    "title": "Dividendos ainda atraem apesar do Ibovespa volátil: yield médio acima de 6%",
-    "category": "Investimentos",
-    "summary": "Como selecionar ações com bom histórico de pagamentos e sustentabilidade de caixa em ambiente de juros altos.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "yield"
     ],
     "date": "2026-08-28",
     "breaking": false
