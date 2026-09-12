@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-09-12-selic-em-1425-o-que-o-corte-iminente-significa-para-sua-carteira",
+    "slug": "2026-09-12-selic-em-1425-o-que-o-corte-iminente-significa-para-sua-carteira",
+    "title": "Selic em 14,25%: o que o corte iminente significa para sua carteira",
+    "category": "Investimentos",
+    "summary": "Entenda como o possível ciclo de cortes da Selic afeta renda fixa, variável e a alocação ideal da sua carteira neste cenário de juros ainda altos.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "corte de juros"
+    ],
+    "date": "2026-09-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-12-tesouro-direto-como-o-ipca-15-e-a-selic-afetam-os-titulos-prefixados-e",
+    "slug": "2026-09-12-tesouro-direto-como-o-ipca-15-e-a-selic-afetam-os-titulos-prefixados-e",
+    "title": "Tesouro Direto: como o IPCA-15 e a Selic afetam os títulos prefixados e híbridos",
+    "category": "Renda Fixa",
+    "summary": "Veja como o último IPCA-15 e a Selic em 14,25% influenciam a precificação dos Tesouros prefixados, IPCA+ e outras opções do Tesouro Direto.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "IPCA-15"
+    ],
+    "date": "2026-09-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-12-ibovespa-em-176-mil-pontos-volatilidade-eleitoral-e-oportunidades-seto",
+    "slug": "2026-09-12-ibovespa-em-176-mil-pontos-volatilidade-eleitoral-e-oportunidades-seto",
+    "title": "Ibovespa em 176 mil pontos: volatilidade eleitoral e oportunidades setoriais",
+    "category": "Renda Variável",
+    "summary": "Analisamos os fatores que mantêm o Ibovespa ao redor de 176.000 pontos e quais setores podem oferecer oportunidades apesar da cautela eleitoral.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições 2026"
+    ],
+    "date": "2026-09-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-12-reserva-de-emergencia-quanto-guardar-quando-a-selic-esta-em-1425",
+    "slug": "2026-09-12-reserva-de-emergencia-quanto-guardar-quando-a-selic-esta-em-1425",
+    "title": "Reserva de emergência: quanto guardar quando a Selic está em 14,25%",
+    "category": "Saúde Financeira",
+    "summary": "Descubra como a Selic elevada altera o cálculo ideal da reserva de emergência e quais aplicações oferecem melhor liquidez e retorno.",
+    "readTime": "5",
+    "tags": [
+      "reserva de emergência",
+      "Selic"
+    ],
+    "date": "2026-09-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-12-bitcoin-e-o-risco-global-por-que-a-criptomoeda-acompanha-a-volatilidad",
+    "slug": "2026-09-12-bitcoin-e-o-risco-global-por-que-a-criptomoeda-acompanha-a-volatilidad",
+    "title": "Bitcoin e o risco global: por que a criptomoeda acompanha a volatilidade do Ibovespa",
+    "category": "Criptomoedas",
+    "summary": "Entenda a correlação entre Bitcoin, Ibovespa e dólar e como fatores macroeconômicos estão impulsionando a movimentação conjunta desses ativos.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "correlação mercado"
+    ],
+    "date": "2026-09-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-12-acoes-de-baixo-beta-e-dividendos-altos-refugio-em-tempos-de-juros-elev",
+    "slug": "2026-09-12-acoes-de-baixo-beta-e-dividendos-altos-refugio-em-tempos-de-juros-elev",
+    "title": "Ações de baixo beta e dividendos altos: refúgio em tempos de juros elevados",
+    "category": "Investimentos",
+    "summary": "Saiba como selecionar papéis com baixa sensibilidade ao mercado e bons dividendos para proteger sua carteira diante da Selic alta e da volatilidade eleitoral.",
+    "readTime": "5",
+    "tags": [
+      "baixo beta",
+      "dividendos"
+    ],
+    "date": "2026-09-12",
+    "breaking": false
+  },
+  {
     "id": "2026-09-11-dolar-em-r-491-o-que-a-queda-de-105-significa-para-seus-investimentos",
     "slug": "2026-09-11-dolar-em-r-491-o-que-a-queda-de-105-significa-para-seus-investimentos",
     "title": "Dólar em R$ 4,91: o que a queda de 10,5% significa para seus investimentos",
@@ -777,90 +861,6 @@
       "ações"
     ],
     "date": "2026-09-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-29-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r491",
-    "slug": "2026-08-29-ibovespa-testa-176-mil-pontos-enquanto-dolar-cai-a-r491",
-    "title": "Ibovespa testa 176 mil pontos enquanto dólar cai a R$4,91",
-    "category": "Investimentos",
-    "summary": "O Ibovespa está perto de 176 mil pontos enquanto o dólar cai a R$4,91, refletindo expectativas de novos cortes na Selic. O artigo explica o cenário atual e indica como posicionar a carteira entre renda variável e fixa.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "dólar"
-    ],
-    "date": "2026-08-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-29-selic-em-1425-abre-oportunidades-em-titulos-pos-fixados",
-    "slug": "2026-08-29-selic-em-1425-abre-oportunidades-em-titulos-pos-fixados",
-    "title": "Selic em 14,25% abre oportunidades em títulos pós-fixados",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25%, os títulos pós-fixados voltam a ser atrativos para quem busca renda real. O texto mostra onde encontrar as melhores oportunidades e como montar uma estratégia de renda fixa.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-08-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-29-volatilidade-do-ibovespa-e-ano-eleitoral-o-que-esperar-das-acoes",
-    "slug": "2026-08-29-volatilidade-do-ibovespa-e-ano-eleitoral-o-que-esperar-das-acoes",
-    "title": "Volatilidade do Ibovespa e ano eleitoral: o que esperar das ações",
-    "category": "Renda Variável",
-    "summary": "A volatilidade do Ibovespa aumenta diante do ano eleitoral, afetando setores de forma diferenciada. O artigo aponta quais áreas são mais resilientes e como proteger a carteira de ações.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições"
-    ],
-    "date": "2026-08-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-29-como-proteger-seu-orcamento-com-ipca-15-em-alta-e-juros-elevados",
-    "slug": "2026-08-29-como-proteger-seu-orcamento-com-ipca-15-em-alta-e-juros-elevados",
-    "title": "Como proteger seu orçamento com IPCA-15 em alta e juros elevados",
-    "category": "Saúde Financeira",
-    "summary": "Com inflação ainda pressionando e juros altos, o orçamento familiar precisa de ajustes para preservar o poder de compra. O conteúdo traz dicas práticas de controle de gastos e de reserva de emergência.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "inflação"
-    ],
-    "date": "2026-08-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-29-bitcoin-acompanha-volatilidade-global-e-testa-suporte-de-us27k",
-    "slug": "2026-08-29-bitcoin-acompanha-volatilidade-global-e-testa-suporte-de-us27k",
-    "title": "Bitcoin acompanha volatilidade global e testa suporte de US$27k",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin acompanha a volatilidade global, reagindo a movimentos do dólar e às notícias regulatórias. O texto explica a correlação e sugere uma alocação prudente para investidores de longo prazo.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-08-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-08-29-etfs-de-dividendos-ganham-espaco-diante-de-juros-altos-e-dolar-baixo",
-    "slug": "2026-08-29-etfs-de-dividendos-ganham-espaco-diante-de-juros-altos-e-dolar-baixo",
-    "title": "ETFs de dividendos ganham espaço diante de juros altos e dólar baixo",
-    "category": "Investimentos",
-    "summary": "ETFs de dividendos se beneficiam do cenário de juros elevados e dólar fraco, oferecendo renda passiva com baixa volatilidade. O artigo detalha as vantagens desses fundos e indica quais podem ser incluidos na carteira.",
-    "readTime": "5",
-    "tags": [
-      "ETFs",
-      "dividendos"
-    ],
-    "date": "2026-08-29",
     "breaking": false
   }
 ]
