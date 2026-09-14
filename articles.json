@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-09-14-selic-em-queda-como-o-corte-de-1425-afeta-suas-carteiras-agora",
+    "slug": "2026-09-14-selic-em-queda-como-o-corte-de-1425-afeta-suas-carteiras-agora",
+    "title": "Selic em queda: como o corte de 14,25% afeta suas carteiras agora",
+    "category": "Investimentos",
+    "summary": "Entenda o impacto imediato da redução da Selic sobre ações, renda fixa e estratégias de alocação para investidores em meio à volatilidade do Ibovespa.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Ibovespa",
+      "alocação"
+    ],
+    "date": "2026-09-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-14-renda-fixa-pos-selic-onde-encontrar-rentabilidade-acima-da-inflacao",
+    "slug": "2026-09-14-renda-fixa-pos-selic-onde-encontrar-rentabilidade-acima-da-inflacao",
+    "title": "Renda fixa pós-Selic: onde encontrar rentabilidade acima da inflação",
+    "category": "Renda Fixa",
+    "summary": "Descubra quais títulos de renda fixa ainda oferecem retornos reais positivos após o novo patamar da Selic e como montar uma carteira protegida contra a inflação.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro IPCA+",
+      "CDB",
+      "renda fixa"
+    ],
+    "date": "2026-09-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-14-bolsa-sob-pressao-eleitoral-setores-que-podem-surpreender-em-setembro",
+    "slug": "2026-09-14-bolsa-sob-pressao-eleitoral-setores-que-podem-surpreender-em-setembro",
+    "title": "Bolsa sob pressão eleitoral: setores que podem surpreender em setembro",
+    "category": "Renda Variável",
+    "summary": "Apesar da cautela eleitoral, alguns setores da B3 mostram força relativa e podem apresentar desempenho acima da média do Ibovespa nos próximos meses.",
+    "readTime": "5",
+    "tags": [
+      "setores",
+      "eleições 2026",
+      "B3"
+    ],
+    "date": "2026-09-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-14-saude-financeira-em-tempos-de-juros-altos-como-proteger-seu-orcamento",
+    "slug": "2026-09-14-saude-financeira-em-tempos-de-juros-altos-como-proteger-seu-orcamento",
+    "title": "Saúde financeira em tempos de juros altos: como proteger seu orçamento",
+    "category": "Saúde Financeira",
+    "summary": "Aprenda estratégias práticas para equilibrar contas, reduzir dívidas e manter reservas mesmo com a Selic em níveis elevados e inflação ainda monitorada.",
+    "readTime": "5",
+    "tags": [
+      "orçamento familiar",
+      "dívidas",
+      "reserva de emergência"
+    ],
+    "date": "2026-09-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-14-bitcoin-e-o-cenario-macro-por-que-a-cripto-segue-o-risco-global",
+    "slug": "2026-09-14-bitcoin-e-o-cenario-macro-por-que-a-cripto-segue-o-risco-global",
+    "title": "Bitcoin e o cenário macro: por que a cripto segue o risco global",
+    "category": "Criptomoedas",
+    "summary": "Entenda a correlação recente entre Bitcoin, ativos de risco e indicadores macroeconômicos, e o que isso significa para alocação de longo prazo em criptoativos.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "macro",
+      "correlação"
+    ],
+    "date": "2026-09-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-14-dividendos-em-alta-acoes-com-yield-atraente-apesar-da-volatilidade",
+    "slug": "2026-09-14-dividendos-em-alta-acoes-com-yield-atraente-apesar-da-volatilidade",
+    "title": "Dividendos em alta: ações com yield atraente apesar da volatilidade",
+    "category": "Investimentos",
+    "summary": "Saiba identificar ações que pagam dividendos consistentes e oferecem yield acima da média, mesmo com o Ibovespa oscilando entre 170 e 180 mil pontos.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "yield",
+      "ações"
+    ],
+    "date": "2026-09-14",
+    "breaking": false
+  },
+  {
     "id": "2026-09-12-selic-em-1425-o-que-o-corte-iminente-significa-para-sua-carteira",
     "slug": "2026-09-12-selic-em-1425-o-que-o-corte-iminente-significa-para-sua-carteira",
     "title": "Selic em 14,25%: o que o corte iminente significa para sua carteira",
@@ -775,90 +865,6 @@
       "FIIs",
       "dividendos",
       "logística"
-    ],
-    "date": "2026-09-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-01-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-dolar-fra",
-    "slug": "2026-09-01-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-dolar-fra",
-    "title": "Ibovespa perto de 176 mil: o que esperar com Selic em queda e dólar fraco",
-    "category": "Investimentos",
-    "summary": "O Ibovespa está próximo de 176.000 pontos enquanto a Selic inicia ciclo de corte e o dólar cai para R$ 4,91. Este artigo explica como essas variáveis afetam a bolsa e quais setores podem se beneficiar.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic"
-    ],
-    "date": "2026-09-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-01-tesouro-selic-rende-mais-que-a-poupanca-mesmo-com-selic-em-1425",
-    "slug": "2026-09-01-tesouro-selic-rende-mais-que-a-poupanca-mesmo-com-selic-em-1425",
-    "title": "Tesouro Selic rende mais que a poupança mesmo com Selic em 14,25%",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic elevada, o Tesouro Selic continua oferecendo retorno real acima da poupança. Veja como usar esse título como reserva de emergência e proteger seu poder de compra diante da inflação.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Selic",
-      "renda fixa"
-    ],
-    "date": "2026-09-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-01-volatilidade-eleitoral-aperta-o-ibovespa-mas-setores-de-exportacao-gan",
-    "slug": "2026-09-01-volatilidade-eleitoral-aperta-o-ibovespa-mas-setores-de-exportacao-gan",
-    "title": "Volatilidade eleitoral aperta o Ibovespa, mas setores de exportação ganham fôlego",
-    "category": "Renda Variável",
-    "summary": "O ano eleitoral deixa o mercado de ações cauteloso, mas empresas com receita dolarizada se beneficiam da queda do dólar. Descubra quais setores estão em alta e como montar uma carteira equilibrada nesse cenário.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "exportação"
-    ],
-    "date": "2026-09-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-01-como-construir-um-fundo-de-emergencia-que-sobreviva-a-juros-altos-e-in",
-    "slug": "2026-09-01-como-construir-um-fundo-de-emergencia-que-sobreviva-a-juros-altos-e-in",
-    "title": "Como construir um fundo de emergência que sobreviva a juros altos e inflação",
-    "category": "Saúde Financeira",
-    "summary": "Com Selic em 14,25% e inflação ainda em radar, manter poder de compra em reservas exige escolhas inteligentes. Aprenda onde alocar seu dinheiro para ter liquidez e retorno próximo à taxa básica.",
-    "readTime": "5",
-    "tags": [
-      "fundo de emergência",
-      "Selic"
-    ],
-    "date": "2026-09-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-01-bitcoin-segue-o-humor-global-mas-risco-regulatorio-domestico-ainda-e-i",
-    "slug": "2026-09-01-bitcoin-segue-o-humor-global-mas-risco-regulatorio-domestico-ainda-e-i",
-    "title": "Bitcoin segue o humor global, mas risco regulatório doméstico ainda é incógnita",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin acompanha a volatilidade dos mercados globais, enquanto no Brasil o real forte reduz seu apelo como hedge cambial. Fique atento ao debate regulatório do Banco Central e aprenda a alocar cripto com prudência.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "regulação"
-    ],
-    "date": "2026-09-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-01-dividend-yield-alto-acoes-que-pagam-mais-que-a-selic-em-2026",
-    "slug": "2026-09-01-dividend-yield-alto-acoes-que-pagam-mais-que-a-selic-em-2026",
-    "title": "Dividend yield alto: ações que pagam mais que a Selic em 2026",
-    "category": "Investimentos",
-    "summary": "Mesmo com Selic elevada, algumas ações brasileiras oferecem dividend yield acima de 12%, superando títulos pós‑fixados. Veja quais setores distribuem mais e como evitar armadilhas de endividamento excessivo.",
-    "readTime": "5",
-    "tags": [
-      "dividend yield",
-      "ações"
     ],
     "date": "2026-09-01",
     "breaking": false
