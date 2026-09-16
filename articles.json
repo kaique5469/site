@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-09-16-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda",
+    "slug": "2026-09-16-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda",
+    "title": "Ibovespa perto de 176 mil: o que esperar com Selic em queda?",
+    "category": "Investimentos",
+    "summary": "O Ibovespa ronda os 176.000 pontos enquanto a Selic cai para 14,25% e o dólar chega ao menor nível em dois anos. Entenda como esses movimentos afetam suas aplicações e quais setores podem se beneficiar.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-09-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-16-tesouro-direto-rende-mais-com-selic-em-queda-vale-a-pena-ficar",
+    "slug": "2026-09-16-tesouro-direto-rende-mais-com-selic-em-queda-vale-a-pena-ficar",
+    "title": "Tesouro Direto rende mais com Selic em queda: vale a pena ficar?",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em trajetória de baixa, os títulos públicos oferecem rendimentos atrativos, mas há riscos de reinvestimento. Veja como montar uma ladder estratégica.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "ladder"
+    ],
+    "date": "2026-09-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-16-setores-que-podem-sobreviver-ao-ano-eleitoral-onde-apostar-na-bolsa",
+    "slug": "2026-09-16-setores-que-podem-sobreviver-ao-ano-eleitoral-onde-apostar-na-bolsa",
+    "title": "Setores que podem sobreviver ao ano eleitoral: onde apostar na bolsa?",
+    "category": "Renda Variável",
+    "summary": "Em ano de eleição, a volatilidade costuma subir e setores defensivos ganham espaço. Descubra quais indústrias tendem a se sair melhor independentemente do resultado.",
+    "readTime": "5",
+    "tags": [
+      "ano eleitoral",
+      "setores defensivos"
+    ],
+    "date": "2026-09-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-16-como-proteger-seu-orcamento-diante-da-inflacao-persistente",
+    "slug": "2026-09-16-como-proteger-seu-orcamento-diante-da-inflacao-persistente",
+    "title": "Como proteger seu orçamento diante da inflação persistente?",
+    "category": "Saúde Financeira",
+    "summary": "Com o IPCA-15 ainda acima da meta, famílias precisam ajustar gastos e proteger o poder de compra. Estratégias práticas para manter as contas em dia.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "inflação"
+    ],
+    "date": "2026-09-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-16-bitcoin-em-meio-a-queda-do-dolar-correlacao-ou-oportunidade",
+    "slug": "2026-09-16-bitcoin-em-meio-a-queda-do-dolar-correlacao-ou-oportunidade",
+    "title": "Bitcoin em meio à queda do dólar: correlação ou oportunidade?",
+    "category": "Criptomoedas",
+    "summary": "Enquanto o dólar perde força frente ao real, o Bitcoin segue volátil. Entenda se a relação inversa entre as moedas pode ser usada em estratégias de hedge.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "dólar"
+    ],
+    "date": "2026-09-16",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-16-fundos-imobiliarios-aproveitam-queda-do-juros-onde-encontrar-os-melhor",
+    "slug": "2026-09-16-fundos-imobiliarios-aproveitam-queda-do-juros-onde-encontrar-os-melhor",
+    "title": "Fundos imobiliários aproveitam queda do juros: onde encontrar os melhores rendimentos?",
+    "category": "Investimentos",
+    "summary": "Com a Selic em trajetória de baixa, os FIIs voltam a atrair investidores em busca de renda passiva. Saiba como escolher fundos com bons fundamentos e distribuição consistente.",
+    "readTime": "5",
+    "tags": [
+      "FIIs",
+      "Selic"
+    ],
+    "date": "2026-09-16",
+    "breaking": false
+  },
+  {
     "id": "2026-09-15-dolar-em-queda-e-selic-em-corte-o-que-esperar-do-ibovespa-em-setembro",
     "slug": "2026-09-15-dolar-em-queda-e-selic-em-corte-o-que-esperar-do-ibovespa-em-setembro",
     "title": "Dólar em queda e Selic em corte: o que esperar do Ibovespa em setembro",
@@ -771,96 +855,6 @@
       "fundos imobiliarios"
     ],
     "date": "2026-09-03",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-02-selic-em-1425-e-ipca-15-o-que-esperar-dos-cortes-nos-proximos-meses",
-    "slug": "2026-09-02-selic-em-1425-e-ipca-15-o-que-esperar-dos-cortes-nos-proximos-meses",
-    "title": "Selic em 14,25% e IPCA-15: o que esperar dos cortes nos próximos meses",
-    "category": "Investimentos",
-    "summary": "Entenda como a Selic atual e a trajetória do IPCA-15 influenciam crédito, setores sensíveis e estratégias de renda fixa para investidores.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "IPCA-15",
-      "renda fixa"
-    ],
-    "date": "2026-09-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-02-tesouro-direto-rende-mais-com-juros-altos-mas-atencao-ao-inflation-ris",
-    "slug": "2026-09-02-tesouro-direto-rende-mais-com-juros-altos-mas-atencao-ao-inflation-ris",
-    "title": "Tesouro Direto rende mais com juros altos, mas atenção ao inflation risk",
-    "category": "Renda Fixa",
-    "summary": "Veja como aproveitar os rendimentos atuais do Tesouro IPCA+ e se proteger de surpresas inflacionárias que podem corroer ganhos reais.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "IPCA+",
-      "inflação"
-    ],
-    "date": "2026-09-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-02-ibovespa-volatil-diante-de-ano-eleitoral-setores-que-podem-sair-ganhan",
-    "slug": "2026-09-02-ibovespa-volatil-diante-de-ano-eleitoral-setores-que-podem-sair-ganhan",
-    "title": "Ibovespa volátil diante de ano eleitoral: setores que podem sair ganhando",
-    "category": "Renda Variável",
-    "summary": "Analise como a incerteza eleitoral afeta o Ibovespa e descubra quais setores tendem a ser mais resilientes ou a se beneficiar de eventuais estímulos pós‑eleição.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições",
-      "setores"
-    ],
-    "date": "2026-09-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-02-como-proteger-seu-orcamento-pessoal-com-dolar-baixo-e-credito-caro",
-    "slug": "2026-09-02-como-proteger-seu-orcamento-pessoal-com-dolar-baixo-e-credito-caro",
-    "title": "Como proteger seu orçamento pessoal com dólar baixo e crédito caro",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda a aproveitar a queda do dólar para reduzir custos de importados e, ao mesmo tempo, controlar dívidas caras e fortalecer sua reserva de emergência.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "crédito",
-      "orçamento"
-    ],
-    "date": "2026-09-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-02-bitcoin-segue-o-ritmo-global-volatilidade-como-nova-normalidade",
-    "slug": "2026-09-02-bitcoin-segue-o-ritmo-global-volatilidade-como-nova-normalidade",
-    "title": "Bitcoin segue o ritmo global: volatilidade como nova normalidade",
-    "category": "Criptomoedas",
-    "summary": "Entenda por que o Bitcoin continua acompanhando a volatilidade dos mercados globais e quais estratégias podem ajudar investidores de longo prazo a navegar nesse cenário.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade",
-      "cripto"
-    ],
-    "date": "2026-09-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-02-fundos-imobiliarios-oportunidade-com-juros-em-queda-e-demanda-por-alug",
-    "slug": "2026-09-02-fundos-imobiliarios-oportunidade-com-juros-em-queda-e-demanda-por-alug",
-    "title": "Fundos imobiliários: oportunidade com juros em queda e demanda por aluguel",
-    "category": "Investimentos",
-    "summary": "Saiba por que os FIIs podem oferecer dividendos atraentes mesmo com Selic alta e como escolher fundos com fundamentos sólidos diante da esperança de cortes de juros.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "juros",
-      "dividendos"
-    ],
-    "date": "2026-09-02",
     "breaking": false
   }
 ]
