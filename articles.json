@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-09-18-dolar-cai-a-r-491-o-que-isso-significa-para-seus-investimentos-agora",
+    "slug": "2026-09-18-dolar-cai-a-r-491-o-que-isso-significa-para-seus-investimentos-agora",
+    "title": "Dólar cai a R$ 4,91: o que isso significa para seus investimentos agora",
+    "category": "Investimentos",
+    "summary": "O dólar em R$ 4,91 traz alívio à inflação e sinaliza novos cortes de Selic. Entenda como isso afeta ações, renda fixa e sua alocação de patrimônio.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "Selic",
+      "exportadoras"
+    ],
+    "date": "2026-09-18",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-18-selic-em-1425-e-ipca-15-como-posicionar-sua-renda-fixa-hoje",
+    "slug": "2026-09-18-selic-em-1425-e-ipca-15-como-posicionar-sua-renda-fixa-hoje",
+    "title": "Selic em 14,25% e IPCA-15: como posicionar sua renda fixa hoje",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25% e o IPCA-15 sob vigilância, os títulos públicos e privados oferecem oportunidades distintas. Descubra quais prefixados e indexados fazem sentido neste ciclo.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "IPCA-15",
+      "renda fixa"
+    ],
+    "date": "2026-09-18",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-18-ibovespa-volatil-em-176-mil-pontos-estrategias-para-a-renda-variavel-e",
+    "slug": "2026-09-18-ibovespa-volatil-em-176-mil-pontos-estrategias-para-a-renda-variavel-e",
+    "title": "Ibovespa volátil em 176 mil pontos: estratégias para a renda variável em ano eleitoral",
+    "category": "Renda Variável",
+    "summary": "O Ibovespa oscila perto de 176.000 pontos enquanto o ano eleitoral aumenta a cautela dos investidores. Veja como navegar essa volatilidade com seleção setorial e proteção de portfólio.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições",
+      "volatilidade"
+    ],
+    "date": "2026-09-18",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-18-saude-financeira-protegendo-seu-orcamento-com-selic-alta-e-inflacao-em",
+    "slug": "2026-09-18-saude-financeira-protegendo-seu-orcamento-com-selic-alta-e-inflacao-em",
+    "title": "Saúde financeira: protegendo seu orçamento com Selic alta e inflação em foco",
+    "category": "Saúde Financeira",
+    "summary": "Com Selic ainda elevada, o custo do crédito permanece alto e a inflação continua no radar. Aprenda a ajustar gastos, renegociar dívidas e reservar reserva de emergência de forma eficaz.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "dívidas",
+      "reserva de emergência"
+    ],
+    "date": "2026-09-18",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-18-bitcoin-e-criptos-seguem-volatilidade-global-o-que-esperar-nos-proximo",
+    "slug": "2026-09-18-bitcoin-e-criptos-seguem-volatilidade-global-o-que-esperar-nos-proximo",
+    "title": "Bitcoin e criptos seguem volatilidade global: o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin acompanha a oscilação dos mercados tradicionais, refletindo aversão ao risco e expectativas de política monetária. Entenda os fatores que podem impulsionar ou frear a recuperação das criptomoedas.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade",
+      "regulamentação"
+    ],
+    "date": "2026-09-18",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-18-dividendos-e-juros-reais-como-aproveitar-a-queda-do-dolar-para-reforca",
+    "slug": "2026-09-18-dividendos-e-juros-reais-como-aproveitar-a-queda-do-dolar-para-reforca",
+    "title": "Dividendos e juros reais: como aproveitar a queda do dólar para reforçar carteira",
+    "category": "Investimentos",
+    "summary": "A desvalorização do dólar reduz o custo de hedge e aumenta o apelo de ativos que pagam dividendos em moeda forte ou oferecem juros reais positivos. Veja quais setores e papéis se destacam neste cenário.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "exportadores",
+      "juros reais"
+    ],
+    "date": "2026-09-18",
+    "breaking": false
+  },
+  {
     "id": "2026-09-18-ibovespa-sob-pressao-juros-altos-e-risco-eleitoral-pesam-no-pregao",
     "slug": "2026-09-18-ibovespa-sob-pressao-juros-altos-e-risco-eleitoral-pesam-no-pregao",
     "title": "Ibovespa sob pressão: juros altos e risco eleitoral pesam no pregão",
@@ -771,96 +861,6 @@
       "eleições"
     ],
     "date": "2026-09-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-05-ibovespa-sob-pressao-volatilidade-eleitoral-e-juros-altos",
-    "slug": "2026-09-05-ibovespa-sob-pressao-volatilidade-eleitoral-e-juros-altos",
-    "title": "Ibovespa sob pressão: volatilidade eleitoral e juros altos",
-    "category": "Investimentos",
-    "summary": "Entenda como a combinação de juros elevados, dólar fraco e ano eleitoral afeta o Ibovespa e quais setores podem sofrer menos.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "juros",
-      "eleições"
-    ],
-    "date": "2026-09-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-05-selic-em-trajetoria-de-queda-o-que-esperar-dos-titulos-publicos-em-202",
-    "slug": "2026-09-05-selic-em-trajetoria-de-queda-o-que-esperar-dos-titulos-publicos-em-202",
-    "title": "Selic em trajetória de queda: o que esperar dos títulos públicos em 2026",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25% e cortes previstos, veja como os Tesouros diretos e fundos de renda fixa devem se comportar.",
-    "readTime": "6",
-    "tags": [
-      "Selic",
-      "Tesouro",
-      "renda fixa"
-    ],
-    "date": "2026-09-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-05-acoes-defensivas-onde-colocar-seu-dinheiro-diante-da-cautela-eleitoral",
-    "slug": "2026-09-05-acoes-defensivas-onde-colocar-seu-dinheiro-diante-da-cautela-eleitoral",
-    "title": "Ações defensivas: onde colocar seu dinheiro diante da cautela eleitoral",
-    "category": "Renda Variável",
-    "summary": "Descubra quais setores têm histórico de menor volatilidade em anos eleitorais e como montar uma carteira equilibrada.",
-    "readTime": "5",
-    "tags": [
-      "ações defensivas",
-      "eleitorais",
-      "volatilidade"
-    ],
-    "date": "2026-09-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-05-com-juros-altos-como-controlar-dividas-e-proteger-seu-orcamento-famili",
-    "slug": "2026-09-05-com-juros-altos-como-controlar-dividas-e-proteger-seu-orcamento-famili",
-    "title": "Com juros altos, como controlar dívidas e proteger seu orçamento familiar",
-    "category": "Saúde Financeira",
-    "summary": "Dicas práticas para renegociar empréstimos, usar o cartão com consciência e construir reserva de emergência mesmo com Selic elevada.",
-    "readTime": "7",
-    "tags": [
-      "dívidas",
-      "juros altos",
-      "orçamento"
-    ],
-    "date": "2026-09-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-05-bitcoin-em-2026-correlacao-com-mercados-tradicionais-e-o-que-esperar-n",
-    "slug": "2026-09-05-bitcoin-em-2026-correlacao-com-mercados-tradicionais-e-o-que-esperar-n",
-    "title": "Bitcoin em 2026: correlação com mercados tradicionais e o que esperar nos próximos meses",
-    "category": "Criptomoedas",
-    "summary": "Analisamos a relação entre o BTC, o Ibovespa e o dólar, e apontamos cenários de alta e baixa para investidores de cripto.",
-    "readTime": "6",
-    "tags": [
-      "Bitcoin",
-      "correlação",
-      "cripto"
-    ],
-    "date": "2026-09-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-05-fundos-imobiliarios-sob-pressao-juros-altos-e-vacancia-comercial",
-    "slug": "2026-09-05-fundos-imobiliarios-sob-pressao-juros-altos-e-vacancia-comercial",
-    "title": "Fundos imobiliários sob pressão: juros altos e vacância comercial",
-    "category": "Investimentos",
-    "summary": "Veja como a elevação da Selic afeta os yields dos FIIs e quais subsetores podem oferecer maior resiliência.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "Selic",
-      "imobiliário"
-    ],
-    "date": "2026-09-05",
     "breaking": false
   }
 ]
