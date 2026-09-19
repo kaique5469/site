@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-09-19-dolar-em-queda-e-selic-em-corte-o-que-esperar-do-ibovespa-em-setembro",
+    "slug": "2026-09-19-dolar-em-queda-e-selic-em-corte-o-que-esperar-do-ibovespa-em-setembro",
+    "title": "Dólar em queda e Selic em corte: o que esperar do Ibovespa em setembro",
+    "category": "Investimentos",
+    "summary": "Aprenda como a combinação de dólar fraco e ciclo de afrouxamento monetário pode influenciar os índices e setores da bolsa neste mês volátil. Veja quais setores são mais sensíveis e quais estratégias adotar para proteger sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "Selic"
+    ],
+    "date": "2026-09-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-19-selic-em-trajetoria-de-queda-como-proteger-sua-renda-fixa-em-2026",
+    "slug": "2026-09-19-selic-em-trajetoria-de-queda-como-proteger-sua-renda-fixa-em-2026",
+    "title": "Selic em trajetória de queda: como proteger sua renda fixa em 2026",
+    "category": "Renda Fixa",
+    "summary": "Entenda quais títulos e estratégias ganham espaço com a Selic em 14,25% e perspectivas de novos cortes nos próximos meses. Descubra como montar uma carteira de renda fixa resiliente ao cenário de juros em baixa.",
+    "readTime": "6",
+    "tags": [
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-09-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-19-ibovespa-volatil-setores-que-podem-superar-o-medo-eleitoral",
+    "slug": "2026-09-19-ibovespa-volatil-setores-que-podem-superar-o-medo-eleitoral",
+    "title": "Ibovespa volátil: setores que podem superar o medo eleitoral",
+    "category": "Renda Variável",
+    "summary": "Descubra quais setores tendem a se destacar mesmo com a incerteza política e como montar uma carteira equilibrada. Explore oportunidades em defensivos e de crescimento para navegar a volatilidade esperada.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições"
+    ],
+    "date": "2026-09-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-19-saude-financeira-em-ano-de-eleicao-controle-de-dividas-e-reserva-de-em",
+    "slug": "2026-09-19-saude-financeira-em-ano-de-eleicao-controle-de-dividas-e-reserva-de-em",
+    "title": "Saúde financeira em ano de eleição: controle de dívidas e reserva de emergência",
+    "category": "Saúde Financeira",
+    "summary": "Passos práticos para organizar suas finanças pessoais diante da volatilidade do mercado e das incertezas políticas. Aprenda a reduzir dívidas caras, construir reserva de emergência e manter investimentos de longo prazo mesmo em cenário instável.",
+    "readTime": "4",
+    "tags": [
+      "dívidas",
+      "reserva de emergência"
+    ],
+    "date": "2026-09-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-19-bitcoin-e-o-mercado-global-por-que-a-cripto-acompanha-a-volatilidade-t",
+    "slug": "2026-09-19-bitcoin-e-o-mercado-global-por-que-a-cripto-acompanha-a-volatilidade-t",
+    "title": "Bitcoin e o mercado global: por que a cripto acompanha a volatilidade tradicional",
+    "category": "Criptomoedas",
+    "summary": "Análise da correlação recente entre Bitcoin, risco global e movimentos de taxa de juros, com visão para os próximos meses. Saiba como a política monetária dos EUA e a regulamentação afetam o preço da criptomoeda mais conhecida.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-09-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-19-dividendos-e-juros-altos-como-montar-uma-carteira-de-renda-passiva-em-",
+    "slug": "2026-09-19-dividendos-e-juros-altos-como-montar-uma-carteira-de-renda-passiva-em-",
+    "title": "Dividendos e juros altos: como montar uma carteira de renda passiva em 2026",
+    "category": "Investimentos",
+    "summary": "Explore estratégias para gerar renda regular com ações pagadoras de dividendos e títulos indexados à inflação. Veja como combinar renda fixa e variável para criar fluxo de caixa estável mesmo com juros em queda.",
+    "readTime": "6",
+    "tags": [
+      "dividendos",
+      "IPCA"
+    ],
+    "date": "2026-09-19",
+    "breaking": false
+  },
+  {
     "id": "2026-09-18-dolar-cai-a-r-491-o-que-isso-significa-para-seus-investimentos-agora",
     "slug": "2026-09-18-dolar-cai-a-r-491-o-que-isso-significa-para-seus-investimentos-agora",
     "title": "Dólar cai a R$ 4,91: o que isso significa para seus investimentos agora",
@@ -777,90 +861,6 @@
       "dividendos"
     ],
     "date": "2026-09-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-11-dolar-em-r-491-o-que-a-queda-de-105-significa-para-seus-investimentos",
-    "slug": "2026-09-11-dolar-em-r-491-o-que-a-queda-de-105-significa-para-seus-investimentos",
-    "title": "Dólar em R$ 4,91: o que a queda de 10,5% significa para seus investimentos",
-    "category": "Investimentos",
-    "summary": "O dólar caiu para R$ 4,91, menor nível em mais de dois anos, refletindo fluxo de capitais e expectativas de juros mais baixos. Entenda como isso afeta ações, renda fixa e seu portfólio internacional.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "câmbio"
-    ],
-    "date": "2026-09-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-11-selic-em-trajetoria-de-corte-como-os-titulos-publicos-reagem",
-    "slug": "2026-09-11-selic-em-trajetoria-de-corte-como-os-titulos-publicos-reagem",
-    "title": "Selic em trajetória de corte: como os títulos públicos reagem",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25% e cortes esperados, os rendimentos de títulos públicos começam a ajustar. Saiba quais papéis são mais sensíveis e como posicionar sua carteira de renda fixa.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-09-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-11-ibovespa-volatil-e-ano-eleitoral-setores-que-podem-se-destacar",
-    "slug": "2026-09-11-ibovespa-volatil-e-ano-eleitoral-setores-que-podem-se-destacar",
-    "title": "Ibovespa volátil e ano eleitoral: setores que podem se destacar",
-    "category": "Renda Variável",
-    "summary": "O Ibovespa oscila em torno de 176 mil pontos, enquanto o cenário eleitoral gera cautela entre investidores. Identifique quais setores tendem a performar melhor nesse ambiente de incerteza.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições"
-    ],
-    "date": "2026-09-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-11-reserva-de-emergencia-em-tempos-de-selic-alta-passo-a-passo-pratico",
-    "slug": "2026-09-11-reserva-de-emergencia-em-tempos-de-selic-alta-passo-a-passo-pratico",
-    "title": "Reserva de emergência em tempos de Selic alta: passo a passo prático",
-    "category": "Saúde Financeira",
-    "summary": "Com a Selic em 14,25%, construir uma reserva de emergência rende mais do que nunca. Aprenda a calcular o valor ideal, onde aplicar e como manter a disciplina.",
-    "readTime": "5",
-    "tags": [
-      "reserva de emergência",
-      "Selic"
-    ],
-    "date": "2026-09-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-11-bitcoin-e-volatilidade-global-o-que-esperar-nos-proximos-meses",
-    "slug": "2026-09-11-bitcoin-e-volatilidade-global-o-que-esperar-nos-proximos-meses",
-    "title": "Bitcoin e volatilidade global: o que esperar nos próximos meses",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin acompanha a volatilidade dos mercados globais, reagindo a movimentos de risco e às expectativas de liquidez. Entenda os fatores que podem impulsionar ou pressionar a criptomoeda nos próximos meses.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-09-11",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-11-oportunidades-em-acoes-de-consumo-diante-da-cautela-eleitoral",
-    "slug": "2026-09-11-oportunidades-em-acoes-de-consumo-diante-da-cautela-eleitoral",
-    "title": "Oportunidades em ações de consumo diante da cautela eleitoral",
-    "category": "Renda Variável",
-    "summary": "Mesmo com o ano eleitoral gerando hesitação, alguns setores de consumo mostram resiliência devido a fundamentals fortes e hábitos de compra estáveis. Veja onde mirar.",
-    "readTime": "5",
-    "tags": [
-      "consumo",
-      "eleições"
-    ],
-    "date": "2026-09-11",
     "breaking": false
   }
 ]
