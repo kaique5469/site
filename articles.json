@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-09-21-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa-e-do-dolar",
+    "slug": "2026-09-21-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa-e-do-dolar",
+    "title": "Selic em 14,25% e corte iminente: o que esperar do Ibovespa e do dólar",
+    "category": "Investimentos",
+    "summary": "O Banco Central manteve a Selic em 14,25% e sinaliza corte iminente; entenda como isso afeta ações, câmbio e quais estratégias adotar agora.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Ibovespa",
+      "dólar"
+    ],
+    "date": "2026-09-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-21-tesouro-direto-rende-mais-com-selic-alta-estrategias-para-2026",
+    "slug": "2026-09-21-tesouro-direto-rende-mais-com-selic-alta-estrategias-para-2026",
+    "title": "Tesouro Direto rende mais com Selic alta: estratégias para 2026",
+    "category": "Renda Fixa",
+    "summary": "Com Selic em 14,25%, os títulos públicos oferecem atrativos rendimentos; veja como montar uma carteira de renda fixa usando Tesouro Selic, IPCA+ e ladder de vencimentos.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-09-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-21-ibovespa-em-176-mil-pontos-setores-que-podem-outperforme-diante-da-que",
+    "slug": "2026-09-21-ibovespa-em-176-mil-pontos-setores-que-podem-outperforme-diante-da-que",
+    "title": "Ibovespa em 176 mil pontos: setores que podem outperforme diante da queda do dólar",
+    "category": "Renda Variável",
+    "summary": "O Ibovespa está perto de 176.000 pontos enquanto o dólar cai para R$ 4,91; descubra quais setores se beneficiam da desvalorização cambial e como posicionar sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "dólar",
+      "setores"
+    ],
+    "date": "2026-09-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-21-como-proteger-seu-orcamento-diante-da-inflacao-persistente-e-juros-alt",
+    "slug": "2026-09-21-como-proteger-seu-orcamento-diante-da-inflacao-persistente-e-juros-alt",
+    "title": "Como proteger seu orçamento diante da inflação persistente e juros altos",
+    "category": "Saúde Financeira",
+    "summary": "Com IPCA-15 pressionado e Selic em 14,25%, aprenda a controlar gastos, negociar contas e construir uma reserva de emergência sem comprometer seu padrão de vida.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "inflação",
+      "reserva"
+    ],
+    "date": "2026-09-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-21-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-ate-o-fim-de-2026",
+    "slug": "2026-09-21-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-ate-o-fim-de-2026",
+    "title": "Bitcoin em meio à volatilidade global: o que esperar até o fim de 2026",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin segue a volatilidade dos mercados globais, influenciado por juros dos EUA, regulamentação brasileira e adoção institucional; veja como alocar com prudência.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "cripto",
+      "volatilidade"
+    ],
+    "date": "2026-09-21",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-21-fundos-imobiliarios-rendem-acima-de-12-com-juros-altos-vale-a-pena-ent",
+    "slug": "2026-09-21-fundos-imobiliarios-rendem-acima-de-12-com-juros-altos-vale-a-pena-ent",
+    "title": "Fundos imobiliários rendem acima de 12% com juros altos: vale a pena entrar agora?",
+    "category": "Investimentos",
+    "summary": "Com Selic elevada, muitos FIIs oferecem dividendos atrativos; descubra quais setores são mais resilientes e como selecionar fundos com baixo risco de vacância.",
+    "readTime": "5",
+    "tags": [
+      "FIIs",
+      "dividendos",
+      "renda passiva"
+    ],
+    "date": "2026-09-21",
+    "breaking": false
+  },
+  {
     "id": "2026-09-19-dolar-em-queda-e-selic-em-corte-o-que-esperar-do-ibovespa-em-setembro",
     "slug": "2026-09-19-dolar-em-queda-e-selic-em-corte-o-que-esperar-do-ibovespa-em-setembro",
     "title": "Dólar em queda e Selic em corte: o que esperar do Ibovespa em setembro",
@@ -777,90 +867,6 @@
       "ações"
     ],
     "date": "2026-09-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-12-selic-em-1425-o-que-o-corte-iminente-significa-para-sua-carteira",
-    "slug": "2026-09-12-selic-em-1425-o-que-o-corte-iminente-significa-para-sua-carteira",
-    "title": "Selic em 14,25%: o que o corte iminente significa para sua carteira",
-    "category": "Investimentos",
-    "summary": "Entenda como o possível ciclo de cortes da Selic afeta renda fixa, variável e a alocação ideal da sua carteira neste cenário de juros ainda altos.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "corte de juros"
-    ],
-    "date": "2026-09-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-12-tesouro-direto-como-o-ipca-15-e-a-selic-afetam-os-titulos-prefixados-e",
-    "slug": "2026-09-12-tesouro-direto-como-o-ipca-15-e-a-selic-afetam-os-titulos-prefixados-e",
-    "title": "Tesouro Direto: como o IPCA-15 e a Selic afetam os títulos prefixados e híbridos",
-    "category": "Renda Fixa",
-    "summary": "Veja como o último IPCA-15 e a Selic em 14,25% influenciam a precificação dos Tesouros prefixados, IPCA+ e outras opções do Tesouro Direto.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "IPCA-15"
-    ],
-    "date": "2026-09-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-12-ibovespa-em-176-mil-pontos-volatilidade-eleitoral-e-oportunidades-seto",
-    "slug": "2026-09-12-ibovespa-em-176-mil-pontos-volatilidade-eleitoral-e-oportunidades-seto",
-    "title": "Ibovespa em 176 mil pontos: volatilidade eleitoral e oportunidades setoriais",
-    "category": "Renda Variável",
-    "summary": "Analisamos os fatores que mantêm o Ibovespa ao redor de 176.000 pontos e quais setores podem oferecer oportunidades apesar da cautela eleitoral.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições 2026"
-    ],
-    "date": "2026-09-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-12-reserva-de-emergencia-quanto-guardar-quando-a-selic-esta-em-1425",
-    "slug": "2026-09-12-reserva-de-emergencia-quanto-guardar-quando-a-selic-esta-em-1425",
-    "title": "Reserva de emergência: quanto guardar quando a Selic está em 14,25%",
-    "category": "Saúde Financeira",
-    "summary": "Descubra como a Selic elevada altera o cálculo ideal da reserva de emergência e quais aplicações oferecem melhor liquidez e retorno.",
-    "readTime": "5",
-    "tags": [
-      "reserva de emergência",
-      "Selic"
-    ],
-    "date": "2026-09-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-12-bitcoin-e-o-risco-global-por-que-a-criptomoeda-acompanha-a-volatilidad",
-    "slug": "2026-09-12-bitcoin-e-o-risco-global-por-que-a-criptomoeda-acompanha-a-volatilidad",
-    "title": "Bitcoin e o risco global: por que a criptomoeda acompanha a volatilidade do Ibovespa",
-    "category": "Criptomoedas",
-    "summary": "Entenda a correlação entre Bitcoin, Ibovespa e dólar e como fatores macroeconômicos estão impulsionando a movimentação conjunta desses ativos.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "correlação mercado"
-    ],
-    "date": "2026-09-12",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-12-acoes-de-baixo-beta-e-dividendos-altos-refugio-em-tempos-de-juros-elev",
-    "slug": "2026-09-12-acoes-de-baixo-beta-e-dividendos-altos-refugio-em-tempos-de-juros-elev",
-    "title": "Ações de baixo beta e dividendos altos: refúgio em tempos de juros elevados",
-    "category": "Investimentos",
-    "summary": "Saiba como selecionar papéis com baixa sensibilidade ao mercado e bons dividendos para proteger sua carteira diante da Selic alta e da volatilidade eleitoral.",
-    "readTime": "5",
-    "tags": [
-      "baixo beta",
-      "dividendos"
-    ],
-    "date": "2026-09-12",
     "breaking": false
   }
 ]
