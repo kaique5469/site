@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-09-22-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-ano-eleit",
+    "slug": "2026-09-22-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-ano-eleit",
+    "title": "Ibovespa perto de 176 mil: o que esperar com Selic em queda e ano eleitoral",
+    "category": "Investimentos",
+    "summary": "O Ibovespa está perto de 176.000 pontos enquanto a Selic cai e o ano eleitoral traz incerteza. Saiba como posicionar sua carteira diante desse cenário.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-09-22",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-22-tesouro-selic-e-cdbs-onde-alocar-com-selic-em-queda",
+    "slug": "2026-09-22-tesouro-selic-e-cdbs-onde-alocar-com-selic-em-queda",
+    "title": "Tesouro Selic e CDBs: onde alocar com Selic em queda",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em trajetória de baixa, escolha entre Tesouro Direto e CDBs bancários considerando liquidez, rentabilidade e impostos.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Selic",
+      "CDB"
+    ],
+    "date": "2026-09-22",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-22-setores-defensivos-ganham-espaco-no-ibovespa-volatil",
+    "slug": "2026-09-22-setores-defensivos-ganham-espaco-no-ibovespa-volatil",
+    "title": "Setores defensivos ganham espaço no Ibovespa volátil",
+    "category": "Renda Variável",
+    "summary": "Em cenário de juros altos e eleição, utilities, consumo básico e saúde oferecem maior estabilidade. Veja como alocar nesse espaço.",
+    "readTime": "5",
+    "tags": [
+      "defensivos",
+      "Ibovespa"
+    ],
+    "date": "2026-09-22",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-22-como-proteger-seu-orcamento-diante-da-inflacao-persistente",
+    "slug": "2026-09-22-como-proteger-seu-orcamento-diante-da-inflacao-persistente",
+    "title": "Como proteger seu orçamento diante da inflação persistente",
+    "category": "Saúde Financeira",
+    "summary": "Dicas práticas para controlar gastos, construir reserva e evitar armadilhas do crédito em um ambiente de inflação ainda elevada.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "inflação"
+    ],
+    "date": "2026-09-22",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-22-bitcoin-segue-o-tom-do-mercado-global-volatilidade-em-foco",
+    "slug": "2026-09-22-bitcoin-segue-o-tom-do-mercado-global-volatilidade-em-foco",
+    "title": "Bitcoin segue o tom do mercado global: volatilidade em foco",
+    "category": "Criptomoedas",
+    "summary": "O BTC acompanha a aversão ao risco dos mercados tradicionais, com movimentos regulatórios e de grandes detentores impulsionando sua volatilidade.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-09-22",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-22-fundos-imobiliarios-oportunidade-com-juros-em-trajetoria-de-baixa",
+    "slug": "2026-09-22-fundos-imobiliarios-oportunidade-com-juros-em-trajetoria-de-baixa",
+    "title": "Fundos imobiliários: oportunidade com juros em trajetória de baixa",
+    "category": "Investimentos",
+    "summary": "Com a Selic caindo, os FIIs ficam mais atrativos frente a títulos de renda fixa. Saiba quais setores favorecidos e como escolher.",
+    "readTime": "5",
+    "tags": [
+      "FIIs",
+      "Selic"
+    ],
+    "date": "2026-09-22",
+    "breaking": false
+  },
+  {
     "id": "2026-09-21-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa-e-do-dolar",
     "slug": "2026-09-21-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa-e-do-dolar",
     "title": "Selic em 14,25% e corte iminente: o que esperar do Ibovespa e do dólar",
@@ -777,96 +861,6 @@
       "dividendos"
     ],
     "date": "2026-09-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-14-selic-em-queda-como-o-corte-de-1425-afeta-suas-carteiras-agora",
-    "slug": "2026-09-14-selic-em-queda-como-o-corte-de-1425-afeta-suas-carteiras-agora",
-    "title": "Selic em queda: como o corte de 14,25% afeta suas carteiras agora",
-    "category": "Investimentos",
-    "summary": "Entenda o impacto imediato da redução da Selic sobre ações, renda fixa e estratégias de alocação para investidores em meio à volatilidade do Ibovespa.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Ibovespa",
-      "alocação"
-    ],
-    "date": "2026-09-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-14-renda-fixa-pos-selic-onde-encontrar-rentabilidade-acima-da-inflacao",
-    "slug": "2026-09-14-renda-fixa-pos-selic-onde-encontrar-rentabilidade-acima-da-inflacao",
-    "title": "Renda fixa pós-Selic: onde encontrar rentabilidade acima da inflação",
-    "category": "Renda Fixa",
-    "summary": "Descubra quais títulos de renda fixa ainda oferecem retornos reais positivos após o novo patamar da Selic e como montar uma carteira protegida contra a inflação.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro IPCA+",
-      "CDB",
-      "renda fixa"
-    ],
-    "date": "2026-09-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-14-bolsa-sob-pressao-eleitoral-setores-que-podem-surpreender-em-setembro",
-    "slug": "2026-09-14-bolsa-sob-pressao-eleitoral-setores-que-podem-surpreender-em-setembro",
-    "title": "Bolsa sob pressão eleitoral: setores que podem surpreender em setembro",
-    "category": "Renda Variável",
-    "summary": "Apesar da cautela eleitoral, alguns setores da B3 mostram força relativa e podem apresentar desempenho acima da média do Ibovespa nos próximos meses.",
-    "readTime": "5",
-    "tags": [
-      "setores",
-      "eleições 2026",
-      "B3"
-    ],
-    "date": "2026-09-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-14-saude-financeira-em-tempos-de-juros-altos-como-proteger-seu-orcamento",
-    "slug": "2026-09-14-saude-financeira-em-tempos-de-juros-altos-como-proteger-seu-orcamento",
-    "title": "Saúde financeira em tempos de juros altos: como proteger seu orçamento",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda estratégias práticas para equilibrar contas, reduzir dívidas e manter reservas mesmo com a Selic em níveis elevados e inflação ainda monitorada.",
-    "readTime": "5",
-    "tags": [
-      "orçamento familiar",
-      "dívidas",
-      "reserva de emergência"
-    ],
-    "date": "2026-09-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-14-bitcoin-e-o-cenario-macro-por-que-a-cripto-segue-o-risco-global",
-    "slug": "2026-09-14-bitcoin-e-o-cenario-macro-por-que-a-cripto-segue-o-risco-global",
-    "title": "Bitcoin e o cenário macro: por que a cripto segue o risco global",
-    "category": "Criptomoedas",
-    "summary": "Entenda a correlação recente entre Bitcoin, ativos de risco e indicadores macroeconômicos, e o que isso significa para alocação de longo prazo em criptoativos.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "macro",
-      "correlação"
-    ],
-    "date": "2026-09-14",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-14-dividendos-em-alta-acoes-com-yield-atraente-apesar-da-volatilidade",
-    "slug": "2026-09-14-dividendos-em-alta-acoes-com-yield-atraente-apesar-da-volatilidade",
-    "title": "Dividendos em alta: ações com yield atraente apesar da volatilidade",
-    "category": "Investimentos",
-    "summary": "Saiba identificar ações que pagam dividendos consistentes e oferecem yield acima da média, mesmo com o Ibovespa oscilando entre 170 e 180 mil pontos.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "yield",
-      "ações"
-    ],
-    "date": "2026-09-14",
     "breaking": false
   }
 ]
