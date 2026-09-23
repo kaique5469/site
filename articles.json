@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-09-23-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
+    "slug": "2026-09-23-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
+    "title": "Ibovespa sob pressão eleitoral: o que esperar nos próximos dias",
+    "category": "Investimentos",
+    "summary": "Aprenda como a incerteza eleitoral e a queda do dólar estão afetando o Ibovespa e quais setores podem oferecer oportunidades ou riscos no curto prazo.",
+    "readTime": "6",
+    "tags": [
+      "Ibovespa",
+      "eleições"
+    ],
+    "date": "2026-09-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-23-selic-em-1425-oportunidades-em-titulos-publicos-pos-corte",
+    "slug": "2026-09-23-selic-em-1425-oportunidades-em-titulos-publicos-pos-corte",
+    "title": "Selic em 14,25%: oportunidades em títulos públicos pós-corte",
+    "category": "Renda Fixa",
+    "summary": "Veja como o ciclo de corte da Selic afeta rentabilidade de Tesouro Direto, LCIs e LCAs, e onde alocar para preservar poder de compra.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-09-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-23-volatilidade-de-maio-e-o-ibovespa-estrategias-para-navegar-a-incerteza",
+    "slug": "2026-09-23-volatilidade-de-maio-e-o-ibovespa-estrategias-para-navegar-a-incerteza",
+    "title": "Volatilidade de maio e o Ibovespa: estratégias para navegar a incerteza",
+    "category": "Renda Variável",
+    "summary": "Descubra como usar stop loss, diversificação setorial e fundos de índice para proteger sua carteira diante das oscilações do mercado.",
+    "readTime": "5",
+    "tags": [
+      "volatilidade",
+      "stop loss"
+    ],
+    "date": "2026-09-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-23-como-montar-uma-reserva-de-emergencia-com-selic-alta-e-inflacao-em-que",
+    "slug": "2026-09-23-como-montar-uma-reserva-de-emergencia-com-selic-alta-e-inflacao-em-que",
+    "title": "Como montar uma reserva de emergência com Selic alta e inflação em queda",
+    "category": "Saúde Financeira",
+    "summary": "Aprenda a calcular o valor ideal, escolher os melhores investimentos de liquidez e manter a reserva atualizada diante da mudança de juros.",
+    "readTime": "5",
+    "tags": [
+      "reserva de emergência",
+      "Tesouro Selic"
+    ],
+    "date": "2026-09-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-23-bitcoin-em-sintonia-com-o-risco-global-o-que-o-mercado-sinaliza-para-o",
+    "slug": "2026-09-23-bitcoin-em-sintonia-com-o-risco-global-o-que-o-mercado-sinaliza-para-o",
+    "title": "Bitcoin em sintonia com o risco global: o que o mercado sinaliza para o segundo semestre",
+    "category": "Criptomoedas",
+    "summary": "Entenda a correlação entre Bitcoin, volatilidade do dólar e expectativas de juros, e como ajustar sua exposição em criptoativos.",
+    "readTime": "6",
+    "tags": [
+      "Bitcoin",
+      "dólar"
+    ],
+    "date": "2026-09-23",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-23-acoes-de-dividendos-refugio-ou-armadilha-em-cenario-de-dolar-baixo",
+    "slug": "2026-09-23-acoes-de-dividendos-refugio-ou-armadilha-em-cenario-de-dolar-baixo",
+    "title": "Ações de dividendos: refúgio ou armadilha em cenário de dólar baixo",
+    "category": "Investimentos",
+    "summary": "Analise como a desvalorização do real impacta pagamentos de dividendos e quais setores oferecem sustentabilidade para investidores de renda.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "dólar baixo"
+    ],
+    "date": "2026-09-23",
+    "breaking": false
+  },
+  {
     "id": "2026-09-22-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-ano-eleit",
     "slug": "2026-09-22-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda-e-ano-eleit",
     "title": "Ibovespa perto de 176 mil: o que esperar com Selic em queda e ano eleitoral",
@@ -777,90 +861,6 @@
       "Selic"
     ],
     "date": "2026-09-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-15-dolar-em-queda-e-selic-em-corte-o-que-esperar-do-ibovespa-em-setembro",
-    "slug": "2026-09-15-dolar-em-queda-e-selic-em-corte-o-que-esperar-do-ibovespa-em-setembro",
-    "title": "Dólar em queda e Selic em corte: o que esperar do Ibovespa em setembro",
-    "category": "Investimentos",
-    "summary": "Com o dólar em mínima de dois anos e o ciclo de corte da Selic avançando, o Ibovespa enfrenta maior volatilidade. Entenda como posicionar sua carteira diante desse cenário.",
-    "readTime": "5",
-    "tags": [
-      "dólar",
-      "Selic"
-    ],
-    "date": "2026-09-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-15-renda-fixa-como-aproveitar-a-curva-de-juros-com-selic-em-1425",
-    "slug": "2026-09-15-renda-fixa-como-aproveitar-a-curva-de-juros-com-selic-em-1425",
-    "title": "Renda Fixa: como aproveitar a curva de juros com Selic em 14,25%",
-    "category": "Renda Fixa",
-    "summary": "A Selic ainda alta oferece oportunidades em títulos públicos e privados. Saiba quais papéis podem render mais enquanto o ciclo de corte se desenrola.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro",
-      "debêntures"
-    ],
-    "date": "2026-09-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-15-renda-variavel-em-ano-eleitoral-setores-que-podem-surpreender",
-    "slug": "2026-09-15-renda-variavel-em-ano-eleitoral-setores-que-podem-surpreender",
-    "title": "Renda Variável em ano eleitoral: setores que podem surpreender",
-    "category": "Renda Variável",
-    "summary": "Eleições geram cautela, mas também criam oportunidades em setores beneficiados por gastos públicos e reformas. Descubra onde olhar.",
-    "readTime": "5",
-    "tags": [
-      "eleições",
-      "setores"
-    ],
-    "date": "2026-09-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-15-saude-financeira-protegendo-seu-orcamento-contra-a-inflacao-persistent",
-    "slug": "2026-09-15-saude-financeira-protegendo-seu-orcamento-contra-a-inflacao-persistent",
-    "title": "Saúde Financeira: protegendo seu orçamento contra a inflação persistente",
-    "category": "Saúde Financeira",
-    "summary": "Com o IPCA-15 ainda acima do objetivo, é crucial rever gastos e proteger o poder de compra. Veja ações práticas para equilibrar as contas.",
-    "readTime": "5",
-    "tags": [
-      "inflação",
-      "orçamento"
-    ],
-    "date": "2026-09-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-15-bitcoin-e-criptos-volatilidade-global-espelha-movimentos-do-mercado-tr",
-    "slug": "2026-09-15-bitcoin-e-criptos-volatilidade-global-espelha-movimentos-do-mercado-tr",
-    "title": "Bitcoin e criptos: volatilidade global espelha movimentos do mercado tradicional",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin acompanha a oscilação dos ativos de risco, refletindo apetite global por risco. Entenda os fatores que impulsionam essa correlação.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-09-15",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-15-etfs-de-dividendos-alternativa-estavel-diante-da-volatilidade-do-ibove",
-    "slug": "2026-09-15-etfs-de-dividendos-alternativa-estavel-diante-da-volatilidade-do-ibove",
-    "title": "ETFs de dividendos: alternativa estável diante da volatilidade do Ibovespa",
-    "category": "Investimentos",
-    "summary": "Com o Ibovespa oscilando, ETFs focados em dividendos oferecem renda passiva e menor volatilidade. Saiba como escolher os melhores.",
-    "readTime": "5",
-    "tags": [
-      "ETF",
-      "dividendos"
-    ],
-    "date": "2026-09-15",
     "breaking": false
   }
 ]
