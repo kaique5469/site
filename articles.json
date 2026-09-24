@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-09-24-selic-em-queda-o-que-o-corte-de-1425-significa-para-seu-bolso-hoje",
+    "slug": "2026-09-24-selic-em-queda-o-que-o-corte-de-1425-significa-para-seu-bolso-hoje",
+    "title": "Selic em queda: o que o corte de 14,25% significa para seu bolso hoje",
+    "category": "Investimentos",
+    "summary": "O Banco Central reduziu a Selic para 14,25% ao ano, iniciando um ciclo de cortes que afeta renda fixa, ações e câmbio. Entenda como proteger seus investimentos e aproveitar oportunidades neste cenário.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-09-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-24-tesouro-direto-posselic-quais-titulos-comprar-agora-com-juros-em-queda",
+    "slug": "2026-09-24-tesouro-direto-posselic-quais-titulos-comprar-agora-com-juros-em-queda",
+    "title": "Tesouro Direto pós‑Selic: quais títulos comprar agora com juros em queda",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25%, os rendimentos do Tesouro Direto mudam. Descubra quais papéis oferecem melhor relação risco‑retorno e como montar uma carteira protegida contra inflação.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "IPCA"
+    ],
+    "date": "2026-09-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-24-ibovespa-em-176-mil-pontos-setores-que-podem-liderar-a-recuperacao-pos",
+    "slug": "2026-09-24-ibovespa-em-176-mil-pontos-setores-que-podem-liderar-a-recuperacao-pos",
+    "title": "Ibovespa em 176 mil pontos: setores que podem liderar a recuperação pós‑corte",
+    "category": "Renda Variável",
+    "summary": "O Ibovespa está próximo de 176.000 pontos, refletindo otimismo cauteloso após o início do ciclo de corte da Selic. Veja quais setores têm maior potencial de valorização nos próximos meses.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "setores"
+    ],
+    "date": "2026-09-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-24-saude-financeira-em-tempos-de-juros-altos-como-manter-o-equilibrio",
+    "slug": "2026-09-24-saude-financeira-em-tempos-de-juros-altos-como-manter-o-equilibrio",
+    "title": "Saúde financeira em tempos de juros altos: como manter o equilíbrio",
+    "category": "Saúde Financeira",
+    "summary": "Com a Selic ainda elevada, controlar dívidas e poupar se torna desafiador. Aprenda estratégias práticas para reduzir custos, renegociar empréstimos e construir reserva de emergência.",
+    "readTime": "5",
+    "tags": [
+      "dívidas",
+      "reserva de emergência"
+    ],
+    "date": "2026-09-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-24-bitcoin-e-altcoins-o-que-a-volatilidade-global-ensina-para-investidore",
+    "slug": "2026-09-24-bitcoin-e-altcoins-o-que-a-volatilidade-global-ensina-para-investidore",
+    "title": "Bitcoin e altcoins: o que a volatilidade global ensina para investidores em 2026",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin segue acompanhando as oscilações dos mercados tradicionais, refletindo aversão ao risco. Entenda como usar essa correlação a seu favor e quais cuidados tomar ao alocar parte da carteira em cripto.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-09-24",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-24-planejamento-tributario-para-investidores-como-reduzir-o-impacto-do-ir",
+    "slug": "2026-09-24-planejamento-tributario-para-investidores-como-reduzir-o-impacto-do-ir",
+    "title": "Planejamento tributário para investidores: como reduzir o impacto do IR em 2026",
+    "category": "Investimentos",
+    "summary": "Com a mudança nas alíquotas e regras do imposto de renda, investidores precisam rever suas estratégias. Descubra quais instrumentos oferecem maior eficiência tributária e como organizar suas operações.",
+    "readTime": "5",
+    "tags": [
+      "imposto de renda",
+      "tributação"
+    ],
+    "date": "2026-09-24",
+    "breaking": false
+  },
+  {
     "id": "2026-09-23-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
     "slug": "2026-09-23-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
     "title": "Ibovespa sob pressão eleitoral: o que esperar nos próximos dias",
@@ -775,90 +859,6 @@
       "fiis",
       "etfs",
       "renda passiva"
-    ],
-    "date": "2026-09-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-16-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda",
-    "slug": "2026-09-16-ibovespa-perto-de-176-mil-o-que-esperar-com-selic-em-queda",
-    "title": "Ibovespa perto de 176 mil: o que esperar com Selic em queda?",
-    "category": "Investimentos",
-    "summary": "O Ibovespa ronda os 176.000 pontos enquanto a Selic cai para 14,25% e o dólar chega ao menor nível em dois anos. Entenda como esses movimentos afetam suas aplicações e quais setores podem se beneficiar.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic"
-    ],
-    "date": "2026-09-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-16-tesouro-direto-rende-mais-com-selic-em-queda-vale-a-pena-ficar",
-    "slug": "2026-09-16-tesouro-direto-rende-mais-com-selic-em-queda-vale-a-pena-ficar",
-    "title": "Tesouro Direto rende mais com Selic em queda: vale a pena ficar?",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em trajetória de baixa, os títulos públicos oferecem rendimentos atrativos, mas há riscos de reinvestimento. Veja como montar uma ladder estratégica.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "ladder"
-    ],
-    "date": "2026-09-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-16-setores-que-podem-sobreviver-ao-ano-eleitoral-onde-apostar-na-bolsa",
-    "slug": "2026-09-16-setores-que-podem-sobreviver-ao-ano-eleitoral-onde-apostar-na-bolsa",
-    "title": "Setores que podem sobreviver ao ano eleitoral: onde apostar na bolsa?",
-    "category": "Renda Variável",
-    "summary": "Em ano de eleição, a volatilidade costuma subir e setores defensivos ganham espaço. Descubra quais indústrias tendem a se sair melhor independentemente do resultado.",
-    "readTime": "5",
-    "tags": [
-      "ano eleitoral",
-      "setores defensivos"
-    ],
-    "date": "2026-09-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-16-como-proteger-seu-orcamento-diante-da-inflacao-persistente",
-    "slug": "2026-09-16-como-proteger-seu-orcamento-diante-da-inflacao-persistente",
-    "title": "Como proteger seu orçamento diante da inflação persistente?",
-    "category": "Saúde Financeira",
-    "summary": "Com o IPCA-15 ainda acima da meta, famílias precisam ajustar gastos e proteger o poder de compra. Estratégias práticas para manter as contas em dia.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "inflação"
-    ],
-    "date": "2026-09-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-16-bitcoin-em-meio-a-queda-do-dolar-correlacao-ou-oportunidade",
-    "slug": "2026-09-16-bitcoin-em-meio-a-queda-do-dolar-correlacao-ou-oportunidade",
-    "title": "Bitcoin em meio à queda do dólar: correlação ou oportunidade?",
-    "category": "Criptomoedas",
-    "summary": "Enquanto o dólar perde força frente ao real, o Bitcoin segue volátil. Entenda se a relação inversa entre as moedas pode ser usada em estratégias de hedge.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "dólar"
-    ],
-    "date": "2026-09-16",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-16-fundos-imobiliarios-aproveitam-queda-do-juros-onde-encontrar-os-melhor",
-    "slug": "2026-09-16-fundos-imobiliarios-aproveitam-queda-do-juros-onde-encontrar-os-melhor",
-    "title": "Fundos imobiliários aproveitam queda do juros: onde encontrar os melhores rendimentos?",
-    "category": "Investimentos",
-    "summary": "Com a Selic em trajetória de baixa, os FIIs voltam a atrair investidores em busca de renda passiva. Saiba como escolher fundos com bons fundamentos e distribuição consistente.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "Selic"
     ],
     "date": "2026-09-16",
     "breaking": false
