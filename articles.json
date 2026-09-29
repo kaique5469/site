@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-09-29-ibovespa-sob-pressao-eleicoes-e-juros-altos-criam-cenario-de-cautela",
+    "slug": "2026-09-29-ibovespa-sob-pressao-eleicoes-e-juros-altos-criam-cenario-de-cautela",
+    "title": "Ibovespa sob pressão: eleições e juros altos criam cenário de cautela",
+    "category": "Investimentos",
+    "summary": "Entenda como a combinação de ciclo de corte da Selic, dólar fraco e ano eleitoral afeta o Ibovespa e quais setores podem sofrer menos.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-09-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-29-corte-da-selic-e-oportunidades-em-titulos-publicos-posfixados",
+    "slug": "2026-09-29-corte-da-selic-e-oportunidades-em-titulos-publicos-posfixados",
+    "title": "Corte da Selic e oportunidades em títulos públicos pós‑fixados",
+    "category": "Renda Fixa",
+    "summary": "Veja como a redução esperada da Selic afeta rentabilidade de Tesouro Direto e quais estratégias de renda fixa podem ganhar frente ao cenário atual.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Tesouro Direto"
+    ],
+    "date": "2026-09-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-29-setores-que-podem-se-beneficiar-do-ano-eleitoral-apesar-da-volatilidad",
+    "slug": "2026-09-29-setores-que-podem-se-beneficiar-do-ano-eleitoral-apesar-da-volatilidad",
+    "title": "Setores que podem se beneficiar do ano eleitoral apesar da volatilidade",
+    "category": "Renda Variável",
+    "summary": "Descubra quais indústrias tendem a receber estímulos fiscais ou regulatórios em anos de eleição e como posicionar sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "eleições",
+      "setores"
+    ],
+    "date": "2026-09-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-29-como-proteger-seu-orcamento-com-selic-alta-e-dolar-em-queda",
+    "slug": "2026-09-29-como-proteger-seu-orcamento-com-selic-alta-e-dolar-em-queda",
+    "title": "Como proteger seu orçamento com Selic alta e dólar em queda",
+    "category": "Saúde Financeira",
+    "summary": "Dicas práticas para administrar dívidas, reservas e investimentos pessoais diante de juros elevados e câmbio favorável.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "dívidas"
+    ],
+    "date": "2026-09-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-29-bitcoin-e-altcoins-seguem-a-volatilidade-global-o-que-esperar-em-setem",
+    "slug": "2026-09-29-bitcoin-e-altcoins-seguem-a-volatilidade-global-o-que-esperar-em-setem",
+    "title": "Bitcoin e altcoins seguem a volatilidade global: o que esperar em setembro",
+    "category": "Criptomoedas",
+    "summary": "Analise a correlação entre criptoativos e mercados tradicionais diante da queda do dólar e das expectativas de corte de juros.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-09-29",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-29-etfs-de-dividendos-ganham-espaco-diante-de-juros-elevados-e-busca-por-",
+    "slug": "2026-09-29-etfs-de-dividendos-ganham-espaco-diante-de-juros-elevados-e-busca-por-",
+    "title": "ETFs de dividendos ganham espaço diante de juros elevados e busca por renda passiva",
+    "category": "Investimentos",
+    "summary": "Veja como os ETFs focados em dividendos podem oferecer fluxo de caixa estável mesmo com Selic alta e como escolher os melhores para sua carteira.",
+    "readTime": "5",
+    "tags": [
+      "ETFs",
+      "dividendos"
+    ],
+    "date": "2026-09-29",
+    "breaking": false
+  },
+  {
     "id": "2026-09-28-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "slug": "2026-09-28-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
     "title": "Dólar a R$ 4,91: Oportunidade de compra ou sinal de alerta?",
@@ -771,90 +855,6 @@
       "dólar"
     ],
     "date": "2026-09-18",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-17-selic-em-queda-como-o-novo-corte-afeta-seus-investimentos-agora",
-    "slug": "2026-09-17-selic-em-queda-como-o-novo-corte-afeta-seus-investimentos-agora",
-    "title": "Selic em queda: como o novo corte afeta seus investimentos agora",
-    "category": "Investimentos",
-    "summary": "O corte da Selic para 14,25% afeta diretamente renda fixa, ações e estratégias de alocação. Entenda como ajustar sua carteira nesse novo cenário de juros em baixa.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-09-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-17-tesouro-direto-yields-caem-com-selic-vale-ainda-comprar",
-    "slug": "2026-09-17-tesouro-direto-yields-caem-com-selic-vale-ainda-comprar",
-    "title": "Tesouro Direto: yields caem com Selic, vale ainda comprar?",
-    "category": "Renda Fixa",
-    "summary": "Com os yields do Tesouro Direto em queda, vale repensar a hora de comprar ou aguardar melhores oportunidades. Analisamos o impacto da Selic e da inflação sobre os títulos públicos.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "yields"
-    ],
-    "date": "2026-09-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-17-ibovespa-volatil-eleicoes-e-dolar-fraco-criam-cenario-de-risco",
-    "slug": "2026-09-17-ibovespa-volatil-eleicoes-e-dolar-fraco-criam-cenario-de-risco",
-    "title": "Ibovespa volátil: eleições e dólar fraco criam cenário de risco",
-    "category": "Renda Variável",
-    "summary": "O Ibovespa ronda 176.000 pontos enquanto o dólar cai e o ano eleitoral aumenta a cautela. Veja quais setores são mais sensíveis e como proteger sua exposição à renda variável.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "eleições"
-    ],
-    "date": "2026-09-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-17-saude-financeira-em-ano-eleitoral-proteja-seu-orcamento-contra-surpres",
-    "slug": "2026-09-17-saude-financeira-em-ano-eleitoral-proteja-seu-orcamento-contra-surpres",
-    "title": "Saúde financeira em ano eleitoral: proteja seu orçamento contra surpresas",
-    "category": "Saúde Financeira",
-    "summary": "Em ano eleitoral, manter o orçamento sob controle é essencial para evitar surpresas. Damos passos práticos para revisar gastos, fortalecer a reserva e investir com segurança.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "reserva de emergência"
-    ],
-    "date": "2026-09-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-17-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-nos-proximos-meses",
-    "slug": "2026-09-17-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-nos-proximos-meses",
-    "title": "Bitcoin em meio à volatilidade global: o que esperar nos próximos meses",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin segue a volatilidade do mercado global, influenciada pelo medo, pelo dólar e por eventos regulatórios. Saiba como posicionar sua pequena alocação em criptos com menor risco.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-09-17",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-17-fundos-imobiliarios-oportunidade-com-juros-em-queda-e-aluguel-estavel",
-    "slug": "2026-09-17-fundos-imobiliarios-oportunidade-com-juros-em-queda-e-aluguel-estavel",
-    "title": "Fundos imobiliários: oportunidade com juros em queda e aluguel estável",
-    "category": "Investimentos",
-    "summary": "Com juros em queda, os fundos imobiliários de tijolo oferecem yields atraentes e fluxo de caixa estável. Descubra como selecionar os melhores FIIs e observar os riscos de vacância.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "dividend yield"
-    ],
-    "date": "2026-09-17",
     "breaking": false
   }
 ]
