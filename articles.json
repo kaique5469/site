@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-09-30-ibovespa-perto-de-176-mil-o-que-esperar-com-dolar-fraco-e-selic-em-que",
+    "slug": "2026-09-30-ibovespa-perto-de-176-mil-o-que-esperar-com-dolar-fraco-e-selic-em-que",
+    "title": "Ibovespa perto de 176 mil: o que esperar com dólar fraco e Selic em queda",
+    "category": "Investimentos",
+    "summary": "Aprenda como a combinação de Ibovespa elevado, dólar em baixa e início do corte de Selic afeta suas alocações e quais setores podem se beneficiar.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Dólar",
+      "Selic"
+    ],
+    "date": "2026-09-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-30-selic-em-queda-como-proteger-sua-carteira-de-renda-fixa-com-titulos-in",
+    "slug": "2026-09-30-selic-em-queda-como-proteger-sua-carteira-de-renda-fixa-com-titulos-in",
+    "title": "Selic em queda: como proteger sua carteira de renda fixa com títulos indexados à inflação",
+    "category": "Renda Fixa",
+    "summary": "Descubra quais estratégias de renda fixa funcionam melhor quando o BC inicia cortes e a inflação ainda está no radar.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Tesouro IPCA+",
+      "CDB"
+    ],
+    "date": "2026-09-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-30-setores-que-podem-sair-ganhando-com-dolar-baixo-e-ciclo-de-juros-em-ba",
+    "slug": "2026-09-30-setores-que-podem-sair-ganhando-com-dolar-baixo-e-ciclo-de-juros-em-ba",
+    "title": "Setores que podem sair ganhando com dólar baixo e ciclo de juros em baixa",
+    "category": "Renda Variável",
+    "summary": "Analisamos quais indústrias tendem a se beneficiar quando o real se valoriza e os juros começam a cair, orientando suas escolhas de ações.",
+    "readTime": "5",
+    "tags": [
+      "Varejo",
+      "Consumo",
+      "Dólar"
+    ],
+    "date": "2026-09-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-30-planejamento-financeiro-em-ano-eleitoral-como-manter-o-controle-apesar",
+    "slug": "2026-09-30-planejamento-financeiro-em-ano-eleitoral-como-manter-o-controle-apesar",
+    "title": "Planejamento financeiro em ano eleitoral: como manter o controle apesar da volatilidade",
+    "category": "Saúde Financeira",
+    "summary": "Dicas práticas para proteger seu orçamento e investimentos quando a incerteza política aumenta e os mercados oscilam.",
+    "readTime": "5",
+    "tags": [
+      "Planejamento",
+      "Reserva de emergência",
+      "IPCA-15"
+    ],
+    "date": "2026-09-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-30-bitcoin-e-altcoins-seguem-o-tom-do-mercado-global-o-que-esperar-nos-pr",
+    "slug": "2026-09-30-bitcoin-e-altcoins-seguem-o-tom-do-mercado-global-o-que-esperar-nos-pr",
+    "title": "Bitcoin e altcoins seguem o tom do mercado global: o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "Entenda como a correlação com ativos de risco e a política de juros americanos influenciam as criptomoedas, mesmo em um ambiente de real mais forte.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "ETF",
+      "Dólar"
+    ],
+    "date": "2026-09-30",
+    "breaking": false
+  },
+  {
+    "id": "2026-09-30-dividendos-em-alta-como-selecionar-acoes-que-pagam-bem-mesmo-com-juros",
+    "slug": "2026-09-30-dividendos-em-alta-como-selecionar-acoes-que-pagam-bem-mesmo-com-juros",
+    "title": "Dividendos em alta: como selecionar ações que pagam bem mesmo com juros em baixa",
+    "category": "Investimentos",
+    "summary": "Aprenda a identificar empresas com histórico sólido de proventos e payout sustentável, garantindo renda passiva em um cenário de Selic em trajetória de descida.",
+    "readTime": "5",
+    "tags": [
+      "Dividendos",
+      "Yield",
+      "Selic"
+    ],
+    "date": "2026-09-30",
+    "breaking": false
+  },
+  {
     "id": "2026-09-29-ibovespa-sob-pressao-eleicoes-e-juros-altos-criam-cenario-de-cautela",
     "slug": "2026-09-29-ibovespa-sob-pressao-eleicoes-e-juros-altos-criam-cenario-de-cautela",
     "title": "Ibovespa sob pressão: eleições e juros altos criam cenário de cautela",
@@ -763,96 +853,6 @@
       "dividendos",
       "exportadores",
       "juros reais"
-    ],
-    "date": "2026-09-18",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-18-ibovespa-sob-pressao-juros-altos-e-risco-eleitoral-pesam-no-pregao",
-    "slug": "2026-09-18-ibovespa-sob-pressao-juros-altos-e-risco-eleitoral-pesam-no-pregao",
-    "title": "Ibovespa sob pressão: juros altos e risco eleitoral pesam no pregão",
-    "category": "Investimentos",
-    "summary": "O Ibovespa ronda 176 mil pontos enquanto a Selic permanece em 14,25% e o ano eleitoral aumenta a aversão ao risco. Entenda como esses fatores afetam setores-chave e quais estratégias podem proteger sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic",
-      "eleições"
-    ],
-    "date": "2026-09-18",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-18-tesouro-direto-atrai-fluxo-com-queda-do-dolar-e-expectativa-de-corte-d",
-    "slug": "2026-09-18-tesouro-direto-atrai-fluxo-com-queda-do-dolar-e-expectativa-de-corte-d",
-    "title": "Tesouro Direto atrai fluxo com queda do dólar e expectativa de corte da Selic",
-    "category": "Renda Fixa",
-    "summary": "Com o dólar em R$ 4,91 e a Selic em trajetória de descenso, os títulos públicos ganham atratividade para investidores conservadores. Veja quais são as melhores opções de vencimento e como montar uma ladder eficaz.",
-    "readTime": "6",
-    "tags": [
-      "Tesouro Direto",
-      "Selic",
-      "dólar"
-    ],
-    "date": "2026-09-18",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-18-setor-de-tecnologia-lidera-recuperacao-das-acoes-apesar-do-cenario-ele",
-    "slug": "2026-09-18-setor-de-tecnologia-lidera-recuperacao-das-acoes-apesar-do-cenario-ele",
-    "title": "Setor de tecnologia lidera recuperação das ações apesar do cenário eleitoral",
-    "category": "Renda Variável",
-    "summary": "Mesmo com volatilidade no Ibovespa, empresas de software e semicondutores mostraram resiliência, impulsionadas por resultados sólidos e demanda global. Analisamos os principais papéis e os riscos a observar.",
-    "readTime": "5",
-    "tags": [
-      "tecnologia",
-      "ações",
-      "eleitos"
-    ],
-    "date": "2026-09-18",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-18-como-organizar-financas-pessoais-com-inflacao-alta-e-juros-elevados",
-    "slug": "2026-09-18-como-organizar-financas-pessoais-com-inflacao-alta-e-juros-elevados",
-    "title": "Como organizar finanças pessoais com inflação alta e juros elevados",
-    "category": "Saúde Financeira",
-    "summary": "Com IPCA-15 ainda acima da meta e a Selic em 14,25%, controlar dívidas e construir reserva de emergência é essencial. Damos um passo a passo prático para equilibrar orçamento e investir com segurança.",
-    "readTime": "7",
-    "tags": [
-      "finanças pessoais",
-      "inflação",
-      "dívidas"
-    ],
-    "date": "2026-09-18",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-18-bitcoin-estabiliza-em-us-28k-enquanto-mercado-global-mostra-sinais-de-",
-    "slug": "2026-09-18-bitcoin-estabiliza-em-us-28k-enquanto-mercado-global-mostra-sinais-de-",
-    "title": "Bitcoin estabiliza em US$ 28k enquanto mercado global mostra sinais de flexibilização",
-    "category": "Criptomoedas",
-    "summary": "Após forte correlação com ações de risco, o BTC mostrou menor volatilidade e começou a acumular posições de longo prazo. Entenda o que está impulsionando essa estabilidade e quais cenários podem disparar nova alta.",
-    "readTime": "6",
-    "tags": [
-      "Bitcoin",
-      "cripto",
-      "volatilidade"
-    ],
-    "date": "2026-09-18",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-18-fundos-imobiliarios-logisticos-ganham-com-queda-do-dolar-e-demanda-por",
-    "slug": "2026-09-18-fundos-imobiliarios-logisticos-ganham-com-queda-do-dolar-e-demanda-por",
-    "title": "Fundos imobiliários logísticos ganham com queda do dólar e demanda por galpões",
-    "category": "Investimentos",
-    "summary": "Com o dólar mais barato, custos de construção caem e a demanda por galpões eleva os rendimentos dos FIIs de logística. Veja como selecionar fundos com bons fundamentos e proteger seu portfólio contra vacância.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "logística",
-      "dólar"
     ],
     "date": "2026-09-18",
     "breaking": false
