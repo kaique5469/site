@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-10-02-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "slug": "2026-10-02-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
+    "title": "Dólar a R$ 4,91: Oportunidade de Compra ou Sinal de Alerta?",
+    "category": "Investimentos",
+    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de dolarizar a carteira ou se a tendência de queda persiste.",
+    "readTime": "4",
+    "tags": [
+      "Dólar",
+      "Diversificação",
+      "Câmbio"
+    ],
+    "date": "2026-10-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-02-selic-a-1425-como-ajustar-sua-carteira-no-ciclo-de-corte",
+    "slug": "2026-10-02-selic-a-1425-como-ajustar-sua-carteira-no-ciclo-de-corte",
+    "title": "Selic a 14,25%: Como Ajustar sua Carteira no Ciclo de Corte",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic iniciando sua trajetória de queda, os títulos prefixados e indexados ao IPCA ganham protagonismo. Aprenda a migrar seus recursos.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Tesouro Direto",
+      "Renda Fixa"
+    ],
+    "date": "2026-10-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-02-ibovespa-a-176k-o-dilema-do-ano-eleitoral",
+    "slug": "2026-10-02-ibovespa-a-176k-o-dilema-do-ano-eleitoral",
+    "title": "Ibovespa a 176k: O Dilema do Ano Eleitoral",
+    "category": "Renda Variável",
+    "summary": "O mercado oscila entre a euforia dos pontos altos e a cautela política. Entenda quais setores tendem a resistir melhor à volatilidade.",
+    "readTime": "6",
+    "tags": [
+      "Ibovespa",
+      "Ações",
+      "Eleições"
+    ],
+    "date": "2026-10-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-02-inflacao-no-radar-como-proteger-seu-poder-de-compra",
+    "slug": "2026-10-02-inflacao-no-radar-como-proteger-seu-poder-de-compra",
+    "title": "Inflação no Radar: Como Proteger seu Poder de Compra",
+    "category": "Saúde Financeira",
+    "summary": "Com a inflação sob vigilância, a gestão do orçamento doméstico torna-se vital. Dicas práticas para evitar a erosão do seu salário.",
+    "readTime": "4",
+    "tags": [
+      "IPCA",
+      "Orçamento",
+      "Economia"
+    ],
+    "date": "2026-10-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-02-bitcoin-e-a-nova-ordem-volatilidade-ou-amadurecimento",
+    "slug": "2026-10-02-bitcoin-e-a-nova-ordem-volatilidade-ou-amadurecimento",
+    "title": "Bitcoin e a Nova Ordem: Volatilidade ou Amadurecimento?",
+    "category": "Criptomoedas",
+    "summary": "As criptomoedas seguem a tendência global de risco. Analisamos se o cenário atual favorece a entrada de novos investidores.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "Cripto",
+      "Blockchain"
+    ],
+    "date": "2026-10-02",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-02-o-plano-de-acao-para-outubro-onde-colocar-seu-dinheiro",
+    "slug": "2026-10-02-o-plano-de-acao-para-outubro-onde-colocar-seu-dinheiro",
+    "title": "O Plano de Ação para Outubro: Onde Colocar seu Dinheiro",
+    "category": "Investimentos",
+    "summary": "Um resumo executivo das melhores movimentações para o mês, equilibrando risco, liquidez e rentabilidade.",
+    "readTime": "4",
+    "tags": [
+      "Estratégia",
+      "Carteira",
+      "Mercado"
+    ],
+    "date": "2026-10-02",
+    "breaking": false
+  },
+  {
     "id": "2026-10-01-selic-em-queda-como-o-ibovespa-reage-e-o-que-investir-agora",
     "slug": "2026-10-01-selic-em-queda-como-o-ibovespa-reage-e-o-que-investir-agora",
     "title": "Selic em queda: como o Ibovespa reage e o que investir agora",
@@ -759,96 +849,6 @@
       "Selic"
     ],
     "date": "2026-09-22",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-21-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa-e-do-dolar",
-    "slug": "2026-09-21-selic-em-1425-e-corte-iminente-o-que-esperar-do-ibovespa-e-do-dolar",
-    "title": "Selic em 14,25% e corte iminente: o que esperar do Ibovespa e do dólar",
-    "category": "Investimentos",
-    "summary": "O Banco Central manteve a Selic em 14,25% e sinaliza corte iminente; entenda como isso afeta ações, câmbio e quais estratégias adotar agora.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Ibovespa",
-      "dólar"
-    ],
-    "date": "2026-09-21",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-21-tesouro-direto-rende-mais-com-selic-alta-estrategias-para-2026",
-    "slug": "2026-09-21-tesouro-direto-rende-mais-com-selic-alta-estrategias-para-2026",
-    "title": "Tesouro Direto rende mais com Selic alta: estratégias para 2026",
-    "category": "Renda Fixa",
-    "summary": "Com Selic em 14,25%, os títulos públicos oferecem atrativos rendimentos; veja como montar uma carteira de renda fixa usando Tesouro Selic, IPCA+ e ladder de vencimentos.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Direto",
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-09-21",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-21-ibovespa-em-176-mil-pontos-setores-que-podem-outperforme-diante-da-que",
-    "slug": "2026-09-21-ibovespa-em-176-mil-pontos-setores-que-podem-outperforme-diante-da-que",
-    "title": "Ibovespa em 176 mil pontos: setores que podem outperforme diante da queda do dólar",
-    "category": "Renda Variável",
-    "summary": "O Ibovespa está perto de 176.000 pontos enquanto o dólar cai para R$ 4,91; descubra quais setores se beneficiam da desvalorização cambial e como posicionar sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "dólar",
-      "setores"
-    ],
-    "date": "2026-09-21",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-21-como-proteger-seu-orcamento-diante-da-inflacao-persistente-e-juros-alt",
-    "slug": "2026-09-21-como-proteger-seu-orcamento-diante-da-inflacao-persistente-e-juros-alt",
-    "title": "Como proteger seu orçamento diante da inflação persistente e juros altos",
-    "category": "Saúde Financeira",
-    "summary": "Com IPCA-15 pressionado e Selic em 14,25%, aprenda a controlar gastos, negociar contas e construir uma reserva de emergência sem comprometer seu padrão de vida.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "inflação",
-      "reserva"
-    ],
-    "date": "2026-09-21",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-21-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-ate-o-fim-de-2026",
-    "slug": "2026-09-21-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-ate-o-fim-de-2026",
-    "title": "Bitcoin em meio à volatilidade global: o que esperar até o fim de 2026",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin segue a volatilidade dos mercados globais, influenciado por juros dos EUA, regulamentação brasileira e adoção institucional; veja como alocar com prudência.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "cripto",
-      "volatilidade"
-    ],
-    "date": "2026-09-21",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-21-fundos-imobiliarios-rendem-acima-de-12-com-juros-altos-vale-a-pena-ent",
-    "slug": "2026-09-21-fundos-imobiliarios-rendem-acima-de-12-com-juros-altos-vale-a-pena-ent",
-    "title": "Fundos imobiliários rendem acima de 12% com juros altos: vale a pena entrar agora?",
-    "category": "Investimentos",
-    "summary": "Com Selic elevada, muitos FIIs oferecem dividendos atrativos; descubra quais setores são mais resilientes e como selecionar fundos com baixo risco de vacância.",
-    "readTime": "5",
-    "tags": [
-      "FIIs",
-      "dividendos",
-      "renda passiva"
-    ],
-    "date": "2026-09-21",
     "breaking": false
   }
 ]
