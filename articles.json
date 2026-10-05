@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-10-05-ibovespa-sob-pressao-eleicao-e-juros-altos-definem-rumo-do-mercado",
+    "slug": "2026-10-05-ibovespa-sob-pressao-eleicao-e-juros-altos-definem-rumo-do-mercado",
+    "title": "Ibovespa sob pressão: eleição e juros altos definem rumo do mercado",
+    "category": "Investimentos",
+    "summary": "Entenda como a combinação de ano eleitoral e Selic elevada afeta o Ibovespa e quais setores podem se destacar nos próximos meses.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleição 2026",
+      "Selic"
+    ],
+    "date": "2026-10-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-05-selic-em-queda-como-aproveitar-o-ciclo-de-corte-nos-titulos-publicos",
+    "slug": "2026-10-05-selic-em-queda-como-aproveitar-o-ciclo-de-corte-nos-titulos-publicos",
+    "title": "Selic em queda: como aproveitar o ciclo de corte nos títulos públicos",
+    "category": "Renda Fixa",
+    "summary": "Aprenda a posicionar sua carteira de renda fixa diante da redução esperada da Selic e quais papéis oferecem melhor relação risco‑retorno.",
+    "readTime": "6",
+    "tags": [
+      "Selic",
+      "LTN",
+      "debêntures incentivadas"
+    ],
+    "date": "2026-10-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-05-setores-defensivos-ganham-espaco-no-ano-eleitoral",
+    "slug": "2026-10-05-setores-defensivos-ganham-espaco-no-ano-eleitoral",
+    "title": "Setores defensivos ganham espaço no ano eleitoral",
+    "category": "Renda Variável",
+    "summary": "Descubra quais setores tendem a outperforme em períodos de alta incerteza política e como montar uma carteira equilibrada para 2026.",
+    "readTime": "5",
+    "tags": [
+      "setores defensivos",
+      "ano eleitoral",
+      "ETF"
+    ],
+    "date": "2026-10-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-05-saude-financeira-como-proteger-seu-orcamento-com-juros-altos",
+    "slug": "2026-10-05-saude-financeira-como-proteger-seu-orcamento-com-juros-altos",
+    "title": "Saúde financeira: como proteger seu orçamento com juros altos",
+    "category": "Saúde Financeira",
+    "summary": "Stratégias práticas para reduzir dívidas, aumentar reserva de emergência e aproveitar os altos rendimentos das aplicações conservadoras.",
+    "readTime": "4",
+    "tags": [
+      "orçamento",
+      "reserva de emergência",
+      "CDB"
+    ],
+    "date": "2026-10-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-05-bitcoin-em-sintonia-com-a-volatilidade-global-o-que-esperar-nos-proxim",
+    "slug": "2026-10-05-bitcoin-em-sintonia-com-a-volatilidade-global-o-que-esperar-nos-proxim",
+    "title": "Bitcoin em sintonia com a volatilidade global: o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "Entenda a correlação entre o Bitcoin, o risco‑on/off dos mercados tradicionais e como alocar uma pequena parcela da carteira sem comprometer a saúde financeira.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade",
+      "dollar-cost averaging"
+    ],
+    "date": "2026-10-05",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-05-dividendos-em-alta-acoes-que-pagam-bem-apesar-da-selic-elevada",
+    "slug": "2026-10-05-dividendos-em-alta-acoes-que-pagam-bem-apesar-da-selic-elevada",
+    "title": "Dividendos em alta: ações que pagam bem apesar da Selic elevada",
+    "category": "Investimentos",
+    "summary": "Saiba identificar empresas com política de dividendos sustentável e como usar esses proventos para melhorar o retorno total da carteira em ambiente de juros altos.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "yield",
+      "ação"
+    ],
+    "date": "2026-10-05",
+    "breaking": false
+  },
+  {
     "id": "2026-10-02-ibovespa-perto-de-176-mil-como-aproveitar-a-volatilidade-de-maio",
     "slug": "2026-10-02-ibovespa-perto-de-176-mil-como-aproveitar-a-volatilidade-de-maio",
     "title": "Ibovespa perto de 176 mil: como aproveitar a volatilidade de maio",
@@ -765,90 +855,6 @@
       "tributação"
     ],
     "date": "2026-09-24",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-23-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
-    "slug": "2026-09-23-ibovespa-sob-pressao-eleitoral-o-que-esperar-nos-proximos-dias",
-    "title": "Ibovespa sob pressão eleitoral: o que esperar nos próximos dias",
-    "category": "Investimentos",
-    "summary": "Aprenda como a incerteza eleitoral e a queda do dólar estão afetando o Ibovespa e quais setores podem oferecer oportunidades ou riscos no curto prazo.",
-    "readTime": "6",
-    "tags": [
-      "Ibovespa",
-      "eleições"
-    ],
-    "date": "2026-09-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-23-selic-em-1425-oportunidades-em-titulos-publicos-pos-corte",
-    "slug": "2026-09-23-selic-em-1425-oportunidades-em-titulos-publicos-pos-corte",
-    "title": "Selic em 14,25%: oportunidades em títulos públicos pós-corte",
-    "category": "Renda Fixa",
-    "summary": "Veja como o ciclo de corte da Selic afeta rentabilidade de Tesouro Direto, LCIs e LCAs, e onde alocar para preservar poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "renda fixa"
-    ],
-    "date": "2026-09-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-23-volatilidade-de-maio-e-o-ibovespa-estrategias-para-navegar-a-incerteza",
-    "slug": "2026-09-23-volatilidade-de-maio-e-o-ibovespa-estrategias-para-navegar-a-incerteza",
-    "title": "Volatilidade de maio e o Ibovespa: estratégias para navegar a incerteza",
-    "category": "Renda Variável",
-    "summary": "Descubra como usar stop loss, diversificação setorial e fundos de índice para proteger sua carteira diante das oscilações do mercado.",
-    "readTime": "5",
-    "tags": [
-      "volatilidade",
-      "stop loss"
-    ],
-    "date": "2026-09-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-23-como-montar-uma-reserva-de-emergencia-com-selic-alta-e-inflacao-em-que",
-    "slug": "2026-09-23-como-montar-uma-reserva-de-emergencia-com-selic-alta-e-inflacao-em-que",
-    "title": "Como montar uma reserva de emergência com Selic alta e inflação em queda",
-    "category": "Saúde Financeira",
-    "summary": "Aprenda a calcular o valor ideal, escolher os melhores investimentos de liquidez e manter a reserva atualizada diante da mudança de juros.",
-    "readTime": "5",
-    "tags": [
-      "reserva de emergência",
-      "Tesouro Selic"
-    ],
-    "date": "2026-09-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-23-bitcoin-em-sintonia-com-o-risco-global-o-que-o-mercado-sinaliza-para-o",
-    "slug": "2026-09-23-bitcoin-em-sintonia-com-o-risco-global-o-que-o-mercado-sinaliza-para-o",
-    "title": "Bitcoin em sintonia com o risco global: o que o mercado sinaliza para o segundo semestre",
-    "category": "Criptomoedas",
-    "summary": "Entenda a correlação entre Bitcoin, volatilidade do dólar e expectativas de juros, e como ajustar sua exposição em criptoativos.",
-    "readTime": "6",
-    "tags": [
-      "Bitcoin",
-      "dólar"
-    ],
-    "date": "2026-09-23",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-23-acoes-de-dividendos-refugio-ou-armadilha-em-cenario-de-dolar-baixo",
-    "slug": "2026-09-23-acoes-de-dividendos-refugio-ou-armadilha-em-cenario-de-dolar-baixo",
-    "title": "Ações de dividendos: refúgio ou armadilha em cenário de dólar baixo",
-    "category": "Investimentos",
-    "summary": "Analise como a desvalorização do real impacta pagamentos de dividendos e quais setores oferecem sustentabilidade para investidores de renda.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "dólar baixo"
-    ],
-    "date": "2026-09-23",
     "breaking": false
   }
 ]
