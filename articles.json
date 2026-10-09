@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-10-09-selic-em-queda-o-que-esperar-do-ibovespa-e-do-seu-bolso",
+    "slug": "2026-10-09-selic-em-queda-o-que-esperar-do-ibovespa-e-do-seu-bolso",
+    "title": "Selic em queda: o que esperar do Ibovespa e do seu bolso",
+    "category": "Investimentos",
+    "summary": "Entenda como o corte da Selic afeta ações, renda fixa e decisões de investimento agora.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "Ibovespa"
+    ],
+    "date": "2026-10-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-09-tesouro-direto-rende-menos-onde-alocar-seu-dinheiro-agora",
+    "slug": "2026-10-09-tesouro-direto-rende-menos-onde-alocar-seu-dinheiro-agora",
+    "title": "Tesouro Direto rende menos: onde alocar seu dinheiro agora",
+    "category": "Renda Fixa",
+    "summary": "Descubra como a queda da Selic muda a rentabilidade dos títulos públicos e quais alternativas surgem.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro",
+      "Selic"
+    ],
+    "date": "2026-10-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-09-eleicao-2026-traz-cautela-ao-ibovespa-setores-que-podem-sofrer",
+    "slug": "2026-10-09-eleicao-2026-traz-cautela-ao-ibovespa-setores-que-podem-sofrer",
+    "title": "Eleição 2026 traz cautela ao Ibovespa: setores que podem sofrer",
+    "category": "Renda Variável",
+    "summary": "Veja quais indústrias são mais sensíveis ao risco político e como proteger sua carteira de ações neste ano eleitoral.",
+    "readTime": "5",
+    "tags": [
+      "eleição",
+      "Ibovespa"
+    ],
+    "date": "2026-10-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-09-como-organizar-suas-financas-com-juros-altos-e-credito-caro",
+    "slug": "2026-10-09-como-organizar-suas-financas-com-juros-altos-e-credito-caro",
+    "title": "Como organizar suas finanças com juros altos e crédito caro",
+    "category": "Saúde Financeira",
+    "summary": "Passos práticos para controlar dívidas, aumentar reserva de emergência e investir mesmo com Selic elevada.",
+    "readTime": "5",
+    "tags": [
+      "finanças pessoais",
+      "dívidas"
+    ],
+    "date": "2026-10-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-09-bitcoin-acompanha-o-risco-global-o-que-esperar-nos-proximos-meses",
+    "slug": "2026-10-09-bitcoin-acompanha-o-risco-global-o-que-esperar-nos-proximos-meses",
+    "title": "Bitcoin acompanha o risco global: o que esperar nos próximos meses",
+    "category": "Criptomoedas",
+    "summary": "Entenda a correlação entre Bitcoin, juros americanos e volatilidade do mercado tradicional, e como posicionar sua exposição.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-10-09",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-09-dividendos-em-alta-como-selecionar-acoes-que-pagam-bem-mesmo-com-juros",
+    "slug": "2026-10-09-dividendos-em-alta-como-selecionar-acoes-que-pagam-bem-mesmo-com-juros",
+    "title": "Dividendos em alta: como selecionar ações que pagam bem mesmo com juros baixos",
+    "category": "Investimentos",
+    "summary": "Aprenda a identificar empresas com política de remuneração atraente e sustentável em um ambiente de Selic em queda.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "ações"
+    ],
+    "date": "2026-10-09",
+    "breaking": false
+  },
+  {
     "id": "2026-10-07-selic-em-1425-e-expectativa-de-corte-o-que-esperar-do-ibovespa-e-do-do",
     "slug": "2026-10-07-selic-em-1425-e-expectativa-de-corte-o-que-esperar-do-ibovespa-e-do-do",
     "title": "Selic em 14,25% e expectativa de corte: o que esperar do Ibovespa e do dólar",
@@ -777,90 +861,6 @@
       "Selic"
     ],
     "date": "2026-09-30",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-29-ibovespa-sob-pressao-eleicoes-e-juros-altos-criam-cenario-de-cautela",
-    "slug": "2026-09-29-ibovespa-sob-pressao-eleicoes-e-juros-altos-criam-cenario-de-cautela",
-    "title": "Ibovespa sob pressão: eleições e juros altos criam cenário de cautela",
-    "category": "Investimentos",
-    "summary": "Entenda como a combinação de ciclo de corte da Selic, dólar fraco e ano eleitoral afeta o Ibovespa e quais setores podem sofrer menos.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic"
-    ],
-    "date": "2026-09-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-29-corte-da-selic-e-oportunidades-em-titulos-publicos-posfixados",
-    "slug": "2026-09-29-corte-da-selic-e-oportunidades-em-titulos-publicos-posfixados",
-    "title": "Corte da Selic e oportunidades em títulos públicos pós‑fixados",
-    "category": "Renda Fixa",
-    "summary": "Veja como a redução esperada da Selic afeta rentabilidade de Tesouro Direto e quais estratégias de renda fixa podem ganhar frente ao cenário atual.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto"
-    ],
-    "date": "2026-09-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-29-setores-que-podem-se-beneficiar-do-ano-eleitoral-apesar-da-volatilidad",
-    "slug": "2026-09-29-setores-que-podem-se-beneficiar-do-ano-eleitoral-apesar-da-volatilidad",
-    "title": "Setores que podem se beneficiar do ano eleitoral apesar da volatilidade",
-    "category": "Renda Variável",
-    "summary": "Descubra quais indústrias tendem a receber estímulos fiscais ou regulatórios em anos de eleição e como posicionar sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "eleições",
-      "setores"
-    ],
-    "date": "2026-09-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-29-como-proteger-seu-orcamento-com-selic-alta-e-dolar-em-queda",
-    "slug": "2026-09-29-como-proteger-seu-orcamento-com-selic-alta-e-dolar-em-queda",
-    "title": "Como proteger seu orçamento com Selic alta e dólar em queda",
-    "category": "Saúde Financeira",
-    "summary": "Dicas práticas para administrar dívidas, reservas e investimentos pessoais diante de juros elevados e câmbio favorável.",
-    "readTime": "5",
-    "tags": [
-      "orçamento",
-      "dívidas"
-    ],
-    "date": "2026-09-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-29-bitcoin-e-altcoins-seguem-a-volatilidade-global-o-que-esperar-em-setem",
-    "slug": "2026-09-29-bitcoin-e-altcoins-seguem-a-volatilidade-global-o-que-esperar-em-setem",
-    "title": "Bitcoin e altcoins seguem a volatilidade global: o que esperar em setembro",
-    "category": "Criptomoedas",
-    "summary": "Analise a correlação entre criptoativos e mercados tradicionais diante da queda do dólar e das expectativas de corte de juros.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-09-29",
-    "breaking": false
-  },
-  {
-    "id": "2026-09-29-etfs-de-dividendos-ganham-espaco-diante-de-juros-elevados-e-busca-por-",
-    "slug": "2026-09-29-etfs-de-dividendos-ganham-espaco-diante-de-juros-elevados-e-busca-por-",
-    "title": "ETFs de dividendos ganham espaço diante de juros elevados e busca por renda passiva",
-    "category": "Investimentos",
-    "summary": "Veja como os ETFs focados em dividendos podem oferecer fluxo de caixa estável mesmo com Selic alta e como escolher os melhores para sua carteira.",
-    "readTime": "5",
-    "tags": [
-      "ETFs",
-      "dividendos"
-    ],
-    "date": "2026-09-29",
     "breaking": false
   }
 ]
