@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-10-12-selic-em-queda-como-o-corte-de-1425-afeta-suas-aplicacoes-agora",
+    "slug": "2026-10-12-selic-em-queda-como-o-corte-de-1425-afeta-suas-aplicacoes-agora",
+    "title": "Selic em queda: como o corte de 14,25% afeta suas aplicações agora",
+    "category": "Investimentos",
+    "summary": "O Comitê de Política Monetária reduziu a Selic para 14,25% ao ano, iniciando um ciclo de cortes que já movimenta renda fixa e variável. Entenda quais ativos ganham ou perdem com juros mais baixos e como repositionar sua carteira agora.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa",
+      "ações"
+    ],
+    "date": "2026-10-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-12-tesouro-direto-posfixado-rendimentos-em-queda-e-estrategias-para-2026",
+    "slug": "2026-10-12-tesouro-direto-posfixado-rendimentos-em-queda-e-estrategias-para-2026",
+    "title": "Tesouro Direto pós‑fixado: rendimentos em queda e estratégias para 2026",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em trajetória de baixa, os títulos pós‑fixados do Tesouro Direto pagam menos do que antes. Veja como montar uma escada de vencimentos e proteger seu poder de compra diante da mudança de juros.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "Selic",
+      "ladder"
+    ],
+    "date": "2026-10-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-12-ibovespa-volatil-e-ano-eleitoral-o-que-esperar-das-acoes-em-2026",
+    "slug": "2026-10-12-ibovespa-volatil-e-ano-eleitoral-o-que-esperar-das-acoes-em-2026",
+    "title": "Ibovespa volátil e ano eleitoral: o que esperar das ações em 2026",
+    "category": "Renda Variável",
+    "summary": "O Ibovespa gira em torno de 176.000 pontos com volatilidade elevada, enquanto o cenário eleitoral gera cautela entre investidores. Descubra quais setores tendem a se destacar e como proteger sua exposição em momentos de incerteza.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições",
+      "volatilidade"
+    ],
+    "date": "2026-10-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-12-financas-pessoais-em-tempos-de-juros-altos-dicas-para-proteger-seu-orc",
+    "slug": "2026-10-12-financas-pessoais-em-tempos-de-juros-altos-dicas-para-proteger-seu-orc",
+    "title": "Finanças pessoais em tempos de juros altos: dicas para proteger seu orçamento",
+    "category": "Saúde Financeira",
+    "summary": "Com a Selic ainda em nível elevado, dívidas mais caras pesam no orçamento familiar. Aprenda a priorizar pagamentos, construir reserva de emergência e usar os juros a seu favor ao poupar.",
+    "readTime": "5",
+    "tags": [
+      "orçamento",
+      "dívidas",
+      "reserva de emergência"
+    ],
+    "date": "2026-10-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-12-bitcoin-e-criptos-seguem-a-volatilidade-global-o-que-o-investidor-prec",
+    "slug": "2026-10-12-bitcoin-e-criptos-seguem-a-volatilidade-global-o-que-o-investidor-prec",
+    "title": "Bitcoin e criptos seguem a volatilidade global: o que o investidor precisa saber",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin tem acompanhado as oscilações dos mercados de risco, reagindo a mudanças de política monetária e ao sentimento de aversão ao risco. Entenda como alocar essa classe de ativos sem comprometer a segurança da carteira.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade",
+      "alocação"
+    ],
+    "date": "2026-10-12",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-12-etfs-de-dividendos-ganham-espaco-diante-da-selic-em-baixa",
+    "slug": "2026-10-12-etfs-de-dividendos-ganham-espaco-diante-da-selic-em-baixa",
+    "title": "ETFs de dividendos ganham espaço diante da Selic em baixa",
+    "category": "Investimentos",
+    "summary": "Com juros em trajetória de descida, os ETFs que focam em dividendos atraem investidores que buscam renda passiva e potencial de valorização. Saiba como escolher o fundo certo e quais riscos observar.",
+    "readTime": "5",
+    "tags": [
+      "ETF",
+      "dividendos",
+      "Selic"
+    ],
+    "date": "2026-10-12",
+    "breaking": false
+  },
+  {
     "id": "2026-10-10-selic-em-corte-o-que-esperar-para-seus-investimentos-em-outubro",
     "slug": "2026-10-10-selic-em-corte-o-que-esperar-para-seus-investimentos-em-outubro",
     "title": "Selic em corte: o que esperar para seus investimentos em outubro",
@@ -775,90 +865,6 @@
     "tags": [
       "Dividendos",
       "Yield"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-ibovespa-perto-de-176-mil-enquanto-dolar-cai-e-selic-comeca-a-cair",
-    "slug": "2026-10-01-ibovespa-perto-de-176-mil-enquanto-dolar-cai-e-selic-comeca-a-cair",
-    "title": "Ibovespa perto de 176 mil enquanto dólar cai e Selic começa a cair",
-    "category": "Investimentos",
-    "summary": "Entenda como a combinação de Ibovespa forte, dólar em baixa e início do ciclo de cortes da Selic afeta suas aplicações e quais setores podem se beneficiar.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "Selic"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-com-selic-em-queda-titulos-publicos-oferecem-oportunidades-de-reinvest",
-    "slug": "2026-10-01-com-selic-em-queda-titulos-publicos-oferecem-oportunidades-de-reinvest",
-    "title": "Com Selic em queda, títulos públicos oferecem oportunidades de reinvestimento",
-    "category": "Renda Fixa",
-    "summary": "Aprenda como ajustar sua carteira de renda fixa diante do ciclo de cortes da Selic e quais estratégias podem preservar o poder de compra.",
-    "readTime": "5",
-    "tags": [
-      "renda fixa",
-      "títulos públicos"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-eleicoes-2026-como-o-risco-politico-pode-moldar-o-ibovespa-nos-proximo",
-    "slug": "2026-10-01-eleicoes-2026-como-o-risco-politico-pode-moldar-o-ibovespa-nos-proximo",
-    "title": "Eleições 2026: como o risco político pode moldar o Ibovespa nos próximos meses",
-    "category": "Renda Variável",
-    "summary": "Entenda quais setores são mais sensíveis ao cenário eleitoral e como proteger sua carteira de ações contra volatilidade política.",
-    "readTime": "5",
-    "tags": [
-      "eleições",
-      "IBOV"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-como-organizar-suas-financas-pessoais-com-juros-altos-e-credito-mais-b",
-    "slug": "2026-10-01-como-organizar-suas-financas-pessoais-com-juros-altos-e-credito-mais-b",
-    "title": "Como organizar suas finanças pessoais com juros altos e crédito mais barato",
-    "category": "Saúde Financeira",
-    "summary": "Dicas práticas para equilibrar dívidas, reserva de emergência e investimentos em um ambiente de Selic em queda mas ainda elevada.",
-    "readTime": "5",
-    "tags": [
-      "finanças pessoais",
-      "reserva de emergência"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-bitcoin-acompanha-a-volatilidade-global-e-testa-suporte-de-us-60-mil",
-    "slug": "2026-10-01-bitcoin-acompanha-a-volatilidade-global-e-testa-suporte-de-us-60-mil",
-    "title": "Bitcoin acompanha a volatilidade global e testa suporte de US$ 60 mil",
-    "category": "Criptomoedas",
-    "summary": "Veja como o movimento do dólar, dos juros americanos e do risco global influenciam o BTC e quais níveis observar agora.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "volatilidade"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-dividendos-em-alta-acoes-que-pagam-mais-de-6-ao-ano-e-como-avaliar-sua",
-    "slug": "2026-10-01-dividendos-em-alta-acoes-que-pagam-mais-de-6-ao-ano-e-como-avaliar-sua",
-    "title": "Dividendos em alta: ações que pagam mais de 6% ao ano e como avaliar sua sustentabilidade",
-    "category": "Investimentos",
-    "summary": "Descubra quais empresas estão distribuindo bons proventos e quais indicadores usar para evitar armadilhas de pagamento insustentável.",
-    "readTime": "5",
-    "tags": [
-      "dividendos",
-      "yield"
     ],
     "date": "2026-10-01",
     "breaking": false
