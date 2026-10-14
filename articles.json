@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-10-14-selic-em-queda-o-que-o-corte-de-1425-significa-para-suas-aplicacoes",
+    "slug": "2026-10-14-selic-em-queda-o-que-o-corte-de-1425-significa-para-suas-aplicacoes",
+    "title": "Selic em queda: o que o corte de 14,25% significa para suas aplicações",
+    "category": "Investimentos",
+    "summary": "O Banco Central reduziu a Selic para 14,25% ao ano, iniciando um ciclo de cortes. Entenda como isso afeta renda fixa, dólar e Ibovespa, e quais ajustes fazer na carteira.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-10-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-14-tesouro-direto-rende-mais-que-a-poupanca-mesmo-com-selic-em-baixa",
+    "slug": "2026-10-14-tesouro-direto-rende-mais-que-a-poupanca-mesmo-com-selic-em-baixa",
+    "title": "Tesouro Direto rende mais que a poupança mesmo com Selic em baixa",
+    "category": "Renda Fixa",
+    "summary": "Mesmo com a Selic em queda, os títulos do Tesouro Direto ainda superam a poupança em retornos reais. Veja quais indexados escolher para cada objetivo.",
+    "readTime": "5",
+    "tags": [
+      "Tesouro Direto",
+      "poupança"
+    ],
+    "date": "2026-10-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-14-ibovespa-volatil-como-navegar-entre-incerteza-eleitoral-e-corte-de-jur",
+    "slug": "2026-10-14-ibovespa-volatil-como-navegar-entre-incerteza-eleitoral-e-corte-de-jur",
+    "title": "Ibovespa volátil: como navegar entre incerteza eleitoral e corte de juros",
+    "category": "Renda Variável",
+    "summary": "O Ibovespa oscila perto de 176.000 pontos enquanto investidores digerem notícias fiscais e expectativas de novos cortes na Selic. Estratégias para controlar risco.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "eleições"
+    ],
+    "date": "2026-10-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-14-orcamento-familiar-como-proteger-suas-financas-com-inflacao-em-baixa",
+    "slug": "2026-10-14-orcamento-familiar-como-proteger-suas-financas-com-inflacao-em-baixa",
+    "title": "Orçamento familiar: como proteger suas finanças com inflação em baixa",
+    "category": "Saúde Financeira",
+    "summary": "Com o IPCA-15 mostrando desaceleração, é hora de revisar gastos fixos, renegociar dívidas e reservar para emergências sem comprometer o lifestyle.",
+    "readTime": "5",
+    "tags": [
+      "orçamento familiar",
+      "inflação"
+    ],
+    "date": "2026-10-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-14-bitcoin-segue-o-ritmo-global-volatilidade-baixa-mas-atencao-aos-gatilh",
+    "slug": "2026-10-14-bitcoin-segue-o-ritmo-global-volatilidade-baixa-mas-atencao-aos-gatilh",
+    "title": "Bitcoin segue o ritmo global: volatilidade baixa, mas atenção aos gatilhos macro",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin oscila em torno de US$ 27.000, refletindo a cautela dos investidores diante de dados de inflação americana e política de juros. O que observar nas próximas semanas.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-10-14",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-14-dividendos-em-alta-etfs-que-pagam-mais-que-a-poupanca-mesmo-com-juros-",
+    "slug": "2026-10-14-dividendos-em-alta-etfs-que-pagam-mais-que-a-poupanca-mesmo-com-juros-",
+    "title": "Dividendos em alta: ETFs que pagam mais que a poupança mesmo com juros em queda",
+    "category": "Investimentos",
+    "summary": "Com a Selic em trajetória de baixa, os ETFs focados em dividendos oferecem yields atrativos e menor volatilidade que ações individuais. Veja quais escolher.",
+    "readTime": "5",
+    "tags": [
+      "ETF",
+      "dividendos"
+    ],
+    "date": "2026-10-14",
+    "breaking": false
+  },
+  {
     "id": "2026-10-12-selic-em-queda-como-o-corte-de-1425-afeta-suas-aplicacoes-agora",
     "slug": "2026-10-12-selic-em-queda-como-o-corte-de-1425-afeta-suas-aplicacoes-agora",
     "title": "Selic em queda: como o corte de 14,25% afeta suas aplicações agora",
@@ -783,90 +867,6 @@
       "Mercado"
     ],
     "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-selic-em-queda-como-o-ibovespa-reage-e-o-que-investir-agora",
-    "slug": "2026-10-01-selic-em-queda-como-o-ibovespa-reage-e-o-que-investir-agora",
-    "title": "Selic em queda: como o Ibovespa reage e o que investir agora",
-    "category": "Investimentos",
-    "summary": "Com a Selic em 14,25% e indicativos de novos cortes, o Ibovespa mostra sinais de recuperação após a volatilidade de maio. Entenda quais setores se beneficiam e como ajustar sua carteira para capturar oportunidades de médio prazo.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Ibovespa"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-tesouro-selic-x-cdb-onde-guardar-seu-dinheiro-com-selic-em-queda",
-    "slug": "2026-10-01-tesouro-selic-x-cdb-onde-guardar-seu-dinheiro-com-selic-em-queda",
-    "title": "Tesouro Selic x CDB: onde guardar seu dinheiro com Selic em queda",
-    "category": "Renda Fixa",
-    "summary": "Tesouro Selic e CDBs são as opções mais líquides para quem busca rentabilidade próxima da taxa básica. Veja como comparar segurança, liquidez e spread em um cenário de juros em queda.",
-    "readTime": "5",
-    "tags": [
-      "Tesouro Selic",
-      "CDB"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-ano-eleitoral-e-volatilidade-setores-que-podem-surpreender-no-ibovespa",
-    "slug": "2026-10-01-ano-eleitoral-e-volatilidade-setores-que-podem-surpreender-no-ibovespa",
-    "title": "Ano eleitoral e volatilidade: setores que podem surpreender no Ibovespa",
-    "category": "Renda Variável",
-    "summary": "Em ano eleitoral, o Ibovespa costuma ficar volátil, mas setores como construção e varejo tendem a receber estímulos públicos. Descubra onde focar sua atenção para aproveitar possíveis reações positivas do mercado.",
-    "readTime": "5",
-    "tags": [
-      "Eleições 2026",
-      "Setores"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-como-proteger-seu-orcamento-quando-a-selic-ainda-esta-alta",
-    "slug": "2026-10-01-como-proteger-seu-orcamento-quando-a-selic-ainda-esta-alta",
-    "title": "Como proteger seu orçamento quando a Selic ainda está alta",
-    "category": "Saúde Financeira",
-    "summary": "Mesmo com a Selic alta, é possível proteger o orçamento reduzindo dívidas caras e ajustando hábitos de consumo. Confira dicas práticas para equilibrar contas e construir reserva de segurança.",
-    "readTime": "5",
-    "tags": [
-      "Orçamento",
-      "Dívida"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-bitcoin-segue-o-ritmo-do-risco-global-e-testa-suporte-de-us-60-mil",
-    "slug": "2026-10-01-bitcoin-segue-o-ritmo-do-risco-global-e-testa-suporte-de-us-60-mil",
-    "title": "Bitcoin segue o ritmo do risco global e testa suporte de US$ 60 mil",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin segue o movimento de risco global, testando níveis de suporte importantes diante da força do dólar e dos juros americanos. Entenda o que esperar nos próximos dias e como operar com mais segurança.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "VIX"
-    ],
-    "date": "2026-10-01",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-01-dividendos-em-alta-acoes-que-pagam-acima-de-6-ao-ano-mesmo-com-juros-b",
-    "slug": "2026-10-01-dividendos-em-alta-acoes-que-pagam-acima-de-6-ao-ano-mesmo-com-juros-b",
-    "title": "Dividendos em alta: ações que pagam acima de 6% ao ano mesmo com juros baixos",
-    "category": "Investimentos",
-    "summary": "Com juros em queda, ações que pagam bons dividendos voltam a atrair investidores em busca de renda passiva. Saiba quais setores oferecem yield acima de 6% e como montar uma carteira equilibrada.",
-    "readTime": "5",
-    "tags": [
-      "Dividendos",
-      "Yield"
-    ],
-    "date": "2026-10-01",
     "breaking": false
   }
 ]
