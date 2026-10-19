@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-10-19-ibovespa-perto-de-176-mil-pontos-o-que-esperar-com-eleicao-e-juros-em-",
+    "slug": "2026-10-19-ibovespa-perto-de-176-mil-pontos-o-que-esperar-com-eleicao-e-juros-em-",
+    "title": "Ibovespa perto de 176 mil pontos: o que esperar com eleição e juros em queda",
+    "category": "Investimentos",
+    "summary": "O índice está próximo de 176 mil enquanto o dólar cai e a Selic começa a ser reduzida. Neste artigo, entenda como o cenário eleitoral e o ciclo de corte de juros podem afetar suas aplicações em ações.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "Selic"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-selic-em-ciclo-de-corte-como-proteger-sua-renda-fixa-diante-da-inflaca",
+    "slug": "2026-10-19-selic-em-ciclo-de-corte-como-proteger-sua-renda-fixa-diante-da-inflaca",
+    "title": "Selic em ciclo de corte: como proteger sua renda fixa diante da inflação",
+    "category": "Renda Fixa",
+    "summary": "Com a Selic em 14,25% e indicativos de redução, os investidores de renda fixa precisam reavaliar estratégias. Veja quais títulos são mais adequados neste ambiente de juros em queda e inflação monitorada.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-volatilidade-de-maio-e-risco-eleitoral-navegar-no-ibovespa-com-cautela",
+    "slug": "2026-10-19-volatilidade-de-maio-e-risco-eleitoral-navegar-no-ibovespa-com-cautela",
+    "title": "Volatilidade de maio e risco eleitoral: navegar no Ibovespa com cautela",
+    "category": "Renda Variável",
+    "summary": "O mês de maio traz histórico de oscilações e, com eleições se aproximando, o mercado de ações fica mais sensível a notícias políticas. Aprenda a ajustar sua carteira para reduzir exposição a surpresas.",
+    "readTime": "5",
+    "tags": [
+      "volatilidade",
+      "eleição"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-saude-financeira-em-tempos-de-juros-altos-dicas-para-controlar-dividas",
+    "slug": "2026-10-19-saude-financeira-em-tempos-de-juros-altos-dicas-para-controlar-dividas",
+    "title": "Saúde financeira em tempos de juros altos: dicas para controlar dívidas e poupar",
+    "category": "Saúde Financeira",
+    "summary": "Com a Selic ainda em dois dígitos, empréstimos ficam caros e a poupança rende pouco. Descubra como equilibrar o pagamento de dívidas e a construção de reservas mesmo nesse ambiente desafiador.",
+    "readTime": "5",
+    "tags": [
+      "dívidas",
+      "poupança"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-para-o-segundo-sem",
+    "slug": "2026-10-19-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-para-o-segundo-sem",
+    "title": "Bitcoin em meio à volatilidade global: o que esperar para o segundo semestre",
+    "category": "Criptomoedas",
+    "summary": "O Bitcoin segue acompanhando as oscilações dos mercados de risco, influenciado por juros americanos e expectativas de regulatório. Veja quais fatores podem impulsionar ou pressionar a criptomoeda nos próximos meses.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "volatilidade"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-setores-que-podem-se-beneficiar-da-queda-do-dolar-e-dos-juros-em-baixa",
+    "slug": "2026-10-19-setores-que-podem-se-beneficiar-da-queda-do-dolar-e-dos-juros-em-baixa",
+    "title": "Setores que podem se beneficiar da queda do dólar e dos juros em baixa",
+    "category": "Investimentos",
+    "summary": "Com o dólar em baixa e expectativa de Selic mais baixa, alguns setores ganham vantagem competitiva. Saiba onde colocar o foco para potencializar retornos em carteiras de ações e fundos.",
+    "readTime": "5",
+    "tags": [
+      "dólar",
+      "setores"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
     "id": "2026-10-19-ibovespa-sob-pressao-dolar-baixo-e-selic-em-corte-afetam-acoes",
     "slug": "2026-10-19-ibovespa-sob-pressao-dolar-baixo-e-selic-em-corte-afetam-acoes",
     "title": "Ibovespa sob pressão: dólar baixo e Selic em corte afetam ações",
@@ -783,90 +867,6 @@
       "ação"
     ],
     "date": "2026-10-05",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-ibovespa-perto-de-176-mil-como-aproveitar-a-volatilidade-de-maio",
-    "slug": "2026-10-02-ibovespa-perto-de-176-mil-como-aproveitar-a-volatilidade-de-maio",
-    "title": "Ibovespa perto de 176 mil: como aproveitar a volatilidade de maio",
-    "category": "Investimentos",
-    "summary": "O Ibovespa está próximo de 176.000 pontos, refletindo a volatilidade de maio e a expectativa de cortes na Selic. Aprenda como posicionar sua carteira para aproveitar oportunidades em setores defensivos e se proteger da exposição cambial.",
-    "readTime": "5",
-    "tags": [
-      "Ibovespa",
-      "volatilidade"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-selic-em-1425-oportunidades-em-titulos-pos-fixados",
-    "slug": "2026-10-02-selic-em-1425-oportunidades-em-titulos-pos-fixados",
-    "title": "Selic em 14,25%: oportunidades em títulos pós-fixados",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic em 14,25% a.a., os títulos pós-fixados oferecem retornos atrativos e proteção contra a inflação. Descubra estratégias simples para alocar em Tesouro Selic, CDBs e montar uma escada de vencimentos.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Selic"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-ano-eleitoral-e-cautela-nas-acoes-onde-alocar-em-2026",
-    "slug": "2026-10-02-ano-eleitoral-e-cautela-nas-acoes-onde-alocar-em-2026",
-    "title": "Ano eleitoral e cautela nas ações: onde alocar em 2026",
-    "category": "Renda Variável",
-    "summary": "O ano eleitoral gera cautela no mercado de ações, fazendo investidores buscarem setores menos sensíveis à política. Veja quais setores defensivos e estratégias de valor podem ajudar a navegar esse período.",
-    "readTime": "5",
-    "tags": [
-      "eleitoral",
-      "ações defensivas"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-saude-financeira-controle-de-dividas-e-reserva-em-juros-altos",
-    "slug": "2026-10-02-saude-financeira-controle-de-dividas-e-reserva-em-juros-altos",
-    "title": "Saúde financeira: controle de dívidas e reserva em juros altos",
-    "category": "Saúde Financeira",
-    "summary": "Com juros altos, controlar dívidas caras e construir uma reserva de emergência são passos essenciais para a saúde financeira. Aprenda a priorizar pagamentos e onde aplicar sua reserva de forma segura.",
-    "readTime": "5",
-    "tags": [
-      "dívidas",
-      "reserva de emergência"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-bitcoin-segue-o-ritmo-global-volatilidade-e-perspectiva-regulatoria",
-    "slug": "2026-10-02-bitcoin-segue-o-ritmo-global-volatilidade-e-perspectiva-regulatoria",
-    "title": "Bitcoin segue o ritmo global: volatilidade e perspectiva regulatória",
-    "category": "Criptomoedas",
-    "summary": "O Bitcoin segue a volatilidade dos mercados globais, enquanto discussões regulatórias adicionam incerteza de curto prazo. Entenda como equilibrar exposição e manter uma perspectiva de longo prazo para a criptomoeda.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "regulamentação"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-etfs-de-dividendos-alternativa-estavel-diante-da-queda-do-dolar",
-    "slug": "2026-10-02-etfs-de-dividendos-alternativa-estavel-diante-da-queda-do-dolar",
-    "title": "ETFs de dividendos: alternativa estável diante da queda do dólar",
-    "category": "Investimentos",
-    "summary": "ETFs de dividendos oferecem renda passiva e menor sensibilidade à cambial, especialmente com o dólar em baixa. Saiba como escolher os fundos certos e integrá-los à sua carteira de longo prazo.",
-    "readTime": "5",
-    "tags": [
-      "ETFs",
-      "dividendos"
-    ],
-    "date": "2026-10-02",
     "breaking": false
   }
 ]
