@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-10-19-ibovespa-sob-pressao-dolar-baixo-e-selic-em-corte-afetam-acoes",
+    "slug": "2026-10-19-ibovespa-sob-pressao-dolar-baixo-e-selic-em-corte-afetam-acoes",
+    "title": "Ibovespa sob pressão: dólar baixo e Selic em corte afetam ações",
+    "category": "Investimentos",
+    "summary": "Entenda como a queda do dólar para R$ 4,91 e o ciclo de corte da Selic influenciam o Ibovespa e quais setores devem ser priorizados por investidores de renda variável.",
+    "readTime": "5",
+    "tags": [
+      "Ibovespa",
+      "dólar",
+      "Selic"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-selic-em-queda-como-posicionar-sua-renda-fixa-em-2026",
+    "slug": "2026-10-19-selic-em-queda-como-posicionar-sua-renda-fixa-em-2026",
+    "title": "Selic em queda: como posicionar sua renda fixa em 2026",
+    "category": "Renda Fixa",
+    "summary": "Veja como os novos cortes na Selic afetam títulos pós-fixados e descubra estratégias para proteger a rentabilidade da sua renda fixa.",
+    "readTime": "5",
+    "tags": [
+      "Selic",
+      "renda fixa",
+      "LCI"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-volatilidade-eleitoral-e-oportunidades-no-ibovespa",
+    "slug": "2026-10-19-volatilidade-eleitoral-e-oportunidades-no-ibovespa",
+    "title": "Volatilidade eleitoral e oportunidades no Ibovespa",
+    "category": "Renda Variável",
+    "summary": "Saiba como o ano eleitoral aumenta a volatilidade do mercado e quais setores podem oferecer boas oportunidades apesar da incerteza política.",
+    "readTime": "5",
+    "tags": [
+      "eleições",
+      "Ibovespa",
+      "setores"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-como-proteger-seu-orcamento-diante-da-inflacao-persistente",
+    "slug": "2026-10-19-como-proteger-seu-orcamento-diante-da-inflacao-persistente",
+    "title": "Como proteger seu orçamento diante da inflação persistente",
+    "category": "Saúde Financeira",
+    "summary": "Aprenda a ajustar seu orçamento familiar frente à inflação ainda elevada, usando hábitos simples que mantêm o equilíbrio financeiro.",
+    "readTime": "5",
+    "tags": [
+      "inflação",
+      "orçamento",
+      "finanças pessoais"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-agora",
+    "slug": "2026-10-19-bitcoin-em-meio-a-volatilidade-global-o-que-esperar-agora",
+    "title": "Bitcoin em meio à volatilidade global: o que esperar agora?",
+    "category": "Criptomoedas",
+    "summary": "Entenda a relação entre a volatilidade do Bitcoin, o dólar fraco e o ciclo de juros nos EUA, e descubra como posicionar sua exposição às criptomoedas.",
+    "readTime": "5",
+    "tags": [
+      "Bitcoin",
+      "criptomoedas",
+      "volatilidade"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
+    "id": "2026-10-19-dividendos-em-alta-como-construir-uma-renda-passiva-resiliente",
+    "slug": "2026-10-19-dividendos-em-alta-como-construir-uma-renda-passiva-resiliente",
+    "title": "Dividendos em alta: como construir uma renda passiva resiliente",
+    "category": "Investimentos",
+    "summary": "Descubra como selecionar ações com dividendos sustentáveis para gerar renda passiva mesmo em ambiente de juros elevados e volatilidade cambial.",
+    "readTime": "5",
+    "tags": [
+      "dividendos",
+      "renda passiva",
+      "ações"
+    ],
+    "date": "2026-10-19",
+    "breaking": false
+  },
+  {
     "id": "2026-10-14-selic-em-queda-o-que-o-corte-de-1425-significa-para-suas-aplicacoes",
     "slug": "2026-10-14-selic-em-queda-o-que-o-corte-de-1425-significa-para-suas-aplicacoes",
     "title": "Selic em queda: o que o corte de 14,25% significa para suas aplicações",
@@ -775,96 +865,6 @@
     "tags": [
       "ETFs",
       "dividendos"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
-    "slug": "2026-10-02-dolar-a-r-491-oportunidade-de-compra-ou-sinal-de-alerta",
-    "title": "Dólar a R$ 4,91: Oportunidade de Compra ou Sinal de Alerta?",
-    "category": "Investimentos",
-    "summary": "A moeda americana atingiu o menor nível em dois anos. Analisamos se este é o momento de dolarizar a carteira ou se a tendência de queda persiste.",
-    "readTime": "4",
-    "tags": [
-      "Dólar",
-      "Diversificação",
-      "Câmbio"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-selic-a-1425-como-ajustar-sua-carteira-no-ciclo-de-corte",
-    "slug": "2026-10-02-selic-a-1425-como-ajustar-sua-carteira-no-ciclo-de-corte",
-    "title": "Selic a 14,25%: Como Ajustar sua Carteira no Ciclo de Corte",
-    "category": "Renda Fixa",
-    "summary": "Com a Selic iniciando sua trajetória de queda, os títulos prefixados e indexados ao IPCA ganham protagonismo. Aprenda a migrar seus recursos.",
-    "readTime": "5",
-    "tags": [
-      "Selic",
-      "Tesouro Direto",
-      "Renda Fixa"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-ibovespa-a-176k-o-dilema-do-ano-eleitoral",
-    "slug": "2026-10-02-ibovespa-a-176k-o-dilema-do-ano-eleitoral",
-    "title": "Ibovespa a 176k: O Dilema do Ano Eleitoral",
-    "category": "Renda Variável",
-    "summary": "O mercado oscila entre a euforia dos pontos altos e a cautela política. Entenda quais setores tendem a resistir melhor à volatilidade.",
-    "readTime": "6",
-    "tags": [
-      "Ibovespa",
-      "Ações",
-      "Eleições"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-inflacao-no-radar-como-proteger-seu-poder-de-compra",
-    "slug": "2026-10-02-inflacao-no-radar-como-proteger-seu-poder-de-compra",
-    "title": "Inflação no Radar: Como Proteger seu Poder de Compra",
-    "category": "Saúde Financeira",
-    "summary": "Com a inflação sob vigilância, a gestão do orçamento doméstico torna-se vital. Dicas práticas para evitar a erosão do seu salário.",
-    "readTime": "4",
-    "tags": [
-      "IPCA",
-      "Orçamento",
-      "Economia"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-bitcoin-e-a-nova-ordem-volatilidade-ou-amadurecimento",
-    "slug": "2026-10-02-bitcoin-e-a-nova-ordem-volatilidade-ou-amadurecimento",
-    "title": "Bitcoin e a Nova Ordem: Volatilidade ou Amadurecimento?",
-    "category": "Criptomoedas",
-    "summary": "As criptomoedas seguem a tendência global de risco. Analisamos se o cenário atual favorece a entrada de novos investidores.",
-    "readTime": "5",
-    "tags": [
-      "Bitcoin",
-      "Cripto",
-      "Blockchain"
-    ],
-    "date": "2026-10-02",
-    "breaking": false
-  },
-  {
-    "id": "2026-10-02-o-plano-de-acao-para-outubro-onde-colocar-seu-dinheiro",
-    "slug": "2026-10-02-o-plano-de-acao-para-outubro-onde-colocar-seu-dinheiro",
-    "title": "O Plano de Ação para Outubro: Onde Colocar seu Dinheiro",
-    "category": "Investimentos",
-    "summary": "Um resumo executivo das melhores movimentações para o mês, equilibrando risco, liquidez e rentabilidade.",
-    "readTime": "4",
-    "tags": [
-      "Estratégia",
-      "Carteira",
-      "Mercado"
     ],
     "date": "2026-10-02",
     "breaking": false
